@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2080122805798965442",
+    "created_at": "2026-07-23T08:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080203923378295094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2074535457879134208",
+          "start": 0,
+          "username": "FoxShiro549"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080203923378295094",
+    "in_reply_to_user_id": "2074535457879134208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080182758345740445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxShiro549 嘿嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2080122805798965442",
+        "created_at": "2026-07-23T08:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080203923378295094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2074535457879134208",
+              "start": 0,
+              "username": "FoxShiro549"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080203923378295094",
+        "in_reply_to_user_id": "2074535457879134208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080182758345740445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxShiro549 嘿嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074535457879134208",
+        "conversation_id": "2080122805798965442",
+        "created_at": "2026-07-23T06:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080182758345740445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080182758345740445",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080122863911072215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 原来是自己的字！好可爱的风格～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079997105410592768/s87Ya-m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 353,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1269
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-07T16:47:02.000Z",
+        "description": "称呼：阿诚 ＞𐋣＜\n男生 | INFJ | 声控 | 守序邪恶 | \n| 我人很好，欢迎私信 | \n荤素不忌都可聊\n欢迎私我～看到会回复～fo会回关～\n起个蓝标防暴毙\n可能会投喂私信我的小可爱\n前世@FoxMox549\n我死的莫名其妙 (˶ｰ`֊´ｰ)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 99,
+                "username": "FoxMox549"
+              }
+            ]
+          }
+        },
+        "id": "2074535457879134208",
+        "name": "Shiro",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077127855968763904/CwwXORd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 37,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "FoxShiro549",
+        "verified": true
+      }
+    ]
+  }
+}

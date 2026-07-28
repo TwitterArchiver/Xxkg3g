@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064707172215255040"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2064707175746855098",
+    "created_at": "2026-06-10T13:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T14:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064707175746855098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PwhbtAU4r0",
+          "end": 32,
+          "expanded_url": "https://x.com/Xxkg3g/status/2064707175746855098/photo/1",
+          "media_key": "3_2064707172215255040",
+          "start": 9,
+          "url": "https://t.co/PwhbtAU4r0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064707175746855098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你撒娇，我就投降 https://t.co/PwhbtAU4r0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064707172215255040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdQO90XcAAE1hq.jpg",
+        "width": 1966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064707172215255040"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2064707175746855098",
+        "created_at": "2026-06-10T13:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T14:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064707175746855098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PwhbtAU4r0",
+              "end": 32,
+              "expanded_url": "https://x.com/Xxkg3g/status/2064707175746855098/photo/1",
+              "media_key": "3_2064707172215255040",
+              "start": 9,
+              "url": "https://t.co/PwhbtAU4r0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064707175746855098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你撒娇，我就投降 https://t.co/PwhbtAU4r0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 242,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 487
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

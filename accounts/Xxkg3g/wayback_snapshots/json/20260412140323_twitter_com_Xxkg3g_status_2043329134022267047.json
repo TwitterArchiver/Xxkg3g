@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2043309919114567703",
+    "created_at": "2026-04-12T14:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043329134022267047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1987074621280260096",
+          "start": 0,
+          "username": "LillaVirts23519"
+        },
+        {
+          "end": 27,
+          "id": "2036459029237833728",
+          "start": 17,
+          "username": "HMiku2333"
+        },
+        {
+          "end": 38,
+          "id": "1589235830731997188",
+          "start": 28,
+          "username": "PWaterawa"
+        },
+        {
+          "end": 52,
+          "id": "1691090887424819200",
+          "start": 39,
+          "username": "Bandim77SAYA"
+        },
+        {
+          "end": 65,
+          "id": "1500855672480489475",
+          "start": 53,
+          "username": "Science_010"
+        },
+        {
+          "end": 75,
+          "id": "1677549435662880769",
+          "start": 66,
+          "username": "se7enqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043329134022267047",
+    "in_reply_to_user_id": "1987074621280260096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043309919114567703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LillaVirts23519 @HMiku2333 @PWaterawa @Bandim77SAYA @Science_010 @se7enqwq 蹲(&gt;﹏&lt;)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043309912357531648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtLihQa8AAEAy4.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2043309919114567703",
+        "created_at": "2026-04-12T14:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043329134022267047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987074621280260096",
+              "start": 0,
+              "username": "LillaVirts23519"
+            },
+            {
+              "end": 27,
+              "id": "2036459029237833728",
+              "start": 17,
+              "username": "HMiku2333"
+            },
+            {
+              "end": 38,
+              "id": "1589235830731997188",
+              "start": 28,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 52,
+              "id": "1691090887424819200",
+              "start": 39,
+              "username": "Bandim77SAYA"
+            },
+            {
+              "end": 65,
+              "id": "1500855672480489475",
+              "start": 53,
+              "username": "Science_010"
+            },
+            {
+              "end": 75,
+              "id": "1677549435662880769",
+              "start": 66,
+              "username": "se7enqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043329134022267047",
+        "in_reply_to_user_id": "1987074621280260096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043309919114567703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LillaVirts23519 @HMiku2333 @PWaterawa @Bandim77SAYA @Science_010 @se7enqwq 蹲(&gt;﹏&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043309912357531648"
+          ]
+        },
+        "author_id": "1987074621280260096",
+        "conversation_id": "2043309919114567703",
+        "created_at": "2026-04-12T12:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043309919114567703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 86,
+              "id": "2036459029237833728",
+              "start": 76,
+              "username": "HMiku2333"
+            },
+            {
+              "end": 105,
+              "id": "1589235830731997188",
+              "start": 95,
+              "username": "PWaterawa"
+            },
+            {
+              "end": 130,
+              "id": "1691090887424819200",
+              "start": 117,
+              "username": "Bandim77SAYA"
+            },
+            {
+              "end": 153,
+              "id": "1500855672480489475",
+              "start": 141,
+              "username": "Science_010"
+            },
+            {
+              "end": 172,
+              "id": "1677549435662880769",
+              "start": 163,
+              "username": "se7enqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gr5DRewTCZ",
+              "end": 198,
+              "expanded_url": "https://x.com/LillaVirts23519/status/2043309919114567703/photo/1",
+              "media_key": "3_2043309912357531648",
+              "start": 175,
+              "url": "https://t.co/gr5DRewTCZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043309919114567703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第二位没有关注我所以不算呀 我只查了关注和转帖 丢失二等奖这条评论的我随机抽一个吧可能会黑幕眼熟的嘿嘿\n本次抽出的5位中奖者（随机顺序）：Yuri‍ (@HMiku2333\n)  \n汐汐 (@PWaterawa\n)  \n半减7./ (@Bandim77SAYA\n)  \n卡塔丽娜 (@Science_010\n)  \n收敛水 (@se7enqwq\n) https://t.co/gr5DRewTCZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n不约不聊骚 私信都会回欢迎大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪在置顶 提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 140,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T08:28:03.000Z",
+        "description": "二棒｜泛性恋｜互fo请私会查成分 \n不约炮不聊骚不线下\n别问我未公开的任何信息\n喜欢有礼貌的",
+        "id": "1987074621280260096",
+        "location": "艾尔迪亚",
+        "name": "00",
+        "pinned_tweet_id": "2036840390612127899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005048584614674438/-sd0bBmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 324,
+          "like_count": 7649,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2168
+        },
+        "username": "LillaVirts23519",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-24T15:04:15.000Z",
+        "description": "MtF 🏳️‍⚧️| 无证 🍥:2025/6/15|药娘小资历 | 170 厘米 | 75公斤| 私信互fo | 不抽烟 | 不喝酒 |双相情感障碍|成分复杂|飞友|铁路迷",
+        "id": "2036459029237833728",
+        "name": "Yuri🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040544704404836352/A-REkNUV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 64,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 57
+        },
+        "username": "HMiku2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-06T12:38:50.000Z",
+        "description": "为何而可爱?为何而残酷?\n因爱因恶\n爱为何物?恶为何物?\n不知不知\nPS.会回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "helloworld.com",
+                "end": 23,
+                "expanded_url": "http://helloworld.com",
+                "start": 0,
+                "url": "https://t.co/alRx9jSJdp"
+              }
+            ]
+          }
+        },
+        "id": "1589235830731997188",
+        "location": "可爱的世界~也是残酷的世界…",
+        "name": "汐汐",
+        "pinned_tweet_id": "1917968098625548312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890021657315786753/VVAYoJBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1131,
+          "like_count": 2049,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 2573
+        },
+        "url": "https://t.co/alRx9jSJdp",
+        "username": "PWaterawa",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-14T14:14:30.000Z",
+        "description": "掉fo中。。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bandim77",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bandim77",
+                "start": 0,
+                "url": "https://t.co/VRdZQeaOxZ"
+              }
+            ]
+          }
+        },
+        "id": "1691090887424819200",
+        "location": "医院",
+        "name": "半减7./",
+        "pinned_tweet_id": "2019500786997461491",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041029480416976896/HMHe6nBg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 453,
+          "like_count": 3866,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 2464
+        },
+        "url": "https://t.co/VRdZQeaOxZ",
+        "username": "Bandim77SAYA",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游\n080519/男/173 65/前oder/术力口 平泽进/双/自我厌恶/cs2 gal/欢迎聊天/东方/疑似ENFP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 772,
+          "like_count": 3358,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 1732
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Science_010",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T05:25:41.000Z",
+        "description": "",
+        "id": "1677549435662880769",
+        "name": "收敛水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025199029995630592/oTrhRQQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 279,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 114
+        },
+        "username": "se7enqwq",
+        "verified": false
+      }
+    ]
+  }
+}

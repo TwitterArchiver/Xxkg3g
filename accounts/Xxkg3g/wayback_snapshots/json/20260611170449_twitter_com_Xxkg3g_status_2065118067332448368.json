@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065118067332448368",
+    "created_at": "2026-06-11T17:04:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:04:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065118067332448368"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 5,
+          "start": 0,
+          "tag": "第五人格"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Xxkg3g/status/…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/Xxkg3g/status/2044740076874445187",
+          "start": 14,
+          "url": "https://t.co/U0Jea7py8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065118067332448368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044740076874445187",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#第五人格 来找我玩吧。。 https://t.co/U0Jea7py8V"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065118067332448368",
+        "created_at": "2026-06-11T17:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T18:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065118067332448368"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "第五人格"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Xxkg3g/status/…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Xxkg3g/status/2044740076874445187",
+              "start": 14,
+              "url": "https://t.co/U0Jea7py8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065118067332448368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044740076874445187",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#第五人格 来找我玩吧。。 https://t.co/U0Jea7py8V"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2044739869621322065",
+        "created_at": "2026-04-16T11:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044740076874445187"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044740076874445187",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 507,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044739869621322065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我求你们了 和我玩第五吧。我管你是男是女是人是妖 会不会聊骚。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 245,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 505
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

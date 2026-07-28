@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065324889217851700",
+    "created_at": "2026-06-12T09:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065373190109728976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988653107916730374",
+          "start": 0,
+          "username": "sulikai227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065373190109728976",
+    "in_reply_to_user_id": "1988653107916730374",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065324889217851700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sulikai227 这踏马是个啥畜牲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065324889217851700",
+        "created_at": "2026-06-12T09:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065373190109728976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988653107916730374",
+              "start": 0,
+              "username": "sulikai227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065373190109728976",
+        "in_reply_to_user_id": "1988653107916730374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065324889217851700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sulikai227 这踏马是个啥畜牲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988653107916730374",
+        "conversation_id": "2065324889217851700",
+        "created_at": "2026-06-12T06:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065324889217851700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxkg3g/status/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/xxkg3g/status/2065292859113116098",
+              "start": 132,
+              "url": "https://t.co/d1kUirOKGo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065324889217851700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065292859113116098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我想起了为什么我现在这么不喜欢和男的深交。我的高中算是我们那顶级的了。但是班里的男的除了评论女生以外还给女老师造黄谣，偷拍女老师裙底，说一个拍了组正常写真的女同学拍完就和摄影师睡了但摄影师是那同学的女性朋友…就这样还在女朋友面前装的人模狗样立爱妻深情人设... https://t.co/d1kUirOKGo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 251,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 536
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T17:00:39.000Z",
+        "description": "已严肃拉拉🌈\nP 疯狂偏爱黑长直",
+        "id": "1988653107916730374",
+        "name": "susu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053577983420760064/bPzTAg7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 70,
+          "like_count": 1662,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 439
+        },
+        "username": "sulikai227",
+        "verified": false
+      }
+    ]
+  }
+}

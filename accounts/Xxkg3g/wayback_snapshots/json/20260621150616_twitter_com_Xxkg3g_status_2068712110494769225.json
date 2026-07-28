@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068710042556150000",
+    "created_at": "2026-06-21T15:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T16:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068712110494769225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2068360043045748736",
+          "start": 0,
+          "username": "hanbobo2u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068712110494769225",
+    "in_reply_to_user_id": "2068360043045748736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068710463492554952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanbobo2u ok那还说啥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068710042556150000",
+        "created_at": "2026-06-21T15:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T16:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068712110494769225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2068360043045748736",
+              "start": 0,
+              "username": "hanbobo2u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068712110494769225",
+        "in_reply_to_user_id": "2068360043045748736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068710463492554952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanbobo2u ok那还说啥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068360043045748736",
+        "conversation_id": "2068710042556150000",
+        "created_at": "2026-06-21T14:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068710463492554952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068710463492554952",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068710042556150000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 本来人就美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo\n我就一个哥哥@xiuyui1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "xiuyui1114"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 250,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 582
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-20T15:47:53.000Z",
+        "description": "",
+        "id": "2068360043045748736",
+        "name": "海底的派大星",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068364525095833600/4Hc_duWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 8,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "hanbobo2u",
+        "verified": false
+      }
+    ]
+  }
+}

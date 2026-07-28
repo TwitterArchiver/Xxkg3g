@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2045749191331450930",
+    "created_at": "2026-04-19T17:36:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T18:36:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045919449111564683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045881717492240384",
+          "start": 0,
+          "username": "Shshsbbbvd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045919449111564683",
+    "in_reply_to_user_id": "2045881717492240384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045914943761915985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shshsbbbvd 我真他妈求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2045749191331450930",
+        "created_at": "2026-04-19T17:36:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045919449111564683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045881717492240384",
+              "start": 0,
+              "username": "Shshsbbbvd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045919449111564683",
+        "in_reply_to_user_id": "2045881717492240384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045914943761915985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shshsbbbvd 我真他妈求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045881717492240384",
+        "conversation_id": "2045749191331450930",
+        "created_at": "2026-04-19T17:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T18:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045914943761915985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045914943761915985",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045749191331450930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我不骗穷只骗逼行不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "就这样傻福的活下去\n不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2045212150998904840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 182,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 252
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T15:07:43.000Z",
+        "description": "10男高 阿姨勿扰",
+        "id": "2045881717492240384",
+        "location": "兴义",
+        "name": "涛涛（找固炮）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045885700600717313/YzXhF9zg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "username": "Shshsbbbvd",
+        "verified": false
+      }
+    ]
+  }
+}

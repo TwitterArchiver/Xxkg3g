@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2043878992437252233",
+    "created_at": "2026-04-16T10:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044717721443881277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1557193023468883968",
+          "start": 0,
+          "username": "hsjvasha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044717721443881277",
+    "in_reply_to_user_id": "1557193023468883968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044079435369066784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsjvasha 还就来一次吧！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2043878992437252233",
+        "created_at": "2026-04-16T10:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044717721443881277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1557193023468883968",
+              "start": 0,
+              "username": "hsjvasha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044717721443881277",
+        "in_reply_to_user_id": "1557193023468883968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044079435369066784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsjvasha 还就来一次吧！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1557193023468883968",
+        "conversation_id": "2043878992437252233",
+        "created_at": "2026-04-14T15:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044079435369066784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044079435369066784",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043878992437252233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 去蛋仔派对里面旅游吧！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n喜欢碎碎念 会很烦。\n互fo直关/可以随时找我聊天(≧∇≦)\n不约不聊骚 私信骚扰不回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": " 提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 168,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-10T02:32:12.000Z",
+        "description": "^^神经病/被害妄想症/畏惧死亡/",
+        "id": "1557193023468883968",
+        "location": "地狱",
+        "name": "淡淡的。。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043926720580071426/mJZ_Jz9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 37,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 48
+        },
+        "username": "hsjvasha",
+        "verified": false
+      }
+    ]
+  }
+}

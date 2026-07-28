@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063626303270764544"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2063626412482003247",
+    "created_at": "2026-06-07T14:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063626412482003247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+          "display_url": "infinitetweet.me/interaction-ci…",
+          "end": 40,
+          "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "start": 17,
+          "status": 200,
+          "title": "Interaction Circle • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+          "url": "https://t.co/UzObMbhtl8"
+        },
+        {
+          "display_url": "pic.x.com/bRjfZa5u6r",
+          "end": 64,
+          "expanded_url": "https://x.com/Xxkg3g/status/2063626412482003247/photo/1",
+          "media_key": "3_2063626303270764544",
+          "start": 41,
+          "url": "https://t.co/bRjfZa5u6r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063626412482003247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的Twitter互动圈\n\n➡️ https://t.co/UzObMbhtl8 https://t.co/bRjfZa5u6r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2063626303270764544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKN5MHObQAAGOy7.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063626303270764544"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2063626412482003247",
+        "created_at": "2026-06-07T14:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063626412482003247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/UzObMbhtl8"
+            },
+            {
+              "display_url": "pic.x.com/bRjfZa5u6r",
+              "end": 64,
+              "expanded_url": "https://x.com/Xxkg3g/status/2063626412482003247/photo/1",
+              "media_key": "3_2063626303270764544",
+              "start": 41,
+              "url": "https://t.co/bRjfZa5u6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063626412482003247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/UzObMbhtl8 https://t.co/bRjfZa5u6r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 230,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 419
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2069399085031764332",
+    "created_at": "2026-06-23T13:02:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T14:02:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069405779988226403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1884465883470520324",
+          "start": 0,
+          "username": "kaim142701"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069405779988226403",
+    "in_reply_to_user_id": "1884465883470520324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069405123688948171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaim142701 我直接把你加上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2069399085031764332",
+        "created_at": "2026-06-23T13:02:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:02:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069405779988226403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1884465883470520324",
+              "start": 0,
+              "username": "kaim142701"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069405779988226403",
+        "in_reply_to_user_id": "1884465883470520324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069405123688948171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaim142701 我直接把你加上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884465883470520324",
+        "conversation_id": "2069399085031764332",
+        "created_at": "2026-06-23T13:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T14:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069405123688948171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069405123688948171",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069399085031764332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 那第二条呢老师"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 253,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T04:57:40.000Z",
+        "description": "俺不中嘞",
+        "id": "1884465883470520324",
+        "location": "Batu Ampar, Indonesia",
+        "name": "kaim",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971217276990013440/L3rgcLDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 73,
+          "like_count": 6484,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "kaim142701",
+        "verified": false
+      }
+    ]
+  }
+}

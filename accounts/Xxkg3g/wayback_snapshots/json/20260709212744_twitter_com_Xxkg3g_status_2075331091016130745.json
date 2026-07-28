@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2075248380523987161",
+    "created_at": "2026-07-09T21:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T22:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075331091016130745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1874496415436800002",
+          "start": 0,
+          "username": "whozikiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075331091016130745",
+    "in_reply_to_user_id": "1874496415436800002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075248380523987161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whozikiyo 超过一秒我就闹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2075248380523987161",
+        "created_at": "2026-07-09T21:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T22:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075331091016130745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1874496415436800002",
+              "start": 0,
+              "username": "whozikiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075331091016130745",
+        "in_reply_to_user_id": "1874496415436800002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075248380523987161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whozikiyo 超过一秒我就闹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874496415436800002",
+        "conversation_id": "2075248380523987161",
+        "created_at": "2026-07-09T15:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T16:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075248380523987161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075248380523987161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2495,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不管是朋友 还是喜欢的男生吧 超过两个小时没回我消息我就已经很难受了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 另一个我@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075188389863706624/6HVlXvmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 824,
+          "following_count": 325,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1094
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T16:42:37.000Z",
+        "description": "",
+        "id": "1874496415436800002",
+        "name": "我",
+        "pinned_tweet_id": "2070966832555503892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021645291599147010/D7eJy3r8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 117,
+          "like_count": 2343,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 1169
+        },
+        "url": "",
+        "username": "whozikiyo",
+        "verified": false
+      }
+    ]
+  }
+}

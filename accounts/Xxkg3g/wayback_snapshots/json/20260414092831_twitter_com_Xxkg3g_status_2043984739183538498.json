@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2043984466054656464",
+    "created_at": "2026-04-14T09:28:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:28:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043984739183538498"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043984739183538498",
+    "in_reply_to_user_id": "2040496801401425920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043984466054656464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽这他妈啥画质啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8200,
+        "height": 1280,
+        "media_key": "13_2043984284785295360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043984284785295360/img/-SSD3OdYPXu8QH1r.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043984284785295360/vid/avc1/320x568/l64XEFeEdXrL8-Lr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043984284785295360/vid/avc1/480x852/7FzGRDynVblunsN-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043984284785295360/vid/avc1/720x1280/5erj-GcafYCHJm8Z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043984284785295360/pl/SeHuqTLiEo5bcB-w.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2043984466054656464",
+        "created_at": "2026-04-14T09:28:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:28:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043984739183538498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043984739183538498",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043984466054656464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽这他妈啥画质啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043984284785295360"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2043984466054656464",
+        "created_at": "2026-04-14T09:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043984466054656464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fyjAq4dM9",
+              "end": 28,
+              "expanded_url": "https://x.com/Xxkg3g/status/2043984466054656464/video/1",
+              "media_key": "13_2043984284785295360",
+              "start": 5,
+              "url": "https://t.co/4fyjAq4dM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043984466054656464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "劲劲的！ https://t.co/4fyjAq4dM9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n喜欢碎碎念 会很烦。\n互fo直关/可以随时找我聊天(≧∇≦)\n不约不聊骚 私信骚扰不回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": " 提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 168,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 165
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2058445557970928127",
+    "created_at": "2026-05-24T07:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T08:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058445557970928127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/eweisi32/statu…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/eweisi32/status/2057860044692287608",
+          "start": 10,
+          "url": "https://t.co/hjK2MqLPpd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058445557970928127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057860044692287608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可不可以多爱我一点 https://t.co/hjK2MqLPpd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2058445557970928127",
+        "created_at": "2026-05-24T07:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058445557970928127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eweisi32/statu…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/eweisi32/status/2057860044692287608",
+              "start": 10,
+              "url": "https://t.co/hjK2MqLPpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058445557970928127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057860044692287608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可不可以多爱我一点 https://t.co/hjK2MqLPpd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933114395854610432",
+        "conversation_id": "2057851247084839219",
+        "created_at": "2026-05-22T16:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057860044692287608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057860044692287608",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057851247084839219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 养出了爱你的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n欢迎私信交朋友\n 不聊骚不约\n🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "骚扰我打钱",
+        "name": "灸",
+        "pinned_tweet_id": "2046098623302336698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 215,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "这里是一个乐子，一个oder，一个餐劵逼，一个神经病。互fo私信 接塔罗/雷诺曼占卜\n闺蜜@Xxkg3g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 45,
+                "username": "Xxkg3g"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/eweisi",
+                "end": 23,
+                "expanded_url": "https://ngl.link/eweisi",
+                "start": 0,
+                "url": "https://t.co/lrRktEWrfO"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "location": "想我打钱。",
+        "name": "蚀蛊",
+        "pinned_tweet_id": "2057422396618158207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056431426002644992/PRiFvwm__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 540,
+          "like_count": 1687,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 764
+        },
+        "url": "https://t.co/lrRktEWrfO",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

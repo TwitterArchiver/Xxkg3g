@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2064760129690403041",
+    "created_at": "2026-06-10T18:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T19:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064780485276963172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2064445837334474752",
+          "start": 0,
+          "username": "Alan2nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064780485276963172",
+    "in_reply_to_user_id": "2064445837334474752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064780208981643704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alan2nx 没错🤤🤤🤤好爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2064760129690403041",
+        "created_at": "2026-06-10T18:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064780485276963172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2064445837334474752",
+              "start": 0,
+              "username": "Alan2nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064780485276963172",
+        "in_reply_to_user_id": "2064445837334474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064780208981643704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alan2nx 没错🤤🤤🤤好爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064445837334474752",
+        "conversation_id": "2064760129690403041",
+        "created_at": "2026-06-10T18:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064780208981643704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064780208981643704",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064760129690403041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 很爽的控制欲…🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 244,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 502
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T20:34:32.000Z",
+        "description": "",
+        "id": "2064445837334474752",
+        "name": "Alan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064447547180281856/mz7xxVxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 56,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "username": "Alan2nx",
+        "verified": false
+      }
+    ]
+  }
+}

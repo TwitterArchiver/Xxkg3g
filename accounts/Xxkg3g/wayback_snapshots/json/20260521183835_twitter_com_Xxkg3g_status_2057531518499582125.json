@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2057531518499582125",
+    "created_at": "2026-05-21T18:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057531518499582125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1956597250286866432",
+          "start": 3,
+          "username": "AgentPuppy007"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057531518499582125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057275467963474301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AgentPuppy007: 一直刷推是因为没人给你发消息吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2057531518499582125",
+        "created_at": "2026-05-21T18:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057531518499582125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1956597250286866432",
+              "start": 3,
+              "username": "AgentPuppy007"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057531518499582125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057275467963474301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AgentPuppy007: 一直刷推是因为没人给你发消息吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956597250286866432",
+        "conversation_id": "2057275467963474301",
+        "created_at": "2026-05-21T01:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T02:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057275467963474301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057275467963474301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14995,
+          "like_count": 133,
+          "quote_count": 7,
+          "reply_count": 126,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一直刷推是因为没人给你发消息吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n欢迎私信交朋友\n 🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "骚扰我打钱",
+        "name": "灸",
+        "pinned_tweet_id": "2046098623302336698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 182,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T06:02:08.000Z",
+        "description": "梦想是谈一个大奶高壮肌肉男，每天睡醒埋在他胸里，幸幸福福生活一辈子。",
+        "id": "1956597250286866432",
+        "location": "不喜欢平胸的，不喜欢鸡儿黑的，不喜欢不做体毛管理的。",
+        "name": "特工小狗007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957446215932469248/wS3Tc93i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 60,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 162
+        },
+        "username": "AgentPuppy007",
+        "verified": false
+      }
+    ]
+  }
+}

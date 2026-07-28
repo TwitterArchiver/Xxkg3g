@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066088324146823168"
+      ],
+      "media_source_tweet_id": [
+        "2066088330698342405"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2066229938772967750",
+    "created_at": "2026-06-14T18:43:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T19:43:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066229938772967750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958390370355789825",
+          "start": 3,
+          "username": "imcutefate"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jz9SDbJTFi",
+          "end": 44,
+          "expanded_url": "https://x.com/imcutefate/status/2066088330698342405/photo/1",
+          "media_key": "3_2066088324146823168",
+          "start": 21,
+          "url": "https://t.co/Jz9SDbJTFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066229938772967750",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066088330698342405",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imcutefate: 返校心情 https://t.co/Jz9SDbJTFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2066088324146823168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw4YltagAAw9EK.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066088324146823168"
+          ],
+          "media_source_tweet_id": [
+            "2066088330698342405"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2066229938772967750",
+        "created_at": "2026-06-14T18:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066229938772967750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958390370355789825",
+              "start": 3,
+              "username": "imcutefate"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jz9SDbJTFi",
+              "end": 44,
+              "expanded_url": "https://x.com/imcutefate/status/2066088330698342405/photo/1",
+              "media_key": "3_2066088324146823168",
+              "start": 21,
+              "url": "https://t.co/Jz9SDbJTFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066229938772967750",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066088330698342405",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imcutefate: 返校心情 https://t.co/Jz9SDbJTFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066088324146823168"
+          ]
+        },
+        "author_id": "1958390370355789825",
+        "conversation_id": "2066088330698342405",
+        "created_at": "2026-06-14T09:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066088330698342405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jz9SDbJTFi",
+              "end": 28,
+              "expanded_url": "https://x.com/imcutefate/status/2066088330698342405/photo/1",
+              "media_key": "3_2066088324146823168",
+              "start": 5,
+              "url": "https://t.co/Jz9SDbJTFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066088330698342405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2883,
+          "like_count": 182,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "返校心情 https://t.co/Jz9SDbJTFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 246,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 503
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T04:47:15.000Z",
+        "description": "我是羊羊\n最爱的女孩@o65518kuguagua @yanyejilennon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "o65518kuguagua"
+              },
+              {
+                "end": 40,
+                "start": 26,
+                "username": "yanyejilennon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/imcutefate",
+                "end": 23,
+                "expanded_url": "https://ngl.link/imcutefate",
+                "start": 0,
+                "url": "https://t.co/2kzYAji3rI"
+              }
+            ]
+          }
+        },
+        "id": "1958390370355789825",
+        "name": "坏蛋自述",
+        "pinned_tweet_id": "2064285092349125026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050109355329208320/WgR-FfCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 70,
+          "like_count": 2696,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 1098
+        },
+        "url": "https://t.co/2kzYAji3rI",
+        "username": "imcutefate",
+        "verified": false
+      }
+    ]
+  }
+}

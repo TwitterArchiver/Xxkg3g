@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068006186561970573",
+    "created_at": "2026-06-19T16:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T17:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068012516009984298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809519299754958848",
+          "start": 0,
+          "username": "xiuyui1114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068012516009984298",
+    "in_reply_to_user_id": "1809519299754958848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068008192148431051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiuyui1114 彳亍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068006186561970573",
+        "created_at": "2026-06-19T16:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068012516009984298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809519299754958848",
+              "start": 0,
+              "username": "xiuyui1114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068012516009984298",
+        "in_reply_to_user_id": "1809519299754958848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068008192148431051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiuyui1114 彳亍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809519299754958848",
+        "conversation_id": "2068006186561970573",
+        "created_at": "2026-06-19T16:29:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T17:29:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068008192148431051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068008192148431051",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068006186561970573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 又寸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是一个精神病 我的朋友圈\n 碎碎念 欢迎互fo\n哥哥@xiuyui1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "xiuyui1114"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467,
+          "following_count": 248,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 544
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T09:26:50.000Z",
+        "description": "妹 @Xxkg3g",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "Xxkg3g"
+              }
+            ]
+          }
+        },
+        "id": "1809519299754958848",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061275309962567680/X3g7VkQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 7,
+          "like_count": 332,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "xiuyui1114",
+        "verified": false
+      }
+    ]
+  }
+}

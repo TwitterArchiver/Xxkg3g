@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2060354441321091521",
+    "created_at": "2026-05-29T17:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060420146364309626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769171984406241280",
+          "start": 0,
+          "username": "tong_chuyang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060420146364309626",
+    "in_reply_to_user_id": "1769171984406241280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060356133026730310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tong_chuyang 我没事的..只是遇到了点不太开心的事情૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2060354441321091521",
+        "created_at": "2026-05-29T17:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060420146364309626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769171984406241280",
+              "start": 0,
+              "username": "tong_chuyang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060420146364309626",
+        "in_reply_to_user_id": "1769171984406241280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060356133026730310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tong_chuyang 我没事的..只是遇到了点不太开心的事情૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769171984406241280",
+        "conversation_id": "2060354441321091521",
+        "created_at": "2026-05-29T13:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060356133026730310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060356133026730310",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060354441321091521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 抱抱你，怎么了🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念  🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 229,
+          "like_count": 164,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T01:21:20.000Z",
+        "description": "男的，缺爱b，请找我聊天好吗🥰",
+        "id": "1769171984406241280",
+        "name": "我没有良心",
+        "pinned_tweet_id": "2059374302559101258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775809871642009600/LymjfB2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 130,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 929
+        },
+        "username": "tong_chuyang",
+        "verified": false
+      }
+    ]
+  }
+}

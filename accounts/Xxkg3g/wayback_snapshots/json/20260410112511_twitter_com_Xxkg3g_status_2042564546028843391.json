@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042138284848246786"
+      ],
+      "media_source_tweet_id": [
+        "2042138301268947169"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042564546028843391",
+    "created_at": "2026-04-10T11:25:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T12:25:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042564546028843391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1948996653694025728",
+          "start": 3,
+          "username": "ruiwashiawase"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GUKU4lHOYM",
+          "end": 82,
+          "expanded_url": "https://x.com/ruiwashiawase/status/2042138301268947169/photo/1",
+          "media_key": "3_2042138284848246786",
+          "start": 59,
+          "url": "https://t.co/GUKU4lHOYM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042564546028843391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042138301268947169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruiwashiawase: =蕊^^\nle｜自残｜戒o中｜神经病碎碎念｜想和餐券小女孩互关捏｜在努力变好… https://t.co/GUKU4lHOYM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042138284848246786",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFch80qa8AI9A78.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042138284848246786"
+          ],
+          "media_source_tweet_id": [
+            "2042138301268947169"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042564546028843391",
+        "created_at": "2026-04-10T11:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:25:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042564546028843391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1948996653694025728",
+              "start": 3,
+              "username": "ruiwashiawase"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUKU4lHOYM",
+              "end": 82,
+              "expanded_url": "https://x.com/ruiwashiawase/status/2042138301268947169/photo/1",
+              "media_key": "3_2042138284848246786",
+              "start": 59,
+              "url": "https://t.co/GUKU4lHOYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042564546028843391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042138301268947169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruiwashiawase: =蕊^^\nle｜自残｜戒o中｜神经病碎碎念｜想和餐券小女孩互关捏｜在努力变好… https://t.co/GUKU4lHOYM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042138284848246786"
+          ]
+        },
+        "author_id": "1948996653694025728",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042138301268947169",
+        "created_at": "2026-04-09T07:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042138301268947169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GUKU4lHOYM",
+              "end": 63,
+              "expanded_url": "https://x.com/ruiwashiawase/status/2042138301268947169/photo/1",
+              "media_key": "3_2042138284848246786",
+              "start": 40,
+              "url": "https://t.co/GUKU4lHOYM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042138301268947169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 925,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "=蕊^^\nle｜自残｜戒o中｜神经病碎碎念｜想和餐券小女孩互关捏｜在努力变好… https://t.co/GUKU4lHOYM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n纯绿 不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "距离你5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 95,
+          "like_count": 60,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T06:39:54.000Z",
+        "description": "绚彩的世界和灰色的我",
+        "id": "1948996653694025728",
+        "name": "蕊",
+        "pinned_tweet_id": "2042138301268947169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041406929575317504/9NN6kRCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 54,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 103
+        },
+        "username": "ruiwashiawase",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2063639626968121672",
+    "created_at": "2026-06-07T16:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063661172633616609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2006896037412352000",
+          "start": 0,
+          "username": "plh1649513"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063661172633616609",
+    "in_reply_to_user_id": "2006896037412352000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063639626968121672",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plh1649513 不要不要🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2063639626968121672",
+        "created_at": "2026-06-07T16:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063661172633616609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2006896037412352000",
+              "start": 0,
+              "username": "plh1649513"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063661172633616609",
+        "in_reply_to_user_id": "2006896037412352000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063639626968121672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plh1649513 不要不要🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006896037412352000",
+        "conversation_id": "2063639626968121672",
+        "created_at": "2026-06-07T15:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063639626968121672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063639626968121672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在推特上写半天遗书结果全没了，是哭是笑呢，不写了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 234,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 422
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T01:12:08.000Z",
+        "description": "乙一笔下的青，川端康成笔下的雪\n不小心患上了文青病，会发点弱智推文，喜欢哲学,科幻,虚无主义，精神病患者在家休学中，Oder，fo互关",
+        "id": "2006896037412352000",
+        "location": "广东深圳",
+        "name": "睁眼也不一定能活",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063583607122477056/ztR7JATt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 236,
+          "like_count": 656,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 517
+        },
+        "username": "plh1649513",
+        "verified": false
+      }
+    ]
+  }
+}

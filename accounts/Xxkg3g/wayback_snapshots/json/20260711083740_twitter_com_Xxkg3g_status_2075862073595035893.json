@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2075860386113368302",
+    "created_at": "2026-07-11T08:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T09:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075862073595035893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839166397399838724",
+          "start": 0,
+          "username": "lngdenngnn24987"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075862073595035893",
+    "in_reply_to_user_id": "1839166397399838724",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075861953906638971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngdenngnn24987 (*≧ω≦)！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2075860386113368302",
+        "created_at": "2026-07-11T08:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075862073595035893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839166397399838724",
+              "start": 0,
+              "username": "lngdenngnn24987"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075862073595035893",
+        "in_reply_to_user_id": "1839166397399838724",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075861953906638971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngdenngnn24987 (*≧ω≦)！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839166397399838724",
+        "conversation_id": "2075860386113368302",
+        "created_at": "2026-07-11T08:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075861953906638971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075861953906638971",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075860386113368302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 你咋这么可爱。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 另一个我@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075188389863706624/6HVlXvmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 330,
+          "like_count": 371,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1131
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-26T04:53:45.000Z",
+        "description": "我喜欢我喜欢的人\n我不理你是因为你智力非常低下",
+        "id": "1839166397399838724",
+        "location": "距离你0.2km",
+        "name": "绫地宁宁",
+        "pinned_tweet_id": "1914352426859348184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879967900825710602/SyEM48ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 483,
+          "like_count": 101435,
+          "listed_count": 3,
+          "media_count": 77,
+          "tweet_count": 12393
+        },
+        "url": "",
+        "username": "lngdenngnn24987",
+        "verified": false
+      }
+    ]
+  }
+}

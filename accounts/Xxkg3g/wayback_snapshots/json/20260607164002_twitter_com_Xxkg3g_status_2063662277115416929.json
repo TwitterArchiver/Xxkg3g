@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2063646842735464798",
+    "created_at": "2026-06-07T16:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063662277115416929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2056969817400414208",
+          "start": 0,
+          "username": "9wvyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063662277115416929",
+    "in_reply_to_user_id": "2056969817400414208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063646842735464798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9wvyi 这踏马是什么傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2063646842735464798",
+        "created_at": "2026-06-07T16:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063662277115416929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2056969817400414208",
+              "start": 0,
+              "username": "9wvyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063662277115416929",
+        "in_reply_to_user_id": "2056969817400414208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063646842735464798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9wvyi 这踏马是什么傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056969817400414208",
+        "conversation_id": "2063646842735464798",
+        "created_at": "2026-06-07T15:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063646842735464798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/9wvyi/status/2…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/9wvyi/status/2063642889608216680",
+              "start": 140,
+              "url": "https://t.co/SEsHPccCd0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063646842735464798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063642889608216680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时跟他分手是因为这个傻逼太怂了，我从来没见过这样的男的，他那个兄弟大晚上给我发骚扰信息，说想操我什么的，我截屏给他发过去，跟我说可能是发错了，他兄弟其实现实人挺好，在学校有男的当着他的面跟我动手动脚，我气的要死，他连屁都不敢放一个，晚上微信跟我说他打不过那男的，让我绕着点他 https://t.co/SEsHPccCd0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 234,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 420
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T05:27:09.000Z",
+        "description": "私信随缘回 一般会回粉丝的\n讨厌我的，骂我的，我直接把咱俩照片p成结婚照，你气不气？",
+        "id": "2056969817400414208",
+        "name": "昕雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057107534696329217/6Vm8L-px_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 67,
+          "like_count": 2599,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 402
+        },
+        "username": "9wvyi",
+        "verified": false
+      }
+    ]
+  }
+}

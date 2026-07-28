@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2070944993553060056",
+    "created_at": "2026-06-27T19:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T20:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070958160958152958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1572130516610215937",
+          "start": 0,
+          "username": "Di8h5fkWZPAG6WF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070958160958152958",
+    "in_reply_to_user_id": "1572130516610215937",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070954643451166867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Di8h5fkWZPAG6WF 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2070944993553060056",
+        "created_at": "2026-06-27T19:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070958160958152958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1572130516610215937",
+              "start": 0,
+              "username": "Di8h5fkWZPAG6WF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070958160958152958",
+        "in_reply_to_user_id": "1572130516610215937",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070954643451166867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Di8h5fkWZPAG6WF 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572130516610215937",
+        "conversation_id": "2070944993553060056",
+        "created_at": "2026-06-27T19:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070954643451166867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070954643451166867",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070944993553060056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 这么晚洗头啊我去，容易头疼哦注意点还是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 276,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T07:48:27.000Z",
+        "description": "",
+        "id": "1572130516610215937",
+        "name": "白宇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070943914568331264/DzxYm-xW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 510,
+          "like_count": 390,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "Di8h5fkWZPAG6WF",
+        "verified": false
+      }
+    ]
+  }
+}

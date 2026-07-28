@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2069367754470146227",
+    "created_at": "2026-06-23T10:31:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:31:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069367754470146227"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Miiharukawa/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/Miiharukawa/status/2069086980697465236",
+          "start": 17,
+          "url": "https://t.co/xG8H2Rgqk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069367754470146227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069086980697465236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "被我哥看到过。当时想和他同归于尽 https://t.co/xG8H2Rgqk2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2069367754470146227",
+        "created_at": "2026-06-23T10:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069367754470146227"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miiharukawa/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Miiharukawa/status/2069086980697465236",
+              "start": 17,
+              "url": "https://t.co/xG8H2Rgqk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069367754470146227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069086980697465236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被我哥看到过。当时想和他同归于尽 https://t.co/xG8H2Rgqk2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2069086980697465236",
+        "created_at": "2026-06-22T15:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069086980697465236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069086980697465236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1824,
+          "like_count": 44,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你要是实在没段子发了，就把你给你前任发的小作文发出来，那个好笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 252,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 613
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Cooliyawa\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Cooliyawa"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一遥 遥一遥",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1934,
+          "following_count": 242,
+          "like_count": 9673,
+          "listed_count": 6,
+          "media_count": 434,
+          "tweet_count": 3688
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

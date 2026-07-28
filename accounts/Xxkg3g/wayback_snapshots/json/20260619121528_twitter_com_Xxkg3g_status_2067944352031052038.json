@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2067932826108932269",
+    "created_at": "2026-06-19T12:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067944352031052038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1806423246872674304",
+          "start": 0,
+          "username": "xybc2k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067944352031052038",
+    "in_reply_to_user_id": "1806423246872674304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067934113336594457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xybc2k 可以可以"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2067932826108932269",
+        "created_at": "2026-06-19T12:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067944352031052038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1806423246872674304",
+              "start": 0,
+              "username": "xybc2k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067944352031052038",
+        "in_reply_to_user_id": "1806423246872674304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067934113336594457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xybc2k 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806423246872674304",
+        "conversation_id": "2067932826108932269",
+        "created_at": "2026-06-19T11:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067934113336594457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067934113336594457",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067932826108932269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 没法过节才忧郁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 245,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 527
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T20:24:58.000Z",
+        "description": "Respect and peace. Enjoy the life and beauty.",
+        "id": "1806423246872674304",
+        "location": "Frankfurt on the Main, Germany",
+        "name": "Luckyrain",
+        "pinned_tweet_id": "2066966910416134459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066447932627234816/Eu63QoGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 68,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "xybc2k",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2044063805228101811",
+    "created_at": "2026-04-14T15:29:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T16:29:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044075634310426725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1892974219388194816",
+          "start": 0,
+          "username": "Fl68Re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044075634310426725",
+    "in_reply_to_user_id": "1892974219388194816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044072320852209790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fl68Re 宝宝🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2044063805228101811",
+        "created_at": "2026-04-14T15:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044075634310426725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1892974219388194816",
+              "start": 0,
+              "username": "Fl68Re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044075634310426725",
+        "in_reply_to_user_id": "1892974219388194816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044072320852209790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fl68Re 宝宝🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892974219388194816",
+        "conversation_id": "2044063805228101811",
+        "created_at": "2026-04-14T15:16:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T16:16:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044072320852209790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044072320852209790",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044063805228101811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 想你想你！！！！新头像真的好好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n喜欢碎碎念 会很烦。\n互fo直关/可以随时找我聊天(≧∇≦)\n不约不聊骚 私信骚扰不回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": " 提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 170,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 167
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-21T16:26:50.000Z",
+        "description": "✨ INFJ 性格魅力 + 健身狂热分子 热爱漫威宇宙、羽毛球激战，生活充满能量！🫶🫶🫶，😋😋😋大馋货。喜欢我给我打钱😋😋😋😋我是大财迷\n\n来给我发吧。嘻嘻https://t.co/aMToWK4vC3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%9C%A1%E7%A…",
+                "end": 101,
+                "expanded_url": "https://ngl.link/%E8%9C%A1%E7%AC%94%E5%B0%8F%E5%AE%9D",
+                "start": 78,
+                "url": "https://t.co/aMToWK4vC3"
+              }
+            ]
+          }
+        },
+        "id": "1892974219388194816",
+        "name": "蜡笔小宝🐟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994970626201980935/vg6dI7em_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 330,
+          "like_count": 1576,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1401
+        },
+        "username": "Fl68Re",
+        "verified": false
+      }
+    ]
+  }
+}

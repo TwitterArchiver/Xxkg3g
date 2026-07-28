@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2072964686782529548",
+    "created_at": "2026-07-03T14:38:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:38:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073053866313089486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1291704894211186689",
+          "start": 0,
+          "username": "AZLXY1"
+        },
+        {
+          "end": 23,
+          "id": "1828822109696544768",
+          "start": 8,
+          "username": "gabheyem492991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073053866313089486",
+    "in_reply_to_user_id": "1291704894211186689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073052749420449899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZLXY1 @gabheyem492991 没错！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2072964686782529548",
+        "created_at": "2026-07-03T14:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073053866313089486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1291704894211186689",
+              "start": 0,
+              "username": "AZLXY1"
+            },
+            {
+              "end": 23,
+              "id": "1828822109696544768",
+              "start": 8,
+              "username": "gabheyem492991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073053866313089486",
+        "in_reply_to_user_id": "1291704894211186689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073052749420449899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZLXY1 @gabheyem492991 没错！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1291704894211186689",
+        "conversation_id": "2072964686782529548",
+        "created_at": "2026-07-03T14:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073052749420449899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            },
+            {
+              "end": 23,
+              "id": "1828822109696544768",
+              "start": 8,
+              "username": "gabheyem492991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073052749420449899",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073052211307839901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g @gabheyem492991 不光是续不上，过一会你就会忘了和对方经历的一切，只留下啊好像是做了个梦有这么个事的模糊印象"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 298,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 683,
+          "like_count": 1555,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1880
+        },
+        "url": "",
+        "username": "AZLXY1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T15:49:13.000Z",
+        "description": "小孩子不懂事瞎发的\nhttps://t.co/A5p2FGBoB4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gabheyem",
+                "end": 33,
+                "expanded_url": "https://ngl.link/gabheyem",
+                "start": 10,
+                "url": "https://t.co/A5p2FGBoB4"
+              }
+            ]
+          }
+        },
+        "id": "1828822109696544768",
+        "location": "百慕大",
+        "name": "冥天会更好",
+        "pinned_tweet_id": "2072379477242597382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065282019412807680/urExiLUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 1005,
+          "like_count": 21486,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 3258
+        },
+        "url": "",
+        "username": "gabheyem492991",
+        "verified": false
+      }
+    ]
+  }
+}

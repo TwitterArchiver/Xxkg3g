@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065312263116861470",
+    "created_at": "2026-06-12T05:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065312263116861470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YiOvot/status/…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/YiOvot/status/2065006425638920341",
+          "start": 2,
+          "url": "https://t.co/53dRkrq0BF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065312263116861470",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065006425638920341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？ https://t.co/53dRkrq0BF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065312263116861470",
+        "created_at": "2026-06-12T05:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065312263116861470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YiOvot/status/…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/YiOvot/status/2065006425638920341",
+              "start": 2,
+              "url": "https://t.co/53dRkrq0BF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065312263116861470",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065006425638920341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/53dRkrq0BF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889945137524121603",
+        "conversation_id": "2065006425638920341",
+        "created_at": "2026-06-11T09:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065006425638920341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065006425638920341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 1204983,
+          "like_count": 3148,
+          "quote_count": 13,
+          "reply_count": 916,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "那个男网黄的瓜我真惊了，长得漂亮的找他睡要掏2-3k，长得不行的要掏6k＋，这哥们儿鸡巴上镶钻了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 248,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 523
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-13T07:50:18.000Z",
+        "description": "大肥猫品鉴家 想发啥发啥｜无🚪纯发  不私联 推止于推 丨 欢迎女宝找我玩",
+        "id": "1889945137524121603",
+        "location": "闲聊给我一百块",
+        "name": "装鱿鱼被炒",
+        "pinned_tweet_id": "2052983965645251001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060530310157324288/HHPnE6cc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1920,
+          "following_count": 40,
+          "like_count": 2882,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1765
+        },
+        "username": "YiOvot",
+        "verified": false
+      }
+    ]
+  }
+}

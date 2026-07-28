@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064711257660203009"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2064711261779022113",
+    "created_at": "2026-06-10T14:08:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064711261779022113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7fl3AGMgGJ",
+          "end": 40,
+          "expanded_url": "https://x.com/Xxkg3g/status/2064711261779022113/photo/1",
+          "media_key": "3_2064711257660203009",
+          "start": 17,
+          "url": "https://t.co/7fl3AGMgGJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064711261779022113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哥哥 你的世界少了我真的没关系吗 https://t.co/7fl3AGMgGJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064711257660203009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdT8xSWIAE2vHt.jpg",
+        "width": 2002
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064711257660203009"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2064711261779022113",
+        "created_at": "2026-06-10T14:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064711261779022113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fl3AGMgGJ",
+              "end": 40,
+              "expanded_url": "https://x.com/Xxkg3g/status/2064711261779022113/photo/1",
+              "media_key": "3_2064711257660203009",
+              "start": 17,
+              "url": "https://t.co/7fl3AGMgGJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064711261779022113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥哥 你的世界少了我真的没关系吗 https://t.co/7fl3AGMgGJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 242,
+          "like_count": 190,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 487
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

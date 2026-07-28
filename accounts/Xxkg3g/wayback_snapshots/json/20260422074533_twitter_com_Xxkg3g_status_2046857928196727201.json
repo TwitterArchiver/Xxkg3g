@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2046804343001636966",
+    "created_at": "2026-04-22T07:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T08:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046857928196727201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843360729199718404",
+          "start": 0,
+          "username": "longlongp97w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046857928196727201",
+    "in_reply_to_user_id": "1843360729199718404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046804343001636966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longlongp97w 没错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2046804343001636966",
+        "created_at": "2026-04-22T07:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T08:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046857928196727201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843360729199718404",
+              "start": 0,
+              "username": "longlongp97w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046857928196727201",
+        "in_reply_to_user_id": "1843360729199718404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046804343001636966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longlongp97w 没错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843360729199718404",
+        "conversation_id": "2046804343001636966",
+        "created_at": "2026-04-22T04:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T05:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046804343001636966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046804343001636966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我挺想问的，我朋友说过，可爱是对男生的最高评价，你们觉得呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n欢迎来找我交朋友(≧∇≦)\n不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "骚扰我打钱",
+        "name": "灸",
+        "pinned_tweet_id": "2046098623302336698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 182,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）ps.龙的聊天能力堪比人机，然后我不是同！想多找互关呀， #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 96,
+                "tag": "碎碎念"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsRO0"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041004546806468608/r_cGy1V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 97,
+          "like_count": 4959,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/oCgXhmsRO0",
+        "username": "longlongp97w",
+        "verified": false
+      }
+    ]
+  }
+}

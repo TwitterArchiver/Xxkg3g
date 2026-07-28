@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076540626288709632"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2076540810473124329",
+    "created_at": "2026-07-13T05:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T06:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076540810473124329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OgpAJ7Mcp6",
+          "end": 38,
+          "expanded_url": "https://x.com/Xxkg3g/status/2076540810473124329/video/1",
+          "media_key": "13_2076540626288709632",
+          "start": 15,
+          "url": "https://t.co/OgpAJ7Mcp6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076540810473124329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我闺蜜充了vip给我剪的 https://t.co/OgpAJ7Mcp6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11400,
+        "height": 1280,
+        "media_key": "13_2076540626288709632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076540626288709632/img/KIyK9a7e9Lo1brtu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076540626288709632/vid/avc1/320x568/Pp0IpKUXXWGw_CMF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076540626288709632/vid/avc1/480x852/zYgoomouCaGmj119.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076540626288709632/vid/avc1/720x1280/t19neqe9l57gHAL8.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076540626288709632/pl/Vz_cd9UouGF_CK4U.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076540626288709632"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2076540810473124329",
+        "created_at": "2026-07-13T05:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T06:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076540810473124329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OgpAJ7Mcp6",
+              "end": 38,
+              "expanded_url": "https://x.com/Xxkg3g/status/2076540810473124329/video/1",
+              "media_key": "13_2076540626288709632",
+              "start": 15,
+              "url": "https://t.co/OgpAJ7Mcp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076540810473124329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我闺蜜充了vip给我剪的 https://t.co/OgpAJ7Mcp6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 另一个我@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075188389863706624/6HVlXvmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 331,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 1178
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074613529714233345"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2074613533577207994",
+    "created_at": "2026-07-07T21:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T22:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074613533577207994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 31,
+          "id": "1631871471680372737",
+          "start": 22,
+          "username": "Kik7410_"
+        },
+        {
+          "end": 43,
+          "id": "2052846476347453440",
+          "start": 32,
+          "username": "mugozhizhu"
+        },
+        {
+          "end": 63,
+          "id": "1886242908875231232",
+          "start": 50,
+          "username": "acisuitie404"
+        },
+        {
+          "end": 83,
+          "id": "1797345220633427968",
+          "start": 70,
+          "username": "ddbackseat78"
+        },
+        {
+          "end": 92,
+          "id": "1928067552716148740",
+          "start": 84,
+          "username": "0510Ggz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V6z7t1lKsd",
+          "end": 153,
+          "expanded_url": "https://x.com/Xxkg3g/status/2074613533577207994/photo/1",
+          "media_key": "3_2074613529714233345",
+          "start": 130,
+          "url": "https://t.co/V6z7t1lKsd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074613533577207994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Kik7410_ @mugozhizhu\n👰 配偶: @acisuitie404\n👶 孩子: @ddbackseat78 @0510Ggz\n\n➡️ infinitetweet[dot]me/family-tree https://t.co/V6z7t1lKsd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2074613529714233345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqCA3TWEAEsB2R.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074613529714233345"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2074613533577207994",
+        "created_at": "2026-07-07T21:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T22:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074613533577207994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 31,
+              "id": "1631871471680372737",
+              "start": 22,
+              "username": "Kik7410_"
+            },
+            {
+              "end": 43,
+              "id": "2052846476347453440",
+              "start": 32,
+              "username": "mugozhizhu"
+            },
+            {
+              "end": 63,
+              "id": "1886242908875231232",
+              "start": 50,
+              "username": "acisuitie404"
+            },
+            {
+              "end": 83,
+              "id": "1797345220633427968",
+              "start": 70,
+              "username": "ddbackseat78"
+            },
+            {
+              "end": 92,
+              "id": "1928067552716148740",
+              "start": 84,
+              "username": "0510Ggz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6z7t1lKsd",
+              "end": 153,
+              "expanded_url": "https://x.com/Xxkg3g/status/2074613533577207994/photo/1",
+              "media_key": "3_2074613529714233345",
+              "start": 130,
+              "url": "https://t.co/V6z7t1lKsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074613533577207994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @Kik7410_ @mugozhizhu\n👰 配偶: @acisuitie404\n👶 孩子: @ddbackseat78 @0510Ggz\n\n➡️ infinitetweet[dot]me/family-tree https://t.co/V6z7t1lKsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 313,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T04:17:45.000Z",
+        "description": "我的语言表达能力很差精神状态很混乱",
+        "id": "1631871471680372737",
+        "location": "爱",
+        "name": "我珍惜你的方式错了吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066233994782662656/Q5gfBTkm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 75,
+          "like_count": 7302,
+          "listed_count": 1,
+          "media_count": 292,
+          "tweet_count": 2534
+        },
+        "url": "",
+        "username": "Kik7410_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-08T20:22:11.000Z",
+        "description": "不要问色色能为你带来什么，要问自己会为了色色做什么",
+        "id": "2052846476347453440",
+        "name": "牢色",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052847817912410115/B-GgOlTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 180,
+          "like_count": 1820,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 758
+        },
+        "url": "",
+        "username": "mugozhizhu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T02:38:57.000Z",
+        "description": "infp 男",
+        "id": "1886242908875231232",
+        "name": "莎缇拉",
+        "pinned_tweet_id": "2051176874102145395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049029106176802816/Uhond80l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 76,
+          "like_count": 345,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "acisuitie404",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T19:11:22.000Z",
+        "description": "🇺🇸｜Chicago",
+        "id": "1797345220633427968",
+        "location": "Chicago, IL",
+        "name": "EdgeWaterr",
+        "pinned_tweet_id": "2074225774408745351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074221121495273472/T710dtiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 91,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "ddbackseat78",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-29T12:35:10.000Z",
+        "description": "柏拉图牛逼    🫶🏻：po",
+        "id": "1928067552716148740",
+        "name": "雪",
+        "pinned_tweet_id": "2068728428199899172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070124208659877888/k04LJJmD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 5,
+          "like_count": 824,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 866
+        },
+        "url": "",
+        "username": "0510Ggz",
+        "verified": false
+      }
+    ]
+  }
+}

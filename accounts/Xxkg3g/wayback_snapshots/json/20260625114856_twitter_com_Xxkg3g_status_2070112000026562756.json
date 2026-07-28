@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2070075495908257991",
+    "created_at": "2026-06-25T11:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070112000026562756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1948713578531618819",
+          "start": 0,
+          "username": "MikeAngelo72632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070112000026562756",
+    "in_reply_to_user_id": "1948713578531618819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070076453744779390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikeAngelo72632 当我哥哥是全世界最幸福的事情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2070075495908257991",
+        "created_at": "2026-06-25T11:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070112000026562756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1948713578531618819",
+              "start": 0,
+              "username": "MikeAngelo72632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070112000026562756",
+        "in_reply_to_user_id": "1948713578531618819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070076453744779390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikeAngelo72632 当我哥哥是全世界最幸福的事情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948713578531618819",
+        "conversation_id": "2070075495908257991",
+        "created_at": "2026-06-25T09:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T10:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070076453744779390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070076453744779390",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070075495908257991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 当你哥哥真好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 不加墙内\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 265,
+          "like_count": 216,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 690
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-25T11:55:05.000Z",
+        "description": "05 | 183\nISFJ+巨蟹",
+        "id": "1948713578531618819",
+        "name": "凝安",
+        "pinned_tweet_id": "2069978541400432701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069668973537542144/J8_6S1P1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 1789,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "MikeAngelo72632",
+        "verified": false
+      }
+    ]
+  }
+}

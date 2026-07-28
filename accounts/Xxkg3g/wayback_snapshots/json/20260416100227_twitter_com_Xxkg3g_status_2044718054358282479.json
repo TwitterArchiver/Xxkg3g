@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2043878992437252233",
+    "created_at": "2026-04-16T10:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044718054358282479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029863310519341056",
+          "start": 0,
+          "username": "zhouzhou3320"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044718054358282479",
+    "in_reply_to_user_id": "2029863310519341056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044066201509474710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhouzhou3320 已旅游"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2043878992437252233",
+        "created_at": "2026-04-16T10:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044718054358282479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029863310519341056",
+              "start": 0,
+              "username": "zhouzhou3320"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044718054358282479",
+        "in_reply_to_user_id": "2029863310519341056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044066201509474710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhouzhou3320 已旅游"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029863310519341056",
+        "conversation_id": "2043878992437252233",
+        "created_at": "2026-04-14T14:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044066201509474710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044066201509474710",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 977,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043878992437252233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 洛克王国"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n喜欢碎碎念 会很烦。\n互fo直关/可以随时找我聊天(≧∇≦)\n不约不聊骚 私信骚扰不回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": " 提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 168,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T10:16:24.000Z",
+        "description": "07//160/40kg//infp♈️//switch//碎碎念/擦边日常//私信只回🚪/喜欢会回关/有唯一男主勿约/匿名提问https://t.co/DYMAsNcRFZ接铲铲陪🥣//防丢小号@zhouzhoumeoww//不线下",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 98,
+                "username": "zhouzhoumeoww"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaozhou228911…",
+                "end": 87,
+                "expanded_url": "https://ngl.link/xiaozhou228911//",
+                "start": 64,
+                "url": "https://t.co/DYMAsNcRFZ"
+              }
+            ]
+          }
+        },
+        "id": "2029863310519341056",
+        "location": "🚪388仅好友位/520开放闲聊及无水印原图",
+        "name": "小粥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038106646275383296/ruzVwws9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5077,
+          "following_count": 107,
+          "like_count": 271,
+          "listed_count": 13,
+          "media_count": 29,
+          "tweet_count": 217
+        },
+        "username": "zhouzhou3320",
+        "verified": false
+      }
+    ]
+  }
+}

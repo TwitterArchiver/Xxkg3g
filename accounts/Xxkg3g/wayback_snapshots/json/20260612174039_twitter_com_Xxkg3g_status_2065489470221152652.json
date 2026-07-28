@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065488535000355323",
+    "created_at": "2026-06-12T17:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065489470221152652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065097387404926976",
+          "start": 0,
+          "username": "Justin2a4tc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065489470221152652",
+    "in_reply_to_user_id": "2065097387404926976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065489307771527629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Justin2a4tc 咱俩不是已经认识了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065488535000355323",
+        "created_at": "2026-06-12T17:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065489470221152652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065097387404926976",
+              "start": 0,
+              "username": "Justin2a4tc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065489470221152652",
+        "in_reply_to_user_id": "2065097387404926976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065489307771527629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Justin2a4tc 咱俩不是已经认识了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065097387404926976",
+        "conversation_id": "2065488535000355323",
+        "created_at": "2026-06-12T17:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065489307771527629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065489307771527629",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065488535000355323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 不玩可以认识嘛…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 250,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 546
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T15:43:28.000Z",
+        "description": "你的淚 我的雨季.\n3485633122",
+        "id": "2065097387404926976",
+        "name": "Justin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065097710768918528/GkYHU0q9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 36,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 154
+        },
+        "username": "Justin2a4tc",
+        "verified": false
+      }
+    ]
+  }
+}

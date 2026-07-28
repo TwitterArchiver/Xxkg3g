@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2063616022297415718",
+    "created_at": "2026-06-07T13:36:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:36:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063616022297415718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037381870204198912",
+          "start": 3,
+          "username": "980thVGRegiment"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063616022297415718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063615276814569693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @980thVGRegiment: 谁认识这个锦玉茉莉老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2063616022297415718",
+        "created_at": "2026-06-07T13:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063616022297415718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037381870204198912",
+              "start": 3,
+              "username": "980thVGRegiment"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063616022297415718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063615276814569693",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @980thVGRegiment: 谁认识这个锦玉茉莉老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037381870204198912",
+        "conversation_id": "2063615276814569693",
+        "created_at": "2026-06-07T13:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063615276814569693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tiantmaoshensh…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/tiantmaoshenshi/status/2063613388131860527",
+              "start": 12,
+              "url": "https://t.co/Ngn5AYiD6e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063615276814569693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063613388131860527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁认识这个锦玉茉莉老师 https://t.co/Ngn5AYiD6e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 229,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 417
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:11:13.000Z",
+        "description": "东方白小号@432Ifantrygroup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "432Ifantrygroup"
+              }
+            ]
+          }
+        },
+        "id": "2037381870204198912",
+        "name": "980th VG Regiment",
+        "pinned_tweet_id": "2063615276814569693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382208261079040/7f2pwRnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 88,
+          "like_count": 379,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 67
+        },
+        "username": "980thVGRegiment",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2064749875380543640",
+    "created_at": "2026-06-10T16:41:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:41:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064749875380543640"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xxkg3g/status/…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/Xxkg3g/status/2043584401469317512",
+          "start": 65,
+          "url": "https://t.co/T6jOCUSc2C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064749875380543640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043584401469317512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好无助。高考前需要布置考场 两个人搬一张桌子 老师就是不让这个女生搬 老子一个人搬一张 我真的要被气死了 你俩是不是有一腿呀？？ https://t.co/T6jOCUSc2C"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2064749875380543640",
+        "created_at": "2026-06-10T16:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064749875380543640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xxkg3g/status/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/Xxkg3g/status/2043584401469317512",
+              "start": 65,
+              "url": "https://t.co/T6jOCUSc2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064749875380543640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043584401469317512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好无助。高考前需要布置考场 两个人搬一张桌子 老师就是不让这个女生搬 老子一个人搬一张 我真的要被气死了 你俩是不是有一腿呀？？ https://t.co/T6jOCUSc2C"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2043584401469317512",
+        "created_at": "2026-04-13T06:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043584401469317512"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043584401469317512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4081,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "班里装病的人把别人的抑郁症传出去了 情绪崩溃 结果班主任一直维护装病者….."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 243,
+          "like_count": 191,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 487
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

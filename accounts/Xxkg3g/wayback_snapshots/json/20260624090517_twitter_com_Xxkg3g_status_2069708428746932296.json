@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2069707803569393830",
+    "created_at": "2026-06-24T09:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069708428746932296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067549451355639808",
+          "start": 0,
+          "username": "Iholdtheblade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069708428746932296",
+    "in_reply_to_user_id": "2067549451355639808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069707803569393830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iholdtheblade 杀人犯法。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23267,
+        "height": 720,
+        "media_key": "13_2069707679317053440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069707679317053440/img/_iScY2Cny8AU5oMs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069707679317053440/vid/avc1/480x270/eMyRP6yj4lEDKNGp.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069707679317053440/vid/avc1/640x360/0wDyT95jDta6CifI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069707679317053440/vid/avc1/1280x720/99cjxmPL61Aspqeq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069707679317053440/pl/JKafrVJi5pxo1F7X.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2069707803569393830",
+        "created_at": "2026-06-24T09:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069708428746932296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067549451355639808",
+              "start": 0,
+              "username": "Iholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069708428746932296",
+        "in_reply_to_user_id": "2067549451355639808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069707803569393830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iholdtheblade 杀人犯法。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069707679317053440"
+          ]
+        },
+        "author_id": "2067549451355639808",
+        "conversation_id": "2069707803569393830",
+        "created_at": "2026-06-24T09:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069707803569393830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J64ycho90D",
+              "end": 35,
+              "expanded_url": "https://x.com/Iholdtheblade/status/2069707803569393830/video/1",
+              "media_key": "13_2069707679317053440",
+              "start": 12,
+              "url": "https://t.co/J64ycho90D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069707803569393830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前锋只是在做自己的事情 https://t.co/J64ycho90D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 258,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T10:07:16.000Z",
+        "description": "普通人 求互fo",
+        "id": "2067549451355639808",
+        "name": "更痛更苦更隔阂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067562656031293440/d1d-OGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 19,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "Iholdtheblade",
+        "verified": false
+      }
+    ]
+  }
+}

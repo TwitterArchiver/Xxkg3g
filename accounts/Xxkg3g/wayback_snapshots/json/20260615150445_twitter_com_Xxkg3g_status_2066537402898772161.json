@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2066537402898772161",
+    "created_at": "2026-06-15T15:04:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:04:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066537402898772161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xxkg3g/status/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Xxkg3g/status/2043043425726112212",
+          "start": 5,
+          "url": "https://t.co/7ggPPJQHwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066537402898772161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043043425726112212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "依旧/. https://t.co/7ggPPJQHwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2066537402898772161",
+        "created_at": "2026-06-15T15:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066537402898772161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xxkg3g/status/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Xxkg3g/status/2043043425726112212",
+              "start": 5,
+              "url": "https://t.co/7ggPPJQHwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066537402898772161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043043425726112212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "依旧/. https://t.co/7ggPPJQHwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2043043425726112212",
+        "created_at": "2026-04-11T19:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T20:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043043425726112212"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043043425726112212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4584,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很喜欢06和07的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 245,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 508
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

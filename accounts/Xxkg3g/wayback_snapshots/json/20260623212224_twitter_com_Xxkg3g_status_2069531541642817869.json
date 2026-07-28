@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2069465658773864594",
+    "created_at": "2026-06-23T21:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T22:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069531541642817869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1950868785646444544",
+          "start": 0,
+          "username": "babycarota"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069531541642817869",
+    "in_reply_to_user_id": "1950868785646444544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069512829506613601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@babycarota 就是我理你 你懂吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2069465658773864594",
+        "created_at": "2026-06-23T21:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T22:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069531541642817869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1950868785646444544",
+              "start": 0,
+              "username": "babycarota"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069531541642817869",
+        "in_reply_to_user_id": "1950868785646444544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069512829506613601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@babycarota 就是我理你 你懂吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1950868785646444544",
+        "conversation_id": "2069465658773864594",
+        "created_at": "2026-06-23T20:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T21:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069512829506613601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069512829506613601",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069465658773864594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 就是没人理我 你们懂吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 256,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 626
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T10:40:15.000Z",
+        "description": "04wlw，找饭吃的杂食人，idv王者三角洲。可以找我玩洲好吧…求你💬。男的别关注我别给我发信息",
+        "id": "1950868785646444544",
+        "name": "忧郁的萝卜头",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951337263096352768/I5t2eYqh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "babycarota",
+        "verified": false
+      }
+    ]
+  }
+}

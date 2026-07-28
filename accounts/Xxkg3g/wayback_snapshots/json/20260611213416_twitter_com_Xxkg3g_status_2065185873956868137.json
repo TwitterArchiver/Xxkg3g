@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065096038386680311",
+    "created_at": "2026-06-11T21:34:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T22:34:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065185873956868137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2064445837334474752",
+          "start": 0,
+          "username": "Alan2nx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065185873956868137",
+    "in_reply_to_user_id": "2064445837334474752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065096038386680311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alan2nx 滚你个傻逼 你贱不贱？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065096038386680311",
+        "created_at": "2026-06-11T21:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065185873956868137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2064445837334474752",
+              "start": 0,
+              "username": "Alan2nx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065185873956868137",
+        "in_reply_to_user_id": "2064445837334474752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065096038386680311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alan2nx 滚你个傻逼 你贱不贱？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2064445837334474752",
+        "conversation_id": "2065096038386680311",
+        "created_at": "2026-06-11T15:37:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:37:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065096038386680311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065096038386680311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小泠 对不起。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 247,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 513
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-09T20:34:32.000Z",
+        "description": "请不要接触我",
+        "id": "2064445837334474752",
+        "name": "Alan",
+        "pinned_tweet_id": "2065096038386680311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064447547180281856/mz7xxVxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 1,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 93
+        },
+        "username": "Alan2nx",
+        "verified": false
+      }
+    ]
+  }
+}

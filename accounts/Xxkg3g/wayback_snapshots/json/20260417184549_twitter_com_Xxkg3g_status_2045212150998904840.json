@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045212089091043328",
+        "3_2045212089061687296",
+        "3_2045212089065832448",
+        "3_2045212089061621760"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045212150998904840",
+    "created_at": "2026-04-17T18:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T19:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045212150998904840"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V01c6wLACu",
+          "end": 23,
+          "expanded_url": "https://x.com/Xxkg3g/status/2045212150998904840/photo/1",
+          "media_key": "3_2045212089091043328",
+          "start": 0,
+          "url": "https://t.co/V01c6wLACu"
+        },
+        {
+          "display_url": "pic.x.com/V01c6wLACu",
+          "end": 23,
+          "expanded_url": "https://x.com/Xxkg3g/status/2045212150998904840/photo/1",
+          "media_key": "3_2045212089061687296",
+          "start": 0,
+          "url": "https://t.co/V01c6wLACu"
+        },
+        {
+          "display_url": "pic.x.com/V01c6wLACu",
+          "end": 23,
+          "expanded_url": "https://x.com/Xxkg3g/status/2045212150998904840/photo/1",
+          "media_key": "3_2045212089065832448",
+          "start": 0,
+          "url": "https://t.co/V01c6wLACu"
+        },
+        {
+          "display_url": "pic.x.com/V01c6wLACu",
+          "end": 23,
+          "expanded_url": "https://x.com/Xxkg3g/status/2045212150998904840/photo/1",
+          "media_key": "3_2045212089061621760",
+          "start": 0,
+          "url": "https://t.co/V01c6wLACu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045212150998904840",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/V01c6wLACu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045212150998904840].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045212150998904840",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045212150998904840"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_2045212089091043328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGINjxybMAAzj5g.jpg",
+        "width": 1242
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045212089061687296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGINjxrbQAAnars.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1074,
+        "media_key": "3_2045212089065832448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGINjxsagAAM0_v.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045212089061621760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGINjxraQAAiX4r.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n互fo直关/忘记回的私信\n话多 喜欢碎碎念 欢迎私信(≧∇≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 170,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

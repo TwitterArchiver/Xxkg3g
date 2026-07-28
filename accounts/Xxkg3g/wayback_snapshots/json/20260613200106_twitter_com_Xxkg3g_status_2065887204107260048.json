@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065885471952306176"
+      ],
+      "media_source_tweet_id": [
+        "2065885480835785113"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065887204107260048",
+    "created_at": "2026-06-13T20:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T21:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065887204107260048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060627239654629376",
+          "start": 3,
+          "username": "ashdieds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xMSuxr7qNF",
+          "end": 62,
+          "expanded_url": "https://x.com/ashdieds/status/2065885480835785113/photo/1",
+          "media_key": "3_2065885471952306176",
+          "start": 39,
+          "url": "https://t.co/xMSuxr7qNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065887204107260048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065885480835785113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashdieds: ？你妈的婊子你谁啊举报我号的吗冒充我干嘛。求转帖 https://t.co/xMSuxr7qNF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2065885471952306176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKt_5CZbgAArb03.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065885471952306176"
+          ],
+          "media_source_tweet_id": [
+            "2065885480835785113"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065887204107260048",
+        "created_at": "2026-06-13T20:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T21:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065887204107260048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060627239654629376",
+              "start": 3,
+              "username": "ashdieds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMSuxr7qNF",
+              "end": 62,
+              "expanded_url": "https://x.com/ashdieds/status/2065885480835785113/photo/1",
+              "media_key": "3_2065885471952306176",
+              "start": 39,
+              "url": "https://t.co/xMSuxr7qNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065887204107260048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065885480835785113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashdieds: ？你妈的婊子你谁啊举报我号的吗冒充我干嘛。求转帖 https://t.co/xMSuxr7qNF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065885471952306176"
+          ]
+        },
+        "author_id": "2060627239654629376",
+        "conversation_id": "2065885480835785113",
+        "created_at": "2026-06-13T19:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065885480835785113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xMSuxr7qNF",
+              "end": 48,
+              "expanded_url": "https://x.com/ashdieds/status/2065885480835785113/photo/1",
+              "media_key": "3_2065885471952306176",
+              "start": 25,
+              "url": "https://t.co/xMSuxr7qNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065885480835785113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "？你妈的婊子你谁啊举报我号的吗冒充我干嘛。求转帖 https://t.co/xMSuxr7qNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 248,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 563
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo\n本人就这一个号 大号已永久挂掉 其余都是仿冒",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 137,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 116
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

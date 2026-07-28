@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2045850737406771270",
+    "created_at": "2026-04-19T13:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T14:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045850737406771270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1622615522872545281",
+          "start": 3,
+          "username": "mianbaogou04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045850737406771270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045570371651600858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mianbaogou04: 被吃醋到底是啥感觉啊\n被担心到底是啥感觉啊\n被质问到底是啥感觉啊\n被窥探到底是啥感觉啊\n被保护到底是啥感觉啊\n被偏爱到底是啥感觉啊\n被包容到底是啥感觉啊\n被信任到底是啥感觉啊\n被转钱到底是啥感觉啊\n是唯一到底是啥感觉啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2045850737406771270",
+        "created_at": "2026-04-19T13:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045850737406771270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1622615522872545281",
+              "start": 3,
+              "username": "mianbaogou04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045850737406771270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045570371651600858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mianbaogou04: 被吃醋到底是啥感觉啊\n被担心到底是啥感觉啊\n被质问到底是啥感觉啊\n被窥探到底是啥感觉啊\n被保护到底是啥感觉啊\n被偏爱到底是啥感觉啊\n被包容到底是啥感觉啊\n被信任到底是啥感觉啊\n被转钱到底是啥感觉啊\n是唯一到底是啥感觉啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622615522872545281",
+        "conversation_id": "2045570371651600858",
+        "created_at": "2026-04-18T18:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045570371651600858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045570371651600858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 13730,
+          "like_count": 358,
+          "quote_count": 12,
+          "reply_count": 12,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "被吃醋到底是啥感觉啊\n被担心到底是啥感觉啊\n被质问到底是啥感觉啊\n被窥探到底是啥感觉啊\n被保护到底是啥感觉啊\n被偏爱到底是啥感觉啊\n被包容到底是啥感觉啊\n被信任到底是啥感觉啊\n被转钱到底是啥感觉啊\n是唯一到底是啥感觉啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "就这样傻福的活下去\n不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2045212150998904840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 179,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 243
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T15:17:52.000Z",
+        "description": "1/4i  单身  喜欢的可以向我投喂   互关+v  谢谢关注",
+        "id": "1622615522872545281",
+        "name": "面包狗的咕嘟日记",
+        "pinned_tweet_id": "1975965266497663334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1657800547905449984/fQuq4kzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1966,
+          "following_count": 256,
+          "like_count": 14393,
+          "listed_count": 4,
+          "media_count": 31,
+          "tweet_count": 372
+        },
+        "username": "mianbaogou04",
+        "verified": false
+      }
+    ]
+  }
+}

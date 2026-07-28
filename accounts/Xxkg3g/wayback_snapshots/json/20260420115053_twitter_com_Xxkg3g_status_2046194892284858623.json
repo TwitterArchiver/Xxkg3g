@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2045885534510461151",
+    "created_at": "2026-04-20T11:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046194892284858623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2045397763966271488",
+          "start": 0,
+          "username": "BiaoMen84398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046194892284858623",
+    "in_reply_to_user_id": "2045397763966271488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046018780338540551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BiaoMen84398 我要。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2045885534510461151",
+        "created_at": "2026-04-20T11:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046194892284858623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2045397763966271488",
+              "start": 0,
+              "username": "BiaoMen84398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046194892284858623",
+        "in_reply_to_user_id": "2045397763966271488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046018780338540551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BiaoMen84398 我要。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045397763966271488",
+        "conversation_id": "2045885534510461151",
+        "created_at": "2026-04-20T00:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046018780338540551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046018780338540551",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045885534510461151",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 你要吗要给你转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n欢迎来找我交朋友(≧∇≦)\n不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2046098623302336698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 185,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-18T07:03:32.000Z",
+        "description": "顶级男s，喜欢调教各种死母狗母猪骚婊子想被调成只会扣的母猪的可以滚过来私信我了",
+        "id": "2045397763966271488",
+        "name": "。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045399193041379328/hosCdE6f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "username": "BiaoMen84398",
+        "verified": false
+      }
+    ]
+  }
+}

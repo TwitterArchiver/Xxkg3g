@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068909692043088253",
+    "created_at": "2026-06-22T05:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T06:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068936975290138978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2068921444562866176",
+          "start": 0,
+          "username": "sihaode"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068936975290138978",
+    "in_reply_to_user_id": "2068921444562866176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068933108070830420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sihaode 不是每个人都像你一样用小头思考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068909692043088253",
+        "created_at": "2026-06-22T05:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068936975290138978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2068921444562866176",
+              "start": 0,
+              "username": "sihaode"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068936975290138978",
+        "in_reply_to_user_id": "2068921444562866176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068933108070830420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sihaode 不是每个人都像你一样用小头思考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068921444562866176",
+        "conversation_id": "2068909692043088253",
+        "created_at": "2026-06-22T05:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068933108070830420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068933108070830420",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068909692043088253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 主页挂着哥哥，不是亲哥你自杀好吗，宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo\n我就一个哥哥@xiuyui1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "xiuyui1114"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 253,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 590
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-22T05:00:06.000Z",
+        "description": "我是一头野兽，从诞生之初就是为了撕咬",
+        "id": "2068921444562866176",
+        "name": "嘶嚎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068922420678078464/Xrk3qqOu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "sihaode",
+        "verified": false
+      }
+    ]
+  }
+}

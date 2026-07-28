@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2041197973040669100",
+    "created_at": "2026-04-06T19:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T20:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041235192812376463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1997765808924323840",
+          "start": 0,
+          "username": "gg2035371438318"
+        },
+        {
+          "end": 26,
+          "id": "1933114395854610432",
+          "start": 17,
+          "username": "eweisi32"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041235192812376463",
+    "in_reply_to_user_id": "1997765808924323840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041231288628375848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gg2035371438318 @eweisi32 我操你妈的死婊子一个 你他妈的天天被大汉强奸知道不 你个狗日子死全家的东西 都来外网了你又人间独醒了是不 你个死全家的死鸭子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2041197973040669100",
+        "created_at": "2026-04-06T19:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T20:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041235192812376463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1997765808924323840",
+              "start": 0,
+              "username": "gg2035371438318"
+            },
+            {
+              "end": 26,
+              "id": "1933114395854610432",
+              "start": 17,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041235192812376463",
+        "in_reply_to_user_id": "1997765808924323840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041231288628375848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gg2035371438318 @eweisi32 我操你妈的死婊子一个 你他妈的天天被大汉强奸知道不 你个狗日子死全家的东西 都来外网了你又人间独醒了是不 你个死全家的死鸭子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997765808924323840",
+        "conversation_id": "2041197973040669100",
+        "created_at": "2026-04-06T19:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T20:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041231288628375848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1933114395854610432",
+              "start": 0,
+              "username": "eweisi32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041231288628375848",
+        "in_reply_to_user_id": "1933114395854610432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041197973040669100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eweisi32 姐妹能不能试试脖子 听他们说脖子一天就能好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "我o我割｜互fo直关｜欢迎私信发展",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪52 提供无限情绪价值",
+        "name": "灸",
+        "pinned_tweet_id": "2040727259330576531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041072151219011584/6s4abgnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 38,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 15
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T20:31:16.000Z",
+        "description": "开心就好",
+        "id": "1997765808924323840",
+        "name": "爷爷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020486061831675904/TJavtw59_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 9,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 220
+        },
+        "username": "gg2035371438318",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T10:49:36.000Z",
+        "description": "叫我蚀蚀就好 全称蚀蛊影… 我会塔罗占卜可以找我 | 餐劵 | 互fo直关 | \n伤口可定制 | 喜欢我请打钱…无上限谢谢泥 | 朋友们想加我别的平台可以直接私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mvrtin98341",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mvrtin98341",
+                "start": 0,
+                "url": "https://t.co/tYaSleRHaZ"
+              }
+            ]
+          }
+        },
+        "id": "1933114395854610432",
+        "location": "🚪35好友位pyq/66陪聊照片/99语音/133",
+        "name": "Marvin",
+        "pinned_tweet_id": "2038696284224114769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026791231880368129/j4ztiHVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 392,
+          "like_count": 1211,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 433
+        },
+        "url": "https://t.co/tYaSleRHaZ",
+        "username": "eweisi32",
+        "verified": false
+      }
+    ]
+  }
+}

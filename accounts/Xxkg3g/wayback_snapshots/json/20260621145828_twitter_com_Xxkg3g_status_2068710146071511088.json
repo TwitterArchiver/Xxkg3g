@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068704528686309422",
+    "created_at": "2026-06-21T14:58:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T15:58:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068710146071511088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581708735021359107",
+          "start": 0,
+          "username": "xiaobeichenbc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068710146071511088",
+    "in_reply_to_user_id": "1581708735021359107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068708412733759517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobeichenbc 没错！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068704528686309422",
+        "created_at": "2026-06-21T14:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068710146071511088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581708735021359107",
+              "start": 0,
+              "username": "xiaobeichenbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068710146071511088",
+        "in_reply_to_user_id": "1581708735021359107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068708412733759517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobeichenbc 没错！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581708735021359107",
+        "conversation_id": "2068704528686309422",
+        "created_at": "2026-06-21T14:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T15:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068708412733759517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068708412733759517",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068704528686309422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 你应该让我遇不到那些比你更可爱的（确信）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo\n我就一个哥哥@xiuyui1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "xiuyui1114"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 250,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 580
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T18:08:53.000Z",
+        "description": "",
+        "id": "1581708735021359107",
+        "location": "北京",
+        "name": "summer.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899659185773547520/VUVQRjDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 78,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "xiaobeichenbc",
+        "verified": false
+      }
+    ]
+  }
+}

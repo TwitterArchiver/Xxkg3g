@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068351938639351984",
+    "created_at": "2026-06-20T16:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068363701669769463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1974322069807714305",
+          "start": 0,
+          "username": "toskaIceland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068363701669769463",
+    "in_reply_to_user_id": "1974322069807714305",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068351938639351984",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toskaIceland 好美.."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13442,
+        "height": 1280,
+        "media_key": "13_2068351810687942657",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068351810687942657/img/H8TfmX7Ah-1teD56.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068351810687942657/vid/avc1/320x568/YTXWaoyPrQ5636cu.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068351810687942657/vid/avc1/480x852/0pF-IR7F9i7e0c-8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068351810687942657/vid/avc1/720x1280/s6Uoowcg_mwABU_r.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068351810687942657/pl/WhnL0DqSEnlv-dwK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068351938639351984",
+        "created_at": "2026-06-20T16:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068363701669769463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1974322069807714305",
+              "start": 0,
+              "username": "toskaIceland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068363701669769463",
+        "in_reply_to_user_id": "1974322069807714305",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068351938639351984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toskaIceland 好美.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068351810687942657"
+          ]
+        },
+        "author_id": "1974322069807714305",
+        "conversation_id": "2068351938639351984",
+        "created_at": "2026-06-20T15:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068351938639351984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8GM5rhTq1p",
+              "end": 31,
+              "expanded_url": "https://x.com/toskaIceland/status/2068351938639351984/video/1",
+              "media_key": "13_2068351810687942657",
+              "start": 8,
+              "url": "https://t.co/8GM5rhTq1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068351938639351984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 73,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一起回家吧^^ https://t.co/8GM5rhTq1p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 250,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T03:54:18.000Z",
+        "description": "兄弟你不要跟我扯 我告诉你，我爱玩贴吧红薯，还有抑郁症，我体内住着一个孙笑川和一个大只一个推特人一个微博批一个豆瓣吊，兄弟我有精神分裂你最好离我远点",
+        "id": "1974322069807714305",
+        "name": "Toska",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920786865975296/ReB-uSO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 87,
+          "like_count": 940,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "toskaIceland",
+        "verified": false
+      }
+    ]
+  }
+}

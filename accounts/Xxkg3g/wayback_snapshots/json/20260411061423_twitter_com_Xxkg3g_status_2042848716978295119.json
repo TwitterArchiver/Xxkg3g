@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042848661231800321"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2042848716978295119",
+    "created_at": "2026-04-11T06:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042848716978295119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2vr7jWz9PC",
+          "end": 41,
+          "expanded_url": "https://x.com/Xxkg3g/status/2042848716978295119/photo/1",
+          "media_key": "3_2042848661231800321",
+          "start": 18,
+          "url": "https://t.co/2vr7jWz9PC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042848716978295119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的掌纹里没有我的命运 那就割出来 https://t.co/2vr7jWz9PC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2042848661231800321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmoCK6akAEj_Zz.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042848661231800321"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042848716978295119",
+        "created_at": "2026-04-11T06:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042848716978295119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vr7jWz9PC",
+              "end": 41,
+              "expanded_url": "https://x.com/Xxkg3g/status/2042848716978295119/photo/1",
+              "media_key": "3_2042848661231800321",
+              "start": 18,
+              "url": "https://t.co/2vr7jWz9PC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042848716978295119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的掌纹里没有我的命运 那就割出来 https://t.co/2vr7jWz9PC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n纯绿 不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "距离你5.2km  提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 120,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 79
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

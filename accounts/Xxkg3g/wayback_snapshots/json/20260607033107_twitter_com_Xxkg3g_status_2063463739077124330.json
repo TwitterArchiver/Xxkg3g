@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2063463739077124330",
+    "created_at": "2026-06-07T03:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T04:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063463739077124330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037381870204198912",
+          "start": 3,
+          "username": "980thVGRegiment"
+        },
+        {
+          "end": 37,
+          "id": "1852895432269234176",
+          "start": 21,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20634…",
+          "end": 61,
+          "expanded_url": "https://x.com/i/status/2063460537032413419",
+          "start": 38,
+          "url": "https://t.co/NYGFdFGqP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063463739077124330",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063462609089892611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @980thVGRegiment: @432Ifantrygroup https://t.co/NYGFdFGqP2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2063463739077124330",
+        "created_at": "2026-06-07T03:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063463739077124330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037381870204198912",
+              "start": 3,
+              "username": "980thVGRegiment"
+            },
+            {
+              "end": 37,
+              "id": "1852895432269234176",
+              "start": 21,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20634…",
+              "end": 61,
+              "expanded_url": "https://x.com/i/status/2063460537032413419",
+              "start": 38,
+              "url": "https://t.co/NYGFdFGqP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063463739077124330",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063462609089892611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @980thVGRegiment: @432Ifantrygroup https://t.co/NYGFdFGqP2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037381870204198912",
+        "conversation_id": "2063237072983568743",
+        "created_at": "2026-06-07T03:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T04:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063462609089892611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852895432269234176",
+              "start": 0,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20634…",
+              "end": 40,
+              "expanded_url": "https://x.com/i/status/2063460537032413419",
+              "start": 17,
+              "url": "https://t.co/NYGFdFGqP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063462609089892611",
+        "in_reply_to_user_id": "1852895432269234176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063460537032413419",
+            "type": "quoted"
+          },
+          {
+            "id": "2063237072983568743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@432Ifantrygroup https://t.co/NYGFdFGqP2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 229,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 411
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T04:11:13.000Z",
+        "description": "432小号@432Ifantrygroup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 5,
+                "username": "432Ifantrygroup"
+              }
+            ]
+          }
+        },
+        "id": "2037381870204198912",
+        "name": "980th VG Regiment",
+        "pinned_tweet_id": "2063460537032413419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037382208261079040/7f2pwRnw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 47,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "980thVGRegiment",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义，未成年权利主义暨青少年解放，中国人，男。可以叫我东方或者东方白。\n会回关所有人，互关扩列友好😇\n匿名提问https://t.co/Z4sVuEWKLp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fightforspirit",
+                "end": 84,
+                "expanded_url": "https://ngl.link/fightforspirit",
+                "start": 61,
+                "url": "https://t.co/Z4sVuEWKLp"
+              }
+            ]
+          }
+        },
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2062961768209756298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 4065,
+          "like_count": 42546,
+          "listed_count": 4,
+          "media_count": 478,
+          "tweet_count": 11951
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

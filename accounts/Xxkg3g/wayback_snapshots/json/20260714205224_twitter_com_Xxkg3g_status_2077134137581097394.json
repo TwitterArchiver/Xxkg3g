@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2077113779637076102",
+    "created_at": "2026-07-14T20:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077134137581097394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058319321441411072",
+          "start": 0,
+          "username": "7oveforever14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077134137581097394",
+    "in_reply_to_user_id": "2058319321441411072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077113779637076102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7oveforever14 会拥有的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2077113779637076102",
+        "created_at": "2026-07-14T20:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077134137581097394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058319321441411072",
+              "start": 0,
+              "username": "7oveforever14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077134137581097394",
+        "in_reply_to_user_id": "2058319321441411072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077113779637076102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7oveforever14 会拥有的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058319321441411072",
+        "conversation_id": "2077113779637076102",
+        "created_at": "2026-07-14T19:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077113779637076102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxkg3g/status/…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/xxkg3g/status/2077017053798572459",
+              "start": 28,
+              "url": "https://t.co/iNT2HCeL3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077113779637076102",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077017053798572459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一直很想养一只萨摩耶 然后取名椰椰 幻想了好久qwq https://t.co/iNT2HCeL3p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 另一个我@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075188389863706624/6HVlXvmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 877,
+          "following_count": 338,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1188
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T22:54:47.000Z",
+        "description": "ip意大利 水瓶座 isfp-t冒险家\n异性恋 当前恋爱中^ - ^\n我喜欢轻松自在的氛围\n回应有礼貌的正常人https://t.co/HhgNZjxKr1\n欢迎萌萌的小女孩们\n中意时差慢6h\n聊天纯绿 别辱骂别破防\n不看各种照片",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo41845",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ovo41845",
+                "start": 55,
+                "url": "https://t.co/HhgNZjxKr1"
+              }
+            ]
+          }
+        },
+        "id": "2058319321441411072",
+        "name": "ovo",
+        "pinned_tweet_id": "2060169756691353744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063236660062543872/PWeiXiaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632,
+          "following_count": 193,
+          "like_count": 1120,
+          "listed_count": 4,
+          "media_count": 170,
+          "tweet_count": 2018
+        },
+        "url": "",
+        "username": "7oveforever14",
+        "verified": false
+      }
+    ]
+  }
+}

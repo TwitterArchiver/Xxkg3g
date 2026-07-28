@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2060440543017202118",
+    "created_at": "2026-05-29T19:40:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:40:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060446091896623581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753606959343824896",
+          "start": 0,
+          "username": "woshengbingle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060446091896623581",
+    "in_reply_to_user_id": "1753606959343824896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060440543017202118",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshengbingle 抱抱老师૮ᴗ͈ˬᴗ͈ෆა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2060440543017202118",
+        "created_at": "2026-05-29T19:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060446091896623581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753606959343824896",
+              "start": 0,
+              "username": "woshengbingle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060446091896623581",
+        "in_reply_to_user_id": "1753606959343824896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060440543017202118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshengbingle 抱抱老师૮ᴗ͈ˬᴗ͈ෆა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753606959343824896",
+        "conversation_id": "2060440543017202118",
+        "created_at": "2026-05-29T19:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060440543017202118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060440543017202118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受，好失败，我受够了这种人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念  🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 231,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T02:30:56.000Z",
+        "description": "",
+        "id": "1753606959343824896",
+        "name": "阿你怎麼哭了",
+        "pinned_tweet_id": "2059350623016092116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059740542406426624/jKzyfn_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 15,
+          "like_count": 523,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 207
+        },
+        "username": "woshengbingle",
+        "verified": false
+      }
+    ]
+  }
+}

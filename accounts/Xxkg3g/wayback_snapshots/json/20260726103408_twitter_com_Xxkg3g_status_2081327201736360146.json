@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2081321396408569890",
+    "created_at": "2026-07-26T10:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081327201736360146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028430373458456576",
+          "start": 0,
+          "username": "o65518kuguagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081327201736360146",
+    "in_reply_to_user_id": "2028430373458456576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081321396408569890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o65518kuguagua 斯哈斯哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2081321396408569890",
+        "created_at": "2026-07-26T10:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081327201736360146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081327201736360146",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081321396408569890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 斯哈斯哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028430373458456576",
+        "conversation_id": "2081321396408569890",
+        "created_at": "2026-07-26T10:11:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:11:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081321396408569890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081321396408569890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 133,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的炸房狗老公 天天带着你炸房"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079997105410592768/s87Ya-m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 354,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1296
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "梦想是想好好睡觉｜我的名字是瓜瓜｜我的女孩@imcutefate 天下第一萌@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "imcutefate"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 572,
+          "like_count": 9280,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3051
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

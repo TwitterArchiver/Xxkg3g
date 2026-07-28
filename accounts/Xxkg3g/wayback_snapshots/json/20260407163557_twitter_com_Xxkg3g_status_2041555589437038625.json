@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041555581761392640",
+        "3_2041555581849505792",
+        "3_2041555581778153472",
+        "3_2041555581786636288"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2041555589437038625",
+    "created_at": "2026-04-07T16:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T17:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041555589437038625"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bJNCE8AEHk",
+          "end": 145,
+          "expanded_url": "https://x.com/Xxkg3g/status/2041555589437038625/photo/1",
+          "media_key": "3_2041555581761392640",
+          "start": 122,
+          "url": "https://t.co/bJNCE8AEHk"
+        },
+        {
+          "display_url": "pic.x.com/bJNCE8AEHk",
+          "end": 145,
+          "expanded_url": "https://x.com/Xxkg3g/status/2041555589437038625/photo/1",
+          "media_key": "3_2041555581849505792",
+          "start": 122,
+          "url": "https://t.co/bJNCE8AEHk"
+        },
+        {
+          "display_url": "pic.x.com/bJNCE8AEHk",
+          "end": 145,
+          "expanded_url": "https://x.com/Xxkg3g/status/2041555589437038625/photo/1",
+          "media_key": "3_2041555581778153472",
+          "start": 122,
+          "url": "https://t.co/bJNCE8AEHk"
+        },
+        {
+          "display_url": "pic.x.com/bJNCE8AEHk",
+          "end": 145,
+          "expanded_url": "https://x.com/Xxkg3g/status/2041555589437038625/photo/1",
+          "media_key": "3_2041555581786636288",
+          "start": 122,
+          "url": "https://t.co/bJNCE8AEHk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041555589437038625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "【定时发帖】\n迟来的一则自介……\n上个号被人举报封了w\n这个重生号一直还没发简介\n一模一样的再来复制一下~\n现在也不算太晚吧（？很开心认识大家哦！\n走之后希望至少留下一些痕迹\n让大家对我有一点印象吧…爱大家 希望下次还能和大家相识\n好好活着哦 https://t.co/bJNCE8AEHk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1669,
+        "media_key": "3_2041555581761392640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUP_CgakAAWOFP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2041555581849505792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUP_C1bEAAMVbw.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041555581778153472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUP_CkaUAAvTWf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041555581786636288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUP_CmbwAAQjWK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041555581761392640",
+            "3_2041555581849505792",
+            "3_2041555581778153472",
+            "3_2041555581786636288"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2041555589437038625",
+        "created_at": "2026-04-07T16:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T17:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041555589437038625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJNCE8AEHk",
+              "end": 145,
+              "expanded_url": "https://x.com/Xxkg3g/status/2041555589437038625/photo/1",
+              "media_key": "3_2041555581761392640",
+              "start": 122,
+              "url": "https://t.co/bJNCE8AEHk"
+            },
+            {
+              "display_url": "pic.x.com/bJNCE8AEHk",
+              "end": 145,
+              "expanded_url": "https://x.com/Xxkg3g/status/2041555589437038625/photo/1",
+              "media_key": "3_2041555581849505792",
+              "start": 122,
+              "url": "https://t.co/bJNCE8AEHk"
+            },
+            {
+              "display_url": "pic.x.com/bJNCE8AEHk",
+              "end": 145,
+              "expanded_url": "https://x.com/Xxkg3g/status/2041555589437038625/photo/1",
+              "media_key": "3_2041555581778153472",
+              "start": 122,
+              "url": "https://t.co/bJNCE8AEHk"
+            },
+            {
+              "display_url": "pic.x.com/bJNCE8AEHk",
+              "end": 145,
+              "expanded_url": "https://x.com/Xxkg3g/status/2041555589437038625/photo/1",
+              "media_key": "3_2041555581786636288",
+              "start": 122,
+              "url": "https://t.co/bJNCE8AEHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041555589437038625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【定时发帖】\n迟来的一则自介……\n上个号被人举报封了w\n这个重生号一直还没发简介\n一模一样的再来复制一下~\n现在也不算太晚吧（？很开心认识大家哦！\n走之后希望至少留下一些痕迹\n让大家对我有一点印象吧…爱大家 希望下次还能和大家相识\n好好活着哦 https://t.co/bJNCE8AEHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "我o我割｜互fo直关｜欢迎私信发展",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪52 提供无限情绪价值",
+        "name": "灸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041072151219011584/6s4abgnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 39,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

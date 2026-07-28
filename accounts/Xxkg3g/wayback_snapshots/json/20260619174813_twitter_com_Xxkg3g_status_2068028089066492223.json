@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068027709767455145",
+    "created_at": "2026-06-19T17:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T18:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068028089066492223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934302404922810369",
+          "start": 0,
+          "username": "ChenY47047"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068028089066492223",
+    "in_reply_to_user_id": "1934302404922810369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068027709767455145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenY47047 握草笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068027707074772992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLMcPiHbgAAmWrR.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068027709767455145",
+        "created_at": "2026-06-19T17:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068028089066492223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934302404922810369",
+              "start": 0,
+              "username": "ChenY47047"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068028089066492223",
+        "in_reply_to_user_id": "1934302404922810369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068027709767455145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY47047 握草笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068027707074772992"
+          ]
+        },
+        "author_id": "1934302404922810369",
+        "conversation_id": "2068027709767455145",
+        "created_at": "2026-06-19T17:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T18:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068027709767455145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O46EVR7bZC",
+              "end": 31,
+              "expanded_url": "https://x.com/ChenY47047/status/2068027709767455145/photo/1",
+              "media_key": "3_2068027707074772992",
+              "start": 8,
+              "url": "https://t.co/O46EVR7bZC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068027709767455145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特这是啥意思 https://t.co/O46EVR7bZC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是一个精神病 我的朋友圈\n 碎碎念 欢迎互fo\n哥哥@xiuyui1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "xiuyui1114"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 469,
+          "following_count": 248,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:30:20.000Z",
+        "description": "生理心理男。可以来找我玩和聊天",
+        "id": "1934302404922810369",
+        "name": "suki！",
+        "pinned_tweet_id": "2063719877031116959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951431674119725060/rg9TZR5s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 228,
+          "like_count": 540,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "ChenY47047",
+        "verified": false
+      }
+    ]
+  }
+}

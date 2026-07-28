@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2074524029609025807",
+    "created_at": "2026-07-07T22:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T23:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074616536241947034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2015058074055430144",
+          "start": 0,
+          "username": "Why1573351"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074616536241947034",
+    "in_reply_to_user_id": "2015058074055430144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074592726813958566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Why1573351 好霸道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2074524029609025807",
+        "created_at": "2026-07-07T22:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T23:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074616536241947034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2015058074055430144",
+              "start": 0,
+              "username": "Why1573351"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074616536241947034",
+        "in_reply_to_user_id": "2015058074055430144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074592726813958566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Why1573351 好霸道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015058074055430144",
+        "conversation_id": "2074524029609025807",
+        "created_at": "2026-07-07T20:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T21:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074592726813958566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074592726813958566",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074524029609025807",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 虽然我不知道你是谁，但是生日你他妈的你必须给我快乐，听懂了吗？\n你要是不快乐，头套都给你薅下来！必须快乐，生日给我狠狠快乐！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 313,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1035
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T13:44:31.000Z",
+        "description": "自由派诗人，X评论员，紫微斗数略懂，八字命理爱好者，玄学事件亲身经历者，正经的老色胚，键盘政治菜鸡，声控大师，steam资深用户，小米股票套牢散户，旅居香港华人，坚持不充蓝V钉子户。",
+        "id": "2015058074055430144",
+        "name": "W hy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015058136097505280/Jz3cmuJn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 5,
+          "like_count": 1902,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "Why1573351",
+        "verified": false
+      }
+    ]
+  }
+}

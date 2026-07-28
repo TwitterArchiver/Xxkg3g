@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068907145752436823",
+    "created_at": "2026-06-22T06:01:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T07:01:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068937513201184980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1919334830015385600",
+          "start": 0,
+          "username": "6WIlBe6NIM97892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068937513201184980",
+    "in_reply_to_user_id": "1919334830015385600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068935590943588407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6WIlBe6NIM97892 是这样的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068907145752436823",
+        "created_at": "2026-06-22T06:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068937513201184980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1919334830015385600",
+              "start": 0,
+              "username": "6WIlBe6NIM97892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068937513201184980",
+        "in_reply_to_user_id": "1919334830015385600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068935590943588407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6WIlBe6NIM97892 是这样的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919334830015385600",
+        "conversation_id": "2068907145752436823",
+        "created_at": "2026-06-22T05:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T06:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068935590943588407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068935590943588407",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068907145752436823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 打开第五在归宿发呆🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo\n我就一个哥哥@xiuyui1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "xiuyui1114"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 253,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-05T10:14:30.000Z",
+        "description": "06 大二 switch 喜欢青年音 手控\n不约不卡",
+        "id": "1919334830015385600",
+        "name": "柚子",
+        "pinned_tweet_id": "2056255008686153757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050800192275042304/BZkHOWvQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 35,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "6WIlBe6NIM97892",
+        "verified": false
+      }
+    ]
+  }
+}

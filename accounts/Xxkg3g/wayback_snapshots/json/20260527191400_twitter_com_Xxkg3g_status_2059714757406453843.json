@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2059531208011206715",
+    "created_at": "2026-05-27T19:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059714757406453843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2052238356374040576",
+          "start": 0,
+          "username": "HuaWxW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059714757406453843",
+    "in_reply_to_user_id": "2052238356374040576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059690828013203858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuaWxW 看完记得跟我谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2059531208011206715",
+        "created_at": "2026-05-27T19:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059714757406453843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2052238356374040576",
+              "start": 0,
+              "username": "HuaWxW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059714757406453843",
+        "in_reply_to_user_id": "2052238356374040576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059690828013203858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuaWxW 看完记得跟我谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052238356374040576",
+        "conversation_id": "2059531208011206715",
+        "created_at": "2026-05-27T17:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059690828013203858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059690828013203858",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059531208011206715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 现实憋屈死了网上得狠狠发泄😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念  🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "骚扰我打钱",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 223,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-07T04:06:41.000Z",
+        "description": "",
+        "id": "2052238356374040576",
+        "name": "Huaw",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 94,
+          "like_count": 475,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "username": "HuaWxW",
+        "verified": false
+      }
+    ]
+  }
+}

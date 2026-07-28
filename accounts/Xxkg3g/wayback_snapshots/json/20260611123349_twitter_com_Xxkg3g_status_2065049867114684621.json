@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065049863721472000"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065049867114684621",
+    "created_at": "2026-06-11T12:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T13:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065049867114684621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Thatf8ggr",
+          "end": 39,
+          "expanded_url": "https://x.com/Xxkg3g/status/2065049867114684621/photo/1",
+          "media_key": "3_2065049863721472000",
+          "start": 16,
+          "url": "https://t.co/0Thatf8ggr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065049867114684621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁想陪我一起玩૮₍◜ෆ◝.₎ა https://t.co/0Thatf8ggr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065049863721472000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKiH6PKWUAAvrGN.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065049863721472000"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065049867114684621",
+        "created_at": "2026-06-11T12:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065049867114684621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Thatf8ggr",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxkg3g/status/2065049867114684621/photo/1",
+              "media_key": "3_2065049863721472000",
+              "start": 16,
+              "url": "https://t.co/0Thatf8ggr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065049867114684621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁想陪我一起玩૮₍◜ෆ◝.₎ა https://t.co/0Thatf8ggr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 244,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 505
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

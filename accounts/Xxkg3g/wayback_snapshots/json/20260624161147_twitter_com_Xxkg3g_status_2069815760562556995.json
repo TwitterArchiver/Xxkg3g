@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2069803755202121871",
+    "created_at": "2026-06-24T16:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069815760562556995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731197831661121536",
+          "start": 0,
+          "username": "Jequirity_Dou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069815760562556995",
+    "in_reply_to_user_id": "1731197831661121536",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069813720855851036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jequirity_Dou 救命好好笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2069803755202121871",
+        "created_at": "2026-06-24T16:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069815760562556995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731197831661121536",
+              "start": 0,
+              "username": "Jequirity_Dou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069815760562556995",
+        "in_reply_to_user_id": "1731197831661121536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069813720855851036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jequirity_Dou 救命好好笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731197831661121536",
+        "conversation_id": "2069803755202121871",
+        "created_at": "2026-06-24T16:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069813720855851036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069813720855851036",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069803755202121871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 因为哥哥被扫成筛子了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 260,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 658
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-03T06:25:09.000Z",
+        "description": "紫气东来 \n留言👉🏻\n🔗https://t.co/a13vNSQp0h",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jequirity",
+                "end": 35,
+                "expanded_url": "https://ngl.link/jequirity",
+                "start": 12,
+                "url": "https://t.co/a13vNSQp0h"
+              }
+            ]
+          }
+        },
+        "id": "1731197831661121536",
+        "location": "来自半人马星系的小猫",
+        "name": "Jequirity",
+        "pinned_tweet_id": "2004540946088898960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069083678248988672/MKg2OX7o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 19,
+          "like_count": 3501,
+          "listed_count": 2,
+          "media_count": 15,
+          "tweet_count": 1539
+        },
+        "url": "",
+        "username": "Jequirity_Dou",
+        "verified": false
+      }
+    ]
+  }
+}

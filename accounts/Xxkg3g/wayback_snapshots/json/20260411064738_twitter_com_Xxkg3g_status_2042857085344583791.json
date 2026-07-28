@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042838998713065472"
+      ],
+      "media_source_tweet_id": [
+        "2042839011899928621"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2042857085344583791",
+    "created_at": "2026-04-11T06:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042857085344583791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2042130131628781572",
+          "start": 3,
+          "username": "Ruioxoiu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xjw5T7RjGs",
+          "end": 106,
+          "expanded_url": "https://x.com/Ruioxoiu/status/2042839011899928621/photo/1",
+          "media_key": "3_2042838998713065472",
+          "start": 83,
+          "url": "https://t.co/Xjw5T7RjGs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042857085344583791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042839011899928621",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ruioxoiu: 蕊重生了 …\n上一世号莫名其妙被冻结\n在线寻找互关中TT\n大家可以帮忙转转吗谢谢(&gt;﹏&lt;)！\n（餐券小女孩可以来找我互fo捏 https://t.co/Xjw5T7RjGs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042838998713065472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmfPvObYAAeSlz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042838998713065472"
+          ],
+          "media_source_tweet_id": [
+            "2042839011899928621"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042857085344583791",
+        "created_at": "2026-04-11T06:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042857085344583791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2042130131628781572",
+              "start": 3,
+              "username": "Ruioxoiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xjw5T7RjGs",
+              "end": 106,
+              "expanded_url": "https://x.com/Ruioxoiu/status/2042839011899928621/photo/1",
+              "media_key": "3_2042838998713065472",
+              "start": 83,
+              "url": "https://t.co/Xjw5T7RjGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042857085344583791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042839011899928621",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ruioxoiu: 蕊重生了 …\n上一世号莫名其妙被冻结\n在线寻找互关中TT\n大家可以帮忙转转吗谢谢(&gt;﹏&lt;)！\n（餐券小女孩可以来找我互fo捏 https://t.co/Xjw5T7RjGs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042838998713065472"
+          ]
+        },
+        "author_id": "2042130131628781572",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2042839011899928621",
+        "created_at": "2026-04-11T05:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042839011899928621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xjw5T7RjGs",
+              "end": 92,
+              "expanded_url": "https://x.com/Ruioxoiu/status/2042839011899928621/photo/1",
+              "media_key": "3_2042838998713065472",
+              "start": 69,
+              "url": "https://t.co/Xjw5T7RjGs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042839011899928621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "蕊重生了 …\n上一世号莫名其妙被冻结\n在线寻找互关中TT\n大家可以帮忙转转吗谢谢(&gt;﹏&lt;)！\n（餐券小女孩可以来找我互fo捏 https://t.co/Xjw5T7RjGs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n纯绿 不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "距离你5.2km  提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 121,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 80
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T06:43:19.000Z",
+        "description": "蕊｜重生中…TT｜le｜自残｜戒o中｜神经病碎碎念｜想和餐券小女孩互关捏",
+        "id": "2042130131628781572",
+        "name": "蕊2.0",
+        "pinned_tweet_id": "2042839011899928621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042831591811223552/aHAgi0GO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 14,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "Ruioxoiu",
+        "verified": false
+      }
+    ]
+  }
+}

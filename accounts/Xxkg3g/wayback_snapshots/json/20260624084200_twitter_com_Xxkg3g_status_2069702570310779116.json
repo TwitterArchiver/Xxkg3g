@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068948638777151703",
+    "created_at": "2026-06-24T08:42:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:42:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069702570310779116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042171564632772608",
+          "start": 0,
+          "username": "Weeeeec6n0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069702570310779116",
+    "in_reply_to_user_id": "2042171564632772608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069702383299612901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weeeeec6n0 宝宝 ꒦ິ^꒦ິ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068948638777151703",
+        "created_at": "2026-06-24T08:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069702570310779116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042171564632772608",
+              "start": 0,
+              "username": "Weeeeec6n0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069702570310779116",
+        "in_reply_to_user_id": "2042171564632772608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069702383299612901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weeeeec6n0 宝宝 ꒦ິ^꒦ິ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042171564632772608",
+        "conversation_id": "2068948638777151703",
+        "created_at": "2026-06-24T08:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069702383299612901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069702383299612901",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068948638777151703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 抱抱，好心疼你🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 258,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T09:24:55.000Z",
+        "description": "13岁，不约，性取向正常，男生不要来找我，我很温柔哒˶╹ꇴ╹˶\n碎碎念日常",
+        "id": "2042171564632772608",
+        "location": "加微🚪20😋",
+        "name": "Weeeee",
+        "pinned_tweet_id": "2050521757207957785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047547315062222849/xm1e46GV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 146,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 179
+        },
+        "url": "",
+        "username": "Weeeeec6n0",
+        "verified": false
+      }
+    ]
+  }
+}

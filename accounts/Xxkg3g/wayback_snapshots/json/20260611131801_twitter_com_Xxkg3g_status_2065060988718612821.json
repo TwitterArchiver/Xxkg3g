@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065049867114684621",
+    "created_at": "2026-06-11T13:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065060988718612821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1647385389785841664",
+          "start": 0,
+          "username": "Raffaele042"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065060988718612821",
+    "in_reply_to_user_id": "1647385389785841664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065056261008453981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raffaele042 晚上去办公室偷手机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065049867114684621",
+        "created_at": "2026-06-11T13:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065060988718612821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1647385389785841664",
+              "start": 0,
+              "username": "Raffaele042"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065060988718612821",
+        "in_reply_to_user_id": "1647385389785841664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065056261008453981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raffaele042 晚上去办公室偷手机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647385389785841664",
+        "conversation_id": "2065049867114684621",
+        "created_at": "2026-06-11T12:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T13:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065056261008453981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065056261008453981",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049867114684621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 90"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 244,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 508
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T23:44:56.000Z",
+        "description": "Bishop takes Knight’s Pawn\n#电子食堂 #赛博厨子 #盗图转帖动物园 #阳痿文学大文豪 #悲观丧文化代表性传承人 #推特第一丑男 #油腻屌丝 #超龄男大\n博士在读，研究方向主攻吃喝玩乐，珠三角挂不起玉牌的憋佬仔。发表主观自我言论，记录生活，骂赞关取ban随意。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 27,
+                "tag": "电子食堂"
+              },
+              {
+                "end": 38,
+                "start": 33,
+                "tag": "赛博厨子"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "tag": "盗图转帖动物园"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "阳痿文学大文豪"
+              },
+              {
+                "end": 69,
+                "start": 57,
+                "tag": "悲观丧文化代表性传承人"
+              },
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "推特第一丑男"
+              },
+              {
+                "end": 83,
+                "start": 78,
+                "tag": "油腻屌丝"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "超龄男大"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raffele0421",
+                "end": 23,
+                "expanded_url": "https://ngl.link/raffele0421",
+                "start": 0,
+                "url": "https://t.co/3xlSSWfRn8"
+              }
+            ]
+          }
+        },
+        "id": "1647385389785841664",
+        "location": "梦在木星！",
+        "name": "HAL-9000 ⁺✞ʚClaude重度依赖ɞ✟₊",
+        "pinned_tweet_id": "1741351717218959835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778670379588026368/vD2DxYk8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2245,
+          "following_count": 600,
+          "like_count": 152117,
+          "listed_count": 9,
+          "media_count": 2114,
+          "tweet_count": 19468
+        },
+        "url": "https://t.co/3xlSSWfRn8",
+        "username": "Raffaele042",
+        "verified": false
+      }
+    ]
+  }
+}

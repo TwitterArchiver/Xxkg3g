@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2070017191454597368",
+    "created_at": "2026-06-25T12:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070115130051010566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1949194140442374144",
+          "start": 0,
+          "username": "Jan20061210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070115130051010566",
+    "in_reply_to_user_id": "1949194140442374144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070017191454597368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jan20061210 死肥猪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070017175189065728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLotp0YaEAA6Wxu.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070017175189176320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLotp0YbwAAdBd6.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070017175205912576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLotp0cbIAAR7C4.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2070017191454597368",
+        "created_at": "2026-06-25T12:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070115130051010566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1949194140442374144",
+              "start": 0,
+              "username": "Jan20061210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070115130051010566",
+        "in_reply_to_user_id": "1949194140442374144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070017191454597368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jan20061210 死肥猪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070017175189065728",
+            "3_2070017175189176320",
+            "3_2070017175205912576"
+          ]
+        },
+        "author_id": "1949194140442374144",
+        "conversation_id": "2070017191454597368",
+        "created_at": "2026-06-25T05:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070017191454597368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EXGsrL1MS1",
+              "end": 51,
+              "expanded_url": "https://x.com/Jan20061210/status/2070017191454597368/photo/1",
+              "media_key": "3_2070017175189065728",
+              "start": 28,
+              "url": "https://t.co/EXGsrL1MS1"
+            },
+            {
+              "display_url": "pic.x.com/EXGsrL1MS1",
+              "end": 51,
+              "expanded_url": "https://x.com/Jan20061210/status/2070017191454597368/photo/1",
+              "media_key": "3_2070017175189176320",
+              "start": 28,
+              "url": "https://t.co/EXGsrL1MS1"
+            },
+            {
+              "display_url": "pic.x.com/EXGsrL1MS1",
+              "end": 51,
+              "expanded_url": "https://x.com/Jan20061210/status/2070017191454597368/photo/1",
+              "media_key": "3_2070017175205912576",
+              "start": 28,
+              "url": "https://t.co/EXGsrL1MS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070017191454597368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23917,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你别破防啊 我168 你个172的…。我都不好意思明说 https://t.co/EXGsrL1MS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 不加墙内\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 265,
+          "like_count": 217,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 693
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T19:45:17.000Z",
+        "description": "一个普通人 168 46",
+        "id": "1949194140442374144",
+        "name": "找到老公就退网",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038339755163910144/jRoPIr-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 1,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "Jan20061210",
+        "verified": false
+      }
+    ]
+  }
+}

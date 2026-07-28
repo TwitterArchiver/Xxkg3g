@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2074823657944408393",
+    "created_at": "2026-07-08T14:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074862541327720643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975216722207440896",
+          "start": 0,
+          "username": "Joe2819282"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074862541327720643",
+    "in_reply_to_user_id": "1975216722207440896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074823657944408393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joe2819282 香哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2074823651199959040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtBHi1aQAAmlpe.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2074823657944408393",
+        "created_at": "2026-07-08T14:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074862541327720643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975216722207440896",
+              "start": 0,
+              "username": "Joe2819282"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074862541327720643",
+        "in_reply_to_user_id": "1975216722207440896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074823657944408393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joe2819282 香哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074823651199959040"
+          ]
+        },
+        "author_id": "1975216722207440896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074823657944408393",
+        "created_at": "2026-07-08T11:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074823657944408393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZD54bQfdr",
+              "end": 29,
+              "expanded_url": "https://x.com/Joe2819282/status/2074823657944408393/photo/1",
+              "media_key": "3_2074823651199959040",
+              "start": 6,
+              "url": "https://t.co/nZD54bQfdr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074823657944408393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭ing https://t.co/nZD54bQfdr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 另一个我@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 321,
+          "like_count": 359,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 1053
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T15:09:08.000Z",
+        "description": "本人男，1i，06在英国伯明翰大学读大二中！宅家中喜欢打游戏的说！泰拉瑞亚，星露谷，还有很多fps都会玩。。玩的特别杂，偶尔发些碎碎念，希望能交朋友和找到喜欢的女生哦。。",
+        "id": "1975216722207440896",
+        "location": "Birmingham, England",
+        "name": "J oe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068573486206115840/P3zqcj0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 25,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Joe2819282",
+        "verified": true
+      }
+    ]
+  }
+}

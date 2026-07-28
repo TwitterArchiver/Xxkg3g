@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2063616732351107152",
+    "created_at": "2026-06-07T13:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063616732351107152"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tiantmaoshensh…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/tiantmaoshenshi/status/2063613388131860527",
+          "start": 10,
+          "url": "https://t.co/BjnsPm6JlT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063616732351107152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063613388131860527",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁认识这个姐姐呀🥹 https://t.co/BjnsPm6JlT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2063616732351107152",
+        "created_at": "2026-06-07T13:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063616732351107152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tiantmaoshensh…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/tiantmaoshenshi/status/2063613388131860527",
+              "start": 10,
+              "url": "https://t.co/BjnsPm6JlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063616732351107152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063613388131860527",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁认识这个姐姐呀🥹 https://t.co/BjnsPm6JlT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1880803334405435393",
+        "conversation_id": "2063613388131860527",
+        "created_at": "2026-06-07T13:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063613388131860527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063613388131860527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱你们哦😘🥺，要有时想起我呀，没人记得才是真的死掉了吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 229,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 418
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子\n负能量警告⚠️\n2.3次元人\n不是好人\n双相精分犯抽的时候会很烦，对不起，请蔽我\n不发推就是在现生/思考/浮起\n来和我交朋友互fo吧(`･ω･´)ゞ\n姐姐@yutinna191292",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "yutinna191292"
+              }
+            ]
+          }
+        },
+        "id": "1880803334405435393",
+        "location": "中北海",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2062000701300244929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 526,
+          "like_count": 10480,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 4871
+        },
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

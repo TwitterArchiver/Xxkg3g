@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2077135434682126774",
+    "created_at": "2026-07-15T09:19:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T10:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077322202366783976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1917009430845194240",
+          "start": 0,
+          "username": "BDcivetcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077322202366783976",
+    "in_reply_to_user_id": "1917009430845194240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077284906007396438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BDcivetcat 我也喜欢给自己好朋友写！但是每次写的都很烂。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2077135434682126774",
+        "created_at": "2026-07-15T09:19:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T10:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077322202366783976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1917009430845194240",
+              "start": 0,
+              "username": "BDcivetcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077322202366783976",
+        "in_reply_to_user_id": "1917009430845194240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077284906007396438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BDcivetcat 我也喜欢给自己好朋友写！但是每次写的都很烂。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917009430845194240",
+        "conversation_id": "2077135434682126774",
+        "created_at": "2026-07-15T06:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077284906007396438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077284906007396438",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077135434682126774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我特别喜欢收到信特别喜欢给别人写信。。。上学的时候最好的朋友给我写了信我用画框裱了起来。。。现在已经0社交了不知道还能给谁写。。看到这个好幸福呀感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 另一个我@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075188389863706624/6HVlXvmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 873,
+          "following_count": 338,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-29T00:14:10.000Z",
+        "description": "07 精神病休学中 自残 高强度负能掉落 我是男的我也很抱歉 又不是我选的😿 喜欢互fo同类 交友扩列私信大欢迎 舟批老大找我打舟( ᐪ꒳ᐪ )｜大家过得都很痛苦 就算这么说很残忍 我还是不希望你们死掉 我希望你们可以过不用依赖嗑药自残也能获得自己想要幸福的生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%91%AB%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%91%AB%E8%8A%A6%E8%8A%B1%E6%97%A5%E5%BF%97",
+                "start": 0,
+                "url": "https://t.co/YkUZ8VBaOv"
+              }
+            ]
+          }
+        },
+        "id": "1917009430845194240",
+        "name": "葫芦花日志",
+        "pinned_tweet_id": "2068366360993014158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065074655925608448/UjqBCc9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 207,
+          "like_count": 1152,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/YkUZ8VBaOv",
+        "username": "BDcivetcat",
+        "verified": false
+      }
+    ]
+  }
+}

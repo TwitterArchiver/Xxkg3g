@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074642861061267456"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2074642871853179184",
+    "created_at": "2026-07-07T23:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T00:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074642871853179184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1N0N6AwX0k",
+          "end": 38,
+          "expanded_url": "https://x.com/Xxkg3g/status/2074642871853179184/photo/1",
+          "media_key": "3_2074642861061267456",
+          "start": 15,
+          "url": "https://t.co/1N0N6AwX0k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074642871853179184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的女孩找茬能力会不会太小了 https://t.co/1N0N6AwX0k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1811,
+        "media_key": "3_2074642861061267456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqcsLFbYAANoKG.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074642861061267456"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2074642871853179184",
+        "created_at": "2026-07-07T23:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T00:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074642871853179184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1N0N6AwX0k",
+              "end": 38,
+              "expanded_url": "https://x.com/Xxkg3g/status/2074642871853179184/photo/1",
+              "media_key": "3_2074642861061267456",
+              "start": 15,
+              "url": "https://t.co/1N0N6AwX0k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074642871853179184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的女孩找茬能力会不会太小了 https://t.co/1N0N6AwX0k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 314,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 1038
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

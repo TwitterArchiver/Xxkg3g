@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065512545230746035",
+    "created_at": "2026-06-12T19:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T20:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065512545230746035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974322069807714305",
+          "start": 3,
+          "username": "toskaIceland"
+        },
+        {
+          "end": 28,
+          "id": "1881351051988934656",
+          "start": 18,
+          "username": "wowyouzhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065512545230746035",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065473723549798845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toskaIceland: @wowyouzhi 你们那个一发收款码赞赏码就有人打钱的x是哪里下的我是不是下错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065512545230746035",
+        "created_at": "2026-06-12T19:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T20:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065512545230746035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974322069807714305",
+              "start": 3,
+              "username": "toskaIceland"
+            },
+            {
+              "end": 28,
+              "id": "1881351051988934656",
+              "start": 18,
+              "username": "wowyouzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065512545230746035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065473723549798845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toskaIceland: @wowyouzhi 你们那个一发收款码赞赏码就有人打钱的x是哪里下的我是不是下错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974322069807714305",
+        "conversation_id": "2065465513900478958",
+        "created_at": "2026-06-12T16:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065473723549798845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881351051988934656",
+              "start": 0,
+              "username": "wowyouzhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065473723549798845",
+        "in_reply_to_user_id": "1881351051988934656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065465513900478958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wowyouzhi 你们那个一发收款码赞赏码就有人打钱的x是哪里下的我是不是下错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 250,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 548
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T03:54:18.000Z",
+        "description": "乐乐",
+        "id": "1974322069807714305",
+        "name": "Toska",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920786865975296/ReB-uSO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 55,
+          "like_count": 669,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 289
+        },
+        "username": "toskaIceland",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T14:40:38.000Z",
+        "description": "哎哟我就是个乐子餐券逼除了犯病就是导管子你让让我。喜欢直fo\n只回关同类会查成分。",
+        "id": "1881351051988934656",
+        "name": "与诗。 月",
+        "pinned_tweet_id": "2059998950590202264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015855876062814208/oFfueUcC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 91,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 278
+        },
+        "username": "wowyouzhi",
+        "verified": false
+      }
+    ]
+  }
+}

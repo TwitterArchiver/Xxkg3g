@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2059311352661914094",
+    "created_at": "2026-05-26T16:41:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T17:41:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059313897799323667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1818456444611555328",
+          "start": 0,
+          "username": "wzdxhnqad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059313897799323667",
+    "in_reply_to_user_id": "1818456444611555328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059311352661914094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wzdxhnqad 你户口本能翻页不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2059311352661914094",
+        "created_at": "2026-05-26T16:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059313897799323667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1818456444611555328",
+              "start": 0,
+              "username": "wzdxhnqad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059313897799323667",
+        "in_reply_to_user_id": "1818456444611555328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059311352661914094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wzdxhnqad 你户口本能翻页不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818456444611555328",
+        "conversation_id": "2059311352661914094",
+        "created_at": "2026-05-26T16:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059311352661914094"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059311352661914094",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我出发点不是好的我不是想劝她 给我来一句我不懂她的痛苦 我什么都还没说啊？ 我凭什么受这个气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n这里是一个精神病 同类欢迎互fo\n 🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "骚扰我打钱",
+        "name": "灸",
+        "pinned_tweet_id": "2058447101948743966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 222,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T01:19:57.000Z",
+        "description": "来农来瓦来铲来和平 碎碎念 叫我初初就好",
+        "id": "1818456444611555328",
+        "location": "地球入",
+        "name": "我睡觉的时候没睡醒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057721058816294912/iLrP7w6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "username": "wzdxhnqad",
+        "verified": false
+      }
+    ]
+  }
+}

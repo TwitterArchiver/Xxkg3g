@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068888957023084729",
+    "created_at": "2026-06-22T03:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T04:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068900983795568768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817131503996030976",
+          "start": 0,
+          "username": "lliln163946"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068900983795568768",
+    "in_reply_to_user_id": "1817131503996030976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068888957023084729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lliln163946 米米"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19208,
+        "height": 720,
+        "media_key": "13_2068888916409614336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068888916409614336/img/NalL_LrI7-t_uP9Y.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068888916409614336/vid/avc1/270x270/0vDE6WZT5k_vkWO_.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068888916409614336/vid/avc1/362x360/E9kLs0Q3cJudXlh5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068888916409614336/vid/avc1/724x720/pYzsc0exlYPh27s0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068888916409614336/pl/cxOg9JV5OrC8q9E4.m3u8"
+          }
+        ],
+        "width": 724
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068888957023084729",
+        "created_at": "2026-06-22T03:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T04:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068900983795568768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817131503996030976",
+              "start": 0,
+              "username": "lliln163946"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068900983795568768",
+        "in_reply_to_user_id": "1817131503996030976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068888957023084729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lliln163946 米米"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068888916409614336"
+          ]
+        },
+        "author_id": "1817131503996030976",
+        "conversation_id": "2068888957023084729",
+        "created_at": "2026-06-22T02:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T03:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068888957023084729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxNnsh67dl",
+              "end": 83,
+              "expanded_url": "https://x.com/lliln163946/status/2068888957023084729/video/1",
+              "media_key": "13_2068888916409614336",
+              "start": 60,
+              "url": "https://t.co/FxNnsh67dl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068888957023084729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "八岁的那一年，摘下那朵花，以为能留住春天。\n十八岁的那一年，牵了她的手，就以为能和她长相。\n可花会枯萎，而爱也会变质。 https://t.co/FxNnsh67dl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo\n我就一个哥哥@xiuyui1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "xiuyui1114"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 252,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T09:34:59.000Z",
+        "description": "",
+        "id": "1817131503996030976",
+        "name": "ぺっ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064184581583257600/4U0-IgAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 104,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "lliln163946",
+        "verified": false
+      }
+    ]
+  }
+}

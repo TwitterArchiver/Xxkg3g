@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2071883626955022505",
+    "created_at": "2026-06-30T09:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071883626955022505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zilempbivrsesd…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/zilempbivrsesd4/status/2071859010819719395",
+          "start": 18,
+          "url": "https://t.co/BQ8CD8JuK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071883626955022505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071859010819719395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@所有人 我们大家都来给他解释一下 https://t.co/BQ8CD8JuK1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2071883626955022505",
+        "created_at": "2026-06-30T09:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071883626955022505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zilempbivrsesd…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/zilempbivrsesd4/status/2071859010819719395",
+              "start": 18,
+              "url": "https://t.co/BQ8CD8JuK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071883626955022505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071859010819719395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@所有人 我们大家都来给他解释一下 https://t.co/BQ8CD8JuK1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080338711760523264",
+        "conversation_id": "2071852504607068183",
+        "created_at": "2026-06-30T07:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071859010819719395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071859010819719395",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071852504607068183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 可能我是男性。\n我一直很费解。\n为什么女性要碎碎念。\n一堆生活中无关紧要细枝末叶的事情\n\n仿佛对这些小细节进行观察真的是什么重要的人生旅程一般。\n\n能不能给我解惑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 285,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 863
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-02T05:43:15.000Z",
+        "description": "先贤的智慧早已在书中警示。\n而个体的懒惰造就了可怜的无知.",
+        "id": "1080338711760523264",
+        "name": "一个骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124392970097086467/9P0G6NSR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 20,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 562
+        },
+        "url": "",
+        "username": "ZilEMPbIVrseSD4",
+        "verified": false
+      }
+    ]
+  }
+}

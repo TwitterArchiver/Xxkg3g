@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065137174815600675",
+    "created_at": "2026-06-11T18:29:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:29:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065139391014621330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809519299754958848",
+          "start": 0,
+          "username": "xiuyui1114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065139391014621330",
+    "in_reply_to_user_id": "1809519299754958848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065138923005968473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiuyui1114 哥哥呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065137174815600675",
+        "created_at": "2026-06-11T18:29:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:29:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065139391014621330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809519299754958848",
+              "start": 0,
+              "username": "xiuyui1114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065139391014621330",
+        "in_reply_to_user_id": "1809519299754958848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065138923005968473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiuyui1114 哥哥呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809519299754958848",
+        "conversation_id": "2065137174815600675",
+        "created_at": "2026-06-11T18:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065138923005968473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065138923005968473",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065137174815600675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g Mua！这照片没有上次见你时候那么可爱呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 246,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 508
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T09:26:50.000Z",
+        "description": "",
+        "id": "1809519299754958848",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061275309962567680/X3g7VkQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 99
+        },
+        "username": "xiuyui1114",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2042922669176414687",
+    "created_at": "2026-04-11T12:19:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T13:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042940695984640246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935676537728323584",
+          "start": 0,
+          "username": "Baiziling_Baiye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042940695984640246",
+    "in_reply_to_user_id": "1935676537728323584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042937635627528224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baiziling_Baiye 嗯嗯嗯好的好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042922669176414687",
+        "created_at": "2026-04-11T12:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042940695984640246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935676537728323584",
+              "start": 0,
+              "username": "Baiziling_Baiye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042940695984640246",
+        "in_reply_to_user_id": "1935676537728323584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042937635627528224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baiziling_Baiye 嗯嗯嗯好的好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935676537728323584",
+        "conversation_id": "2042922669176414687",
+        "created_at": "2026-04-11T12:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T13:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042937635627528224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042937635627528224",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042922669176414687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 你上地府问去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n不约不聊骚 私信都会回欢迎大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "距离你5.2km  提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 132,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T12:30:44.000Z",
+        "description": "抬手不是道歉，而是老弟你还得练",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "qq13661788753.com",
+                "end": 23,
+                "expanded_url": "http://qq13661788753.com",
+                "start": 0,
+                "url": "https://t.co/GWGwupxdUa"
+              }
+            ]
+          }
+        },
+        "id": "1935676537728323584",
+        "location": "Malaysia",
+        "name": "白夜墨染",
+        "pinned_tweet_id": "1984912870795321674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938544732772413440/kSztNSrF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 70,
+          "like_count": 3947,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/GWGwupxdUa",
+        "username": "Baiziling_Baiye",
+        "verified": false
+      }
+    ]
+  }
+}

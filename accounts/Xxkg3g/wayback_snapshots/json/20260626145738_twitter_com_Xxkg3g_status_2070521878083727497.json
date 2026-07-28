@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2070324497975218285",
+    "created_at": "2026-06-26T14:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070521878083727497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753606959343824896",
+          "start": 0,
+          "username": "woshengbingle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070521878083727497",
+    "in_reply_to_user_id": "1753606959343824896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070324497975218285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshengbingle 好可可可可可可可耐"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070324488550731777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtFJz3b0AE3Tyq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2070324497975218285",
+        "created_at": "2026-06-26T14:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070521878083727497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753606959343824896",
+              "start": 0,
+              "username": "woshengbingle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070521878083727497",
+        "in_reply_to_user_id": "1753606959343824896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070324497975218285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshengbingle 好可可可可可可可耐"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070324488550731777"
+          ]
+        },
+        "author_id": "1753606959343824896",
+        "conversation_id": "2070324497975218285",
+        "created_at": "2026-06-26T01:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070324497975218285"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoJr2u5swr",
+              "end": 62,
+              "expanded_url": "https://x.com/woshengbingle/status/2070324497975218285/photo/1",
+              "media_key": "3_2070324488550731777",
+              "start": 39,
+              "url": "https://t.co/KoJr2u5swr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070324497975218285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好可爱啊啊啊啊啊啊啊躺在我的衣服上随便让我摸肚子，这和养了个女儿有什么区别？ https://t.co/KoJr2u5swr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 不加墙内 \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070325475801534464/2UxXNATI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 275,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 752
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T02:30:56.000Z",
+        "description": "",
+        "id": "1753606959343824896",
+        "name": "阿你怎麼哭了",
+        "pinned_tweet_id": "2064670274080186444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059740542406426624/jKzyfn_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 27,
+          "like_count": 615,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 334
+        },
+        "url": "",
+        "username": "woshengbingle",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2064002267255021802",
+    "created_at": "2026-06-08T15:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064002267255021802"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2063863596132495454",
+          "start": 16,
+          "url": "https://t.co/N5k8QuWoOc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064002267255021802",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063863596132495454",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "霸凌者的全家福在身份证上就能看 https://t.co/N5k8QuWoOc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 239880,
+        "height": 824,
+        "media_key": "13_2063683497017909248",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063683497017909248/img/n_0Z6MVhP1lBJ48F.jpg",
+        "public_metrics": {
+          "view_count": 64964
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683497017909248/vid/avc1/320x568/tF5JNaAlu0m23K8a.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683497017909248/vid/avc1/464x824/nS75A9aTVAIxaXFH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063683497017909248/pl/pjMV1yLXnpKCc8Dm.m3u8"
+          }
+        ],
+        "width": 464
+      },
+      {
+        "duration_ms": 21199,
+        "height": 1278,
+        "media_key": "13_2063683496975970304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063683496975970304/img/8zrWUa-7CVKscfBm.jpg",
+        "public_metrics": {
+          "view_count": 5650
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683496975970304/vid/avc1/320x568/rHAVtg0IC_hVY-xr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683496975970304/vid/avc1/480x852/OhTGeCBbXfNj1E9W.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683496975970304/vid/avc1/720x1278/aU9cHBSr7Giv1YjM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063683496975970304/pl/2EnVKyeRxRDqpCwE.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 20085,
+        "height": 1278,
+        "media_key": "13_2063683498167209984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063683498167209984/img/0H2f_I0e-YoeDdDN.jpg",
+        "public_metrics": {
+          "view_count": 5627
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683498167209984/vid/avc1/320x568/PT1fB2-LLLXIYij5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683498167209984/vid/avc1/480x852/IUfbp2bntiImc1fs.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683498167209984/vid/avc1/720x1278/ET3zptR5VvqYB513.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063683498167209984/pl/i1LP1iNpl5GuJcHi.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 82407,
+        "height": 852,
+        "media_key": "13_2063683496988622848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063683496988622848/img/JFPVzMhJ2Mx48S-d.jpg",
+        "public_metrics": {
+          "view_count": 6722
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683496988622848/vid/avc1/320x568/5SS06k0pE0fChjNm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063683496988622848/vid/avc1/480x852/BZqxExKej96eWhtq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063683496988622848/pl/j77NIbGwEnPtyZ2G.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2064002267255021802",
+        "created_at": "2026-06-08T15:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064002267255021802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2063863596132495454",
+              "start": 16,
+              "url": "https://t.co/N5k8QuWoOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064002267255021802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063863596132495454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "霸凌者的全家福在身份证上就能看 https://t.co/N5k8QuWoOc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063683497017909248",
+            "13_2063683496975970304",
+            "13_2063683498167209984",
+            "13_2063683496988622848"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2063863596132495454",
+        "created_at": "2026-06-08T06:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063863596132495454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/usPhjcdsRn",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063863596132495454/video/1",
+              "media_key": "13_2063683497017909248",
+              "start": 81,
+              "url": "https://t.co/usPhjcdsRn"
+            },
+            {
+              "display_url": "pic.x.com/usPhjcdsRn",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063863596132495454/video/1",
+              "media_key": "13_2063683496975970304",
+              "start": 81,
+              "url": "https://t.co/usPhjcdsRn"
+            },
+            {
+              "display_url": "pic.x.com/usPhjcdsRn",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063863596132495454/video/1",
+              "media_key": "13_2063683498167209984",
+              "start": 81,
+              "url": "https://t.co/usPhjcdsRn"
+            },
+            {
+              "display_url": "pic.x.com/usPhjcdsRn",
+              "end": 104,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2063863596132495454/video/1",
+              "media_key": "13_2063683496988622848",
+              "start": 81,
+              "url": "https://t.co/usPhjcdsRn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063863596132495454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 332,
+          "impression_count": 159639,
+          "like_count": 1038,
+          "quote_count": 21,
+          "reply_count": 149,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "近日，一个十几岁女生被霸凌围殴的视频被曝光。\n\n根据流传的视频显示，女孩遭数人猛烈拳打脚踢，被电击器电的痛苦哀嚎，衣服被扯烂，猛踹头部，遍体鳞伤，地板上血迹斑斑 https://t.co/usPhjcdsRn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎私信交朋友呀",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 235,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 441
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2235929,
+          "following_count": 1070,
+          "like_count": 9641,
+          "listed_count": 8799,
+          "media_count": 48160,
+          "tweet_count": 55313
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

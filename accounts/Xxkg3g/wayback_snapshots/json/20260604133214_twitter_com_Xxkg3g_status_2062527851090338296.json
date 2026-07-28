@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2062527851090338296",
+    "created_at": "2026-06-04T13:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062527851090338296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060627239654629376",
+          "start": 3,
+          "username": "ashdieds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062527851090338296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062490030090920135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashdieds: 想寻回互fo。求转ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2062527851090338296",
+        "created_at": "2026-06-04T13:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062527851090338296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060627239654629376",
+              "start": 3,
+              "username": "ashdieds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062527851090338296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062490030090920135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashdieds: 想寻回互fo。求转ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060627239654629376",
+        "conversation_id": "2062490030090920135",
+        "created_at": "2026-06-04T11:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062490030090920135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062490030090920135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想寻回互fo。求转ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念  🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 228,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T07:41:15.000Z",
+        "description": "=蚀蚀/蚀蛊影 | 餐劵od | 心境情感障碍 | rap摇滚 | cos | 地下党 |求互转互fo",
+        "id": "2060627239654629376",
+        "location": "私信除同类只回复🚪",
+        "name": "蚀蛊（二代转世",
+        "pinned_tweet_id": "2062306323841351740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062173713458712576/P5uLTgwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 63,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 58
+        },
+        "username": "ashdieds",
+        "verified": false
+      }
+    ]
+  }
+}

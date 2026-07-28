@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068907837674144201",
+    "created_at": "2026-06-22T04:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T05:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068907837674144201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738574376457646080",
+          "start": 3,
+          "username": "pofCat2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068907837674144201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068726439957205233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pofCat2: 要拥有被讨厌的勇气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068907837674144201",
+        "created_at": "2026-06-22T04:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T05:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068907837674144201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738574376457646080",
+              "start": 3,
+              "username": "pofCat2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068907837674144201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068726439957205233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pofCat2: 要拥有被讨厌的勇气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738574376457646080",
+        "conversation_id": "2068726439957205233",
+        "created_at": "2026-06-21T16:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T17:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068726439957205233"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068726439957205233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4834,
+          "like_count": 115,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "要拥有被讨厌的勇气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo\n我就一个哥哥@xiuyui1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "xiuyui1114"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 252,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 588
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-23T14:57:00.000Z",
+        "description": "平静一些幸福一些ovo",
+        "id": "1738574376457646080",
+        "name": "泡芙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056425564060434432/gFxd3q7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1528,
+          "following_count": 29,
+          "like_count": 2412,
+          "listed_count": 7,
+          "media_count": 20,
+          "tweet_count": 644
+        },
+        "url": "",
+        "username": "pofCat2",
+        "verified": false
+      }
+    ]
+  }
+}

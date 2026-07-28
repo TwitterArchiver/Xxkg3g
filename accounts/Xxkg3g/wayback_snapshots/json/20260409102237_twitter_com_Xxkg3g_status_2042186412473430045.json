@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2042186266310328400",
+    "created_at": "2026-04-09T10:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T11:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042186412473430045"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042186412473430045",
+    "in_reply_to_user_id": "2040496801401425920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042186266310328400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个是哪个宝宝发的呀！(&gt;^ω^&lt;)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042186258525704192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdNlQib0AAjuNv.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042186266310328400",
+        "created_at": "2026-04-09T10:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042186412473430045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042186412473430045",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042186266310328400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个是哪个宝宝发的呀！(&gt;^ω^&lt;)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042186258525704192"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042186266310328400",
+        "created_at": "2026-04-09T10:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042186266310328400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "ngl.link/%E7%81%B8ws",
+              "end": 23,
+              "expanded_url": "https://ngl.link/%E7%81%B8ws",
+              "start": 0,
+              "status": 404,
+              "unwound_url": "https://ngl.link/%E7%81%B8ws",
+              "url": "https://t.co/1ZUmJ9mT6D"
+            },
+            {
+              "display_url": "pic.x.com/a9wNpZnSm7",
+              "end": 62,
+              "expanded_url": "https://x.com/Xxkg3g/status/2042186266310328400/photo/1",
+              "media_key": "3_2042186258525704192",
+              "start": 39,
+              "url": "https://t.co/a9wNpZnSm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042186266310328400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1ZUmJ9mT6D 里面只有一个是真人…我气笑了 https://t.co/a9wNpZnSm7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "我o我割｜互fo直关｜欢迎私信发展",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪52好友位/70陪聊照片/99语音/520视频",
+        "name": "灸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041072151219011584/6s4abgnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 71,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 42
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

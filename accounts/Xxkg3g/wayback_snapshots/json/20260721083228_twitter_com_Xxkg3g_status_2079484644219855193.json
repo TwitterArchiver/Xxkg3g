@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2079272406888468669",
+    "created_at": "2026-07-21T08:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T09:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079484644219855193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1798175196182151168",
+          "start": 0,
+          "username": "Sha11ery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079484644219855193",
+    "in_reply_to_user_id": "1798175196182151168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079272406888468669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sha11ery 好羡慕你们发啥都有一堆人互动哦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2079272406888468669",
+        "created_at": "2026-07-21T08:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T09:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079484644219855193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1798175196182151168",
+              "start": 0,
+              "username": "Sha11ery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079484644219855193",
+        "in_reply_to_user_id": "1798175196182151168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079272406888468669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sha11ery 好羡慕你们发啥都有一堆人互动哦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798175196182151168",
+        "conversation_id": "2079272406888468669",
+        "created_at": "2026-07-20T18:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079272406888468669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079272406888468669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好羡慕你们发啥都有一堆人互动哦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077678187916713984/4WWj-c3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 883,
+          "following_count": 338,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T02:09:21.000Z",
+        "description": "08直男，你的素质决定我的素质，私信看到就会回，欢迎互fo\n二号机@h_shatter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "h_shatter"
+              }
+            ]
+          }
+        },
+        "id": "1798175196182151168",
+        "name": "Sha11er",
+        "pinned_tweet_id": "2072369234014040376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066377168737935360/aivhrtTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 72,
+          "like_count": 2249,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 938
+        },
+        "url": "",
+        "username": "Sha11ery",
+        "verified": false
+      }
+    ]
+  }
+}

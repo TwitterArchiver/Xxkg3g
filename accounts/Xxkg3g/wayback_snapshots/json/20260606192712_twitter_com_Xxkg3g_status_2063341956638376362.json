@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2063341956638376362",
+    "created_at": "2026-06-06T19:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063341956638376362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2058720015915134976",
+          "start": 3,
+          "username": "3znq3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063341956638376362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063131894301200719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3znq3: 突然意识到 因为想要爱而接受了多少不尊重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2063341956638376362",
+        "created_at": "2026-06-06T19:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063341956638376362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2058720015915134976",
+              "start": 3,
+              "username": "3znq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063341956638376362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063131894301200719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3znq3: 突然意识到 因为想要爱而接受了多少不尊重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058720015915134976",
+        "conversation_id": "2063131894301200719",
+        "created_at": "2026-06-06T05:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T06:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063131894301200719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063131894301200719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11019,
+          "like_count": 402,
+          "quote_count": 2,
+          "reply_count": 36,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "突然意识到 因为想要爱而接受了多少不尊重"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病 欢迎互fo\n 碎碎念",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 228,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 405
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T01:21:50.000Z",
+        "description": "🐾",
+        "id": "2058720015915134976",
+        "name": "瑞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058720261344804864/6RwJVL3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 25,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 36
+        },
+        "username": "3znq3",
+        "verified": false
+      }
+    ]
+  }
+}

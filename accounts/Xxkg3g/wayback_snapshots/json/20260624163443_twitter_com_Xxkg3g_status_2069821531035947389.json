@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2069817556387721256",
+    "created_at": "2026-06-24T16:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069821531035947389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067549451355639808",
+          "start": 0,
+          "username": "Iholdtheblade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069821531035947389",
+    "in_reply_to_user_id": "2067549451355639808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069817556387721256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iholdtheblade 晚安！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2069817556387721256",
+        "created_at": "2026-06-24T16:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069821531035947389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067549451355639808",
+              "start": 0,
+              "username": "Iholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069821531035947389",
+        "in_reply_to_user_id": "2067549451355639808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069817556387721256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iholdtheblade 晚安！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067549451355639808",
+        "conversation_id": "2069817556387721256",
+        "created_at": "2026-06-24T16:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069817556387721256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069817556387721256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安@所有人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 260,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 662
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T10:07:16.000Z",
+        "description": "hi，叫我隔阂就好\n碎碎念，生活日常，猫咪，音乐就是我的全部啦\n欢迎任何人互fo 爱所有美女帅哥\n别好奇关于我皮下的一切感谢！",
+        "id": "2067549451355639808",
+        "location": "在你左侧",
+        "name": "更痛更苦更隔阂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067562656031293440/d1d-OGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 24,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 71
+        },
+        "url": "",
+        "username": "Iholdtheblade",
+        "verified": false
+      }
+    ]
+  }
+}

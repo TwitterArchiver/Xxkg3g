@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2081146528480288957",
+    "created_at": "2026-07-26T20:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T21:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081476282278420516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1811391805520502784",
+          "start": 0,
+          "username": "eusbxusn54564"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081476282278420516",
+    "in_reply_to_user_id": "1811391805520502784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081415262172238278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eusbxusn54564 好！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2081146528480288957",
+        "created_at": "2026-07-26T20:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T21:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081476282278420516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1811391805520502784",
+              "start": 0,
+              "username": "eusbxusn54564"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081476282278420516",
+        "in_reply_to_user_id": "1811391805520502784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081415262172238278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eusbxusn54564 好！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811391805520502784",
+        "conversation_id": "2081146528480288957",
+        "created_at": "2026-07-26T16:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081415262172238278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081415262172238278",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081146528480288957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 小宝宝 下次遇到这种人 直接让他滚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079997105410592768/s87Ya-m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 358,
+          "like_count": 397,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-11T13:27:33.000Z",
+        "description": "需要定制音频直接私我呀（叫我小鱼就好啦）\n🐟可以直接私信我（我都会回复的 没回大概是没有看见）\n🐟：匿名👉https://t.co/iqnkSnrr8f\n（复活版小号 小米蕉） @ovllll141148",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 89,
+                "username": "ovllll141148"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%80%E5%8…",
+                "end": 76,
+                "expanded_url": "https://ngl.link/%E4%B8%80%E5%8F%AA%E7%AB%A0%E9%B1%BC",
+                "start": 53,
+                "url": "https://t.co/iqnkSnrr8f"
+              }
+            ]
+          }
+        },
+        "id": "1811391805520502784",
+        "name": "脆脆鲨",
+        "pinned_tweet_id": "2066351512927039604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075545198919323648/iYk93ARW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8099,
+          "following_count": 30,
+          "like_count": 282,
+          "listed_count": 19,
+          "media_count": 37,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "eusbxusn54564",
+        "verified": false
+      }
+    ]
+  }
+}

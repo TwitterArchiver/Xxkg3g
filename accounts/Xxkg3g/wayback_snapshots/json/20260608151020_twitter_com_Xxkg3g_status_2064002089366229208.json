@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2063956003092381729",
+    "created_at": "2026-06-08T15:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T16:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064002089366229208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1753606959343824896",
+          "start": 0,
+          "username": "woshengbingle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064002089366229208",
+    "in_reply_to_user_id": "1753606959343824896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063956003092381729",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshengbingle 为高考静音。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6800,
+        "height": 1280,
+        "media_key": "13_2063955939032707072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063955939032707072/img/C3Q1bi3Qyi-OA1tq.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063955939032707072/vid/avc1/320x568/ubpqN-XHaquThkcM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063955939032707072/vid/avc1/480x852/JWVXfNx7QXcu5eFT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063955939032707072/vid/avc1/720x1280/PFFVRpVpv89QpuCC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063955939032707072/pl/sdmn1oEjJ5xX5bSy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2063956003092381729",
+        "created_at": "2026-06-08T15:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T16:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064002089366229208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1753606959343824896",
+              "start": 0,
+              "username": "woshengbingle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064002089366229208",
+        "in_reply_to_user_id": "1753606959343824896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063956003092381729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshengbingle 为高考静音。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2063955939032707072"
+          ]
+        },
+        "author_id": "1753606959343824896",
+        "conversation_id": "2063956003092381729",
+        "created_at": "2026-06-08T12:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T13:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063956003092381729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ymRGn4S2vC",
+              "end": 23,
+              "expanded_url": "https://x.com/woshengbingle/status/2063956003092381729/video/1",
+              "media_key": "13_2063955939032707072",
+              "start": 0,
+              "url": "https://t.co/ymRGn4S2vC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063956003092381729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ymRGn4S2vC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎私信交朋友呀",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063598324943405056/oqpRiqrY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 235,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 440
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T02:30:56.000Z",
+        "description": "",
+        "id": "1753606959343824896",
+        "name": "阿你怎麼哭了",
+        "pinned_tweet_id": "2059350623016092116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059740542406426624/jKzyfn_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 16,
+          "like_count": 557,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 251
+        },
+        "username": "woshengbingle",
+        "verified": false
+      }
+    ]
+  }
+}

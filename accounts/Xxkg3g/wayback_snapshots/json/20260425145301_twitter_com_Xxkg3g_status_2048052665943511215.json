@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2048052665943511215",
+    "created_at": "2026-04-25T14:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T15:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048052665943511215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046865892240474112",
+          "start": 3,
+          "username": "chuyu42"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048052665943511215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047919263793762623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuyu42: 号锁了回不了信息 有事直接给我发"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2048052665943511215",
+        "created_at": "2026-04-25T14:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048052665943511215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046865892240474112",
+              "start": 3,
+              "username": "chuyu42"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048052665943511215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047919263793762623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuyu42: 号锁了回不了信息 有事直接给我发"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046865892240474112",
+        "conversation_id": "2047919263793762623",
+        "created_at": "2026-04-25T06:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047919263793762623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/eweisi32/statu…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/eweisi32/status/2046441934877839739",
+              "start": 17,
+              "url": "https://t.co/LdCs0BLlUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047919263793762623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046441934877839739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "号锁了回不了信息 有事直接给我发 https://t.co/LdCs0BLlUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n欢迎来找我交朋友(≧∇≦)\n不约不聊骚 🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "骚扰我打钱",
+        "name": "灸",
+        "pinned_tweet_id": "2046098623302336698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 182,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-22T08:17:29.000Z",
+        "description": "我o割 喜欢女的\n骂的就是你",
+        "id": "2046865892240474112",
+        "location": "🚪随意打赏",
+        "name": "蚀（重生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047167707053719552/6401uZ8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 6,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 66
+        },
+        "username": "chuyu42",
+        "verified": false
+      }
+    ]
+  }
+}

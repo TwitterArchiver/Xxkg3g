@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046507461541249024"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2046507468067668242",
+    "created_at": "2026-04-21T08:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046507468067668242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cOPVLLwI1f",
+          "end": 28,
+          "expanded_url": "https://x.com/Xxkg3g/status/2046507468067668242/photo/1",
+          "media_key": "3_2046507461541249024",
+          "start": 5,
+          "url": "https://t.co/cOPVLLwI1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046507468067668242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "偷情一样 https://t.co/cOPVLLwI1f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_2046507461541249024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGansYNaQAAsBqO.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046507461541249024"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2046507468067668242",
+        "created_at": "2026-04-21T08:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046507468067668242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cOPVLLwI1f",
+              "end": 28,
+              "expanded_url": "https://x.com/Xxkg3g/status/2046507468067668242/photo/1",
+              "media_key": "3_2046507461541249024",
+              "start": 5,
+              "url": "https://t.co/cOPVLLwI1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046507468067668242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "偷情一样 https://t.co/cOPVLLwI1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n欢迎来找我交朋友(≧∇≦)\n不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2046098623302336698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 185,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

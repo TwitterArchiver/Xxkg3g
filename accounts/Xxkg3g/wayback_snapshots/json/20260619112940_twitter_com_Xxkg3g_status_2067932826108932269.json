@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067932822401081344"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2067932826108932269",
+    "created_at": "2026-06-19T11:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T12:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067932826108932269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i16BOU0HZW",
+          "end": 26,
+          "expanded_url": "https://x.com/Xxkg3g/status/2067932826108932269/photo/1",
+          "media_key": "3_2067932822401081344",
+          "start": 3,
+          "url": "https://t.co/i16BOU0HZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067932826108932269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "忧郁 https://t.co/i16BOU0HZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2067932822401081344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLF8hKWYAAJJyB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067932822401081344"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2067932826108932269",
+        "created_at": "2026-06-19T11:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067932826108932269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i16BOU0HZW",
+              "end": 26,
+              "expanded_url": "https://x.com/Xxkg3g/status/2067932826108932269/photo/1",
+              "media_key": "3_2067932822401081344",
+              "start": 3,
+              "url": "https://t.co/i16BOU0HZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067932826108932269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忧郁 https://t.co/i16BOU0HZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 245,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 525
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

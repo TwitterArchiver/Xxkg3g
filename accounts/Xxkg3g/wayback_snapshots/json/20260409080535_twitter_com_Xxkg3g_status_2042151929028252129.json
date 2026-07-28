@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2042151929028252129",
+    "created_at": "2026-04-09T08:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042151929028252129"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042151929028252129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "内裤老是偷偷摸我屁股怎么办\n1.摸回去\n用指尖划过腰际线，隔着布料缓缓施加压力，动作要带三分慵懒七分掌控\n一边摸一边说:小裤裤，你不乘哦~\n2.放屁给它闻\n转身将内裤抵在墙角，用鼻腔轻哼一声:不是喜欢贴这么近?现在让你记清楚我的味道释放气体\n3.不穿\n不穿就不用担心了，一劳永逸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042151929028252129",
+        "created_at": "2026-04-09T08:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042151929028252129"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042151929028252129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "内裤老是偷偷摸我屁股怎么办\n1.摸回去\n用指尖划过腰际线，隔着布料缓缓施加压力，动作要带三分慵懒七分掌控\n一边摸一边说:小裤裤，你不乘哦~\n2.放屁给它闻\n转身将内裤抵在墙角，用鼻腔轻哼一声:不是喜欢贴这么近?现在让你记清楚我的味道释放气体\n3.不穿\n不穿就不用担心了，一劳永逸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "我o我割｜互fo直关｜欢迎私信发展",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪52好友位/70陪聊照片/99语音/520视频",
+        "name": "灸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041072151219011584/6s4abgnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 70,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

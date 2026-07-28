@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2072218819033288706",
+    "created_at": "2026-07-01T07:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T08:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072221567518650552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809885957312901120",
+          "start": 0,
+          "username": "zhu1896074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072221567518650552",
+    "in_reply_to_user_id": "1809885957312901120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072218819033288706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu1896074 亲亲我的女孩…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2072218819033288706",
+        "created_at": "2026-07-01T07:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072221567518650552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809885957312901120",
+              "start": 0,
+              "username": "zhu1896074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072221567518650552",
+        "in_reply_to_user_id": "1809885957312901120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072218819033288706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu1896074 亲亲我的女孩…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809885957312901120",
+        "conversation_id": "2072218819033288706",
+        "created_at": "2026-07-01T07:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T08:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072218819033288706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072218819033288706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "壓力好大(∩_∩)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 289,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T09:43:39.000Z",
+        "description": "ⓘ該賬戶因違反規定，已被禁言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1b239c",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1b239c",
+                "start": 0,
+                "url": "https://t.co/kxmkUboc5s"
+              }
+            ]
+          }
+        },
+        "id": "1809885957312901120",
+        "name": "null",
+        "pinned_tweet_id": "2071617343109886111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071892998615351296/DTSEaPfT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 45,
+          "like_count": 7226,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/kxmkUboc5s",
+        "username": "zhu1896074",
+        "verified": false
+      }
+    ]
+  }
+}

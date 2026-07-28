@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2074388925867765989",
+    "created_at": "2026-07-07T07:04:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074389102057918929"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074389102057918929",
+    "in_reply_to_user_id": "2040496801401425920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074388925867765989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妹妹好漂亮😍妹妹处不处对象🥰妹妹给我一个机会🥹我一点都不浪🙂‍↔️妹妹听我说😁妹妹现在坏人多👿妹妹让我保护💪任你摆布任你作🫡妹妹好可爱🥰妹妹你是我的菜😘妹妹别再担心😦其实试试恋爱也不赖😳妹妹跟我走👫妹妹牵牵我的手👋妹妹你就考虑一下让我做你男朋友👩‍❤️‍💋‍👨"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30033,
+        "height": 814,
+        "media_key": "13_2074388807353544705",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074388807353544705/img/Os7hmxi8o69MSf7y.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074388807353544705/vid/avc1/320x360/5VeGffOkR2sssR2i.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074388807353544705/vid/avc1/480x542/1e_8hz4CvNJehB8k.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074388807353544705/vid/avc1/720x814/s5PvJHnVjyqBmC3N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074388807353544705/pl/f8A0vsuKhsLngY-U.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2074388925867765989",
+        "created_at": "2026-07-07T07:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074389102057918929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074389102057918929",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074388925867765989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妹妹好漂亮😍妹妹处不处对象🥰妹妹给我一个机会🥹我一点都不浪🙂‍↔️妹妹听我说😁妹妹现在坏人多👿妹妹让我保护💪任你摆布任你作🫡妹妹好可爱🥰妹妹你是我的菜😘妹妹别再担心😦其实试试恋爱也不赖😳妹妹跟我走👫妹妹牵牵我的手👋妹妹你就考虑一下让我做你男朋友👩‍❤️‍💋‍👨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074388807353544705"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2074388925867765989",
+        "created_at": "2026-07-07T07:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074388925867765989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vDvJsUv3j",
+              "end": 38,
+              "expanded_url": "https://x.com/Xxkg3g/status/2074388925867765989/video/1",
+              "media_key": "13_2074388807353544705",
+              "start": 15,
+              "url": "https://t.co/1vDvJsUv3j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074388925867765989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是一个可爱的女孩，抱歉！ https://t.co/1vDvJsUv3j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 730,
+          "following_count": 302,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1008
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

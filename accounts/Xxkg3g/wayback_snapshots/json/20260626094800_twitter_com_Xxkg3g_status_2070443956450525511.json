@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2070372070266167703",
+    "created_at": "2026-06-26T09:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070443956450525511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067549451355639808",
+          "start": 0,
+          "username": "Iholdtheblade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070443956450525511",
+    "in_reply_to_user_id": "2067549451355639808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070372070266167703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iholdtheblade 想想都流狗水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2070372070266167703",
+        "created_at": "2026-06-26T09:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070443956450525511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067549451355639808",
+              "start": 0,
+              "username": "Iholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070443956450525511",
+        "in_reply_to_user_id": "2067549451355639808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070372070266167703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iholdtheblade 想想都流狗水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067549451355639808",
+        "conversation_id": "2070372070266167703",
+        "created_at": "2026-06-26T05:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070372070266167703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070372070266167703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的目标就是有稳定的收入 独居在温暖的小屋里 养小猫小狗  每天做自己想吃的 一定要买一个黑胶机 再买一堆我喜欢的黑胶唱片 想想都流狗水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 不加墙内 \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070325475801534464/2UxXNATI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 272,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T10:07:16.000Z",
+        "description": "hi，叫我隔阂就好\n苦逼高中生 不谈恋爱不聊骚 讨厌顺直男\n碎碎念，生活日常，猫咪，音乐就是我的全部啦\n欢迎任何人互fo 爱所有美女帅哥\n别好奇关于我皮下的一切感谢！",
+        "id": "2067549451355639808",
+        "location": "在你左侧",
+        "name": "更痛更苦更隔阂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067562656031293440/d1d-OGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 32,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "Iholdtheblade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2077823836029177857",
+    "created_at": "2026-07-16T20:34:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T21:34:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077854322444877897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056215337113382912",
+          "start": 0,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077854322444877897",
+    "in_reply_to_user_id": "2056215337113382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077823836029177857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX2222 宝宝你好瘦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1843,
+        "media_key": "3_2077823826835243009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNXpwwBbgAE86HB.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2077823836029177857",
+        "created_at": "2026-07-16T20:34:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T21:34:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077854322444877897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056215337113382912",
+              "start": 0,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077854322444877897",
+        "in_reply_to_user_id": "2056215337113382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077823836029177857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX2222 宝宝你好瘦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077823826835243009"
+          ]
+        },
+        "author_id": "2056215337113382912",
+        "conversation_id": "2077823836029177857",
+        "created_at": "2026-07-16T18:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077823836029177857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cnbaVeSSPm",
+              "end": 26,
+              "expanded_url": "https://x.com/FreeX2222/status/2077823836029177857/photo/1",
+              "media_key": "3_2077823826835243009",
+              "start": 3,
+              "url": "https://t.co/cnbaVeSSPm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077823836029177857",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 4365,
+          "like_count": 257,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "🎵… https://t.co/cnbaVeSSPm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077678187916713984/4WWj-c3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 339,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1206
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n@FreeX114514\n不回复无意义消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "FreeX114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FreeXOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/FreeXOvO",
+                "start": 0,
+                "url": "https://t.co/xZNFqf5yBG"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "这个世界没有岸 只有越来越会游泳的自己",
+        "name": "FreeX",
+        "pinned_tweet_id": "2076935999704469666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075154363677642752/_aZ5nh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27190,
+          "following_count": 214,
+          "like_count": 5987,
+          "listed_count": 15,
+          "media_count": 247,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/xZNFqf5yBG",
+        "username": "FreeX2222",
+        "verified": true
+      }
+    ]
+  }
+}

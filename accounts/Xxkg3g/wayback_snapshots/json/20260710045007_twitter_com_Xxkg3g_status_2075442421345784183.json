@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2075442421345784183",
+    "created_at": "2026-07-10T04:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075442421345784183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2038729059014995968",
+          "start": 3,
+          "username": "Canan2001111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075442421345784183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075340358993715352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Canan2001111: -置顶-\n我是小南重生版 求大家助力我找回前世卢关和门槛哥！\n\n坐标江浙沪🚪88好友位 188朋友圈 288可线下 520打九折电子女友 1314永久八折你是我的神\n\n求爸爸妈妈们多多关照这个吃不上饭再次下海的小女孩吧🥹🥹 https://t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075340341046345728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0XC2gbAAADLn5.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075340341046308864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM0XC2gacAAKdqb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2075442421345784183",
+        "created_at": "2026-07-10T04:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075442421345784183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2038729059014995968",
+              "start": 3,
+              "username": "Canan2001111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075442421345784183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075340358993715352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Canan2001111: -置顶-\n我是小南重生版 求大家助力我找回前世卢关和门槛哥！\n\n坐标江浙沪🚪88好友位 188朋友圈 288可线下 520打九折电子女友 1314永久八折你是我的神\n\n求爸爸妈妈们多多关照这个吃不上饭再次下海的小女孩吧🥹🥹 https://t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075340341046345728",
+            "3_2075340341046308864"
+          ]
+        },
+        "author_id": "2038729059014995968",
+        "conversation_id": "2075340358993715352",
+        "created_at": "2026-07-09T22:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T23:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075340358993715352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZINRQd72sq",
+              "end": 135,
+              "expanded_url": "https://x.com/Canan2001111/status/2075340358993715352/photo/1",
+              "media_key": "3_2075340341046345728",
+              "start": 112,
+              "url": "https://t.co/ZINRQd72sq"
+            },
+            {
+              "display_url": "pic.x.com/ZINRQd72sq",
+              "end": 135,
+              "expanded_url": "https://x.com/Canan2001111/status/2075340358993715352/photo/1",
+              "media_key": "3_2075340341046308864",
+              "start": 112,
+              "url": "https://t.co/ZINRQd72sq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075340358993715352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "-置顶-\n我是小南重生版 求大家助力我找回前世卢关和门槛哥！\n\n坐标江浙沪🚪88好友位 188朋友圈 288可线下 520打九折电子女友 1314永久八折你是我的神\n\n求爸爸妈妈们多多关照这个吃不上饭再次下海的小女孩吧🥹🥹 https://t.co/ZINRQd72sq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 另一个我@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075188389863706624/6HVlXvmn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 325,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T21:24:53.000Z",
+        "description": "坐标江浙沪 🚪88/188/288/520/1314\n验证20（默认露脸说时间）",
+        "id": "2038729059014995968",
+        "name": "小南3.0（互关互转大欢迎）",
+        "pinned_tweet_id": "2075340358993715352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075340015710986240/p3kmrgYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "Canan2001111",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065137171154022400"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065137174815600675",
+    "created_at": "2026-06-11T18:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065137174815600675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JvoLcW89DT",
+          "end": 28,
+          "expanded_url": "https://x.com/Xxkg3g/status/2065137174815600675/photo/1",
+          "media_key": "3_2065137171154022400",
+          "start": 5,
+          "url": "https://t.co/JvoLcW89DT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065137174815600675",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "mua！ https://t.co/JvoLcW89DT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1490,
+        "media_key": "3_2065137171154022400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjXUMsXMAAlMUf.jpg",
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065137171154022400"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065137174815600675",
+        "created_at": "2026-06-11T18:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065137174815600675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvoLcW89DT",
+              "end": 28,
+              "expanded_url": "https://x.com/Xxkg3g/status/2065137174815600675/photo/1",
+              "media_key": "3_2065137171154022400",
+              "start": 5,
+              "url": "https://t.co/JvoLcW89DT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065137174815600675",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mua！ https://t.co/JvoLcW89DT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 245,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 507
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

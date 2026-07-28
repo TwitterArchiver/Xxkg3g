@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2071926489948508455",
+    "created_at": "2026-06-30T12:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071929366192521383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2067549451355639808",
+          "start": 0,
+          "username": "Iholdtheblade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071929366192521383",
+    "in_reply_to_user_id": "2067549451355639808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071926489948508455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iholdtheblade 男孩我抱抱你😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2071926489948508455",
+        "created_at": "2026-06-30T12:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071929366192521383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067549451355639808",
+              "start": 0,
+              "username": "Iholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071929366192521383",
+        "in_reply_to_user_id": "2067549451355639808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071926489948508455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iholdtheblade 男孩我抱抱你😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067549451355639808",
+        "conversation_id": "2071926489948508455",
+        "created_at": "2026-06-30T11:59:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:59:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071926489948508455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《中央大街》，由 Jesse Margiela 演唱，收录于《蓝图4》专辑中，《中央大街》下载，《中央大街》在线试听，更多中央大街相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/93CVuTm",
+              "end": 88,
+              "expanded_url": "https://163cn.tv/93CVuTm",
+              "images": [
+                {
+                  "height": 2158,
+                  "url": "https://pbs.twimg.com/news_img/2071926532638154752/v8Q7iiY1?format=jpg&name=orig",
+                  "width": 2158
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071926532638154752/v8Q7iiY1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "中央大街 - Jesse Margiela - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t2&id=2637424753&PlayerStyles_SynchronousSharing=t3&H5_DownloadVIPGift=&fx-listentest=t3&uct2=%2Fqjt%2FB8A66fZB88uRxbL%2FA==&app_version=9.5.37&dlt=0846",
+              "url": "https://t.co/mnmx62hKKL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071926489948508455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当时做了6小时火车去哈尔滨找你们，中央大街玩了一整天，晚上住民宿我们五个太吵了还被邻居报警了🙃谁也没想到回来一个月之后就闹掰了吧…https://t.co/mnmx62hKKL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 677,
+          "following_count": 286,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 867
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T10:07:16.000Z",
+        "description": "hi，叫我隔阂就好\n苦逼高中生 不谈恋爱不聊骚 讨厌顺直男\n碎碎念，生活日常，猫咪，音乐就是我的全部啦\n看心情互fo\n别好奇关于我皮下的一切感谢！",
+        "id": "2067549451355639808",
+        "location": "在你左侧",
+        "name": "更痛更苦更隔阂",
+        "pinned_tweet_id": "2070540177811063284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067562656031293440/d1d-OGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 39,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "Iholdtheblade",
+        "verified": false
+      }
+    ]
+  }
+}

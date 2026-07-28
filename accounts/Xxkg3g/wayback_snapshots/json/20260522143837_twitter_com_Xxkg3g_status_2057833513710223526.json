@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2057832295118369179",
+    "created_at": "2026-05-22T14:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057833513710223526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2053727173895430144",
+          "start": 0,
+          "username": "zylyangnuosxh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057833513710223526",
+    "in_reply_to_user_id": "2053727173895430144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057832295118369179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zylyangnuosxh 可爱宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7400,
+        "height": 1280,
+        "media_key": "13_2057832108044046336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057832108044046336/img/qLnWd5f1N27nl2BQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057832108044046336/vid/avc1/320x568/DfmKLEzPEEnqR1Qw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057832108044046336/vid/avc1/480x852/1KqihVw4T5Xz9Dsj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057832108044046336/vid/avc1/720x1280/tNh4Y3iyJ25Xg6ro.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057832108044046336/pl/xzADobFL9mwSnZYW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2057832295118369179",
+        "created_at": "2026-05-22T14:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057833513710223526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2053727173895430144",
+              "start": 0,
+              "username": "zylyangnuosxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057833513710223526",
+        "in_reply_to_user_id": "2053727173895430144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057832295118369179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zylyangnuosxh 可爱宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057832108044046336"
+          ]
+        },
+        "author_id": "2053727173895430144",
+        "conversation_id": "2057832295118369179",
+        "created_at": "2026-05-22T14:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057832295118369179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uchsPPcZah",
+              "end": 28,
+              "expanded_url": "https://x.com/zylyangnuosxh/status/2057832295118369179/video/1",
+              "media_key": "13_2057832108044046336",
+              "start": 5,
+              "url": "https://t.co/uchsPPcZah"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057832295118369179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "忧郁忧郁 https://t.co/uchsPPcZah"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n欢迎私信交朋友\n 不聊骚不约\n🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "骚扰我打钱",
+        "name": "灸",
+        "pinned_tweet_id": "2046098623302336698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 203,
+          "like_count": 153,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T06:43:20.000Z",
+        "description": "前世两个号都被封\nod｜餐券｜重度抑郁重度焦虑｜\n我是刻薄逼别来惹我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/croissant56414",
+                "end": 23,
+                "expanded_url": "https://ngl.link/croissant56414",
+                "start": 0,
+                "url": "https://t.co/PjGFp6c8JZ"
+              }
+            ]
+          }
+        },
+        "id": "2053727173895430144",
+        "location": "🚪52纯绿",
+        "name": "可颂🥐(3.0)",
+        "pinned_tweet_id": "2053732777242284339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054048882070540288/CKTsT1-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 16,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/PjGFp6c8JZ",
+        "username": "zylyangnuosxh",
+        "verified": false
+      }
+    ]
+  }
+}

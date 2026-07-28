@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2071852504607068183",
+    "created_at": "2026-06-30T08:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T09:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071877057995554868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1080338711760523264",
+          "start": 0,
+          "username": "ZilEMPbIVrseSD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071877057995554868",
+    "in_reply_to_user_id": "1080338711760523264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071866291779158194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZilEMPbIVrseSD4 你他妈豪到我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2071852504607068183",
+        "created_at": "2026-06-30T08:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071877057995554868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1080338711760523264",
+              "start": 0,
+              "username": "ZilEMPbIVrseSD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071877057995554868",
+        "in_reply_to_user_id": "1080338711760523264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071866291779158194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZilEMPbIVrseSD4 你他妈豪到我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080338711760523264",
+        "conversation_id": "2071852504607068183",
+        "created_at": "2026-06-30T07:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071866291779158194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071866291779158194",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071861473874448545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 大家都知道，人类不居住在实在界中\n而居住在想象界中由符号所支配。\n而就我玩推的这段时间观察各种女性\n\n她们谈吐和思维都不约而同的都指向了“成人童话”\n\n仿佛构建这么一个童话对于个体而言是一件极其重要的事情。\n而现实的很多元素都被排斥或者再加工才能表述出来\n\n那么问题来了\n 为什么需要这样?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 284,
+          "like_count": 241,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 861
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-02T05:43:15.000Z",
+        "description": "先贤的智慧早已在书中警示。\n而个体的懒惰造就了可怜的无知.",
+        "id": "1080338711760523264",
+        "name": "一个骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124392970097086467/9P0G6NSR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 20,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 551
+        },
+        "url": "",
+        "username": "ZilEMPbIVrseSD4",
+        "verified": false
+      }
+    ]
+  }
+}

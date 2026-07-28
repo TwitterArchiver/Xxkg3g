@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2042661071572603172",
+    "created_at": "2026-04-10T17:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T18:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042661681625747929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1124508515685453825",
+          "start": 0,
+          "username": "1nternet_Hajimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042661681625747929",
+    "in_reply_to_user_id": "1124508515685453825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042661625245872319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1nternet_Hajimi 啊啊啊啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042661071572603172",
+        "created_at": "2026-04-10T17:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042661681625747929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1124508515685453825",
+              "start": 0,
+              "username": "1nternet_Hajimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042661681625747929",
+        "in_reply_to_user_id": "1124508515685453825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042661625245872319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1nternet_Hajimi 啊啊啊啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124508515685453825",
+        "conversation_id": "2042661071572603172",
+        "created_at": "2026-04-10T17:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T18:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042661625245872319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042661625245872319",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042661071572603172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 不知道聊啥呀）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n纯绿 不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "距离你5.2km  提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 108,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-04T02:58:17.000Z",
+        "description": "哈基米我呀想要大家都开心 我要拯救互联网里的大家 overdose友好 疑似碎碎念推 可能会很吵可能又很久才说几句 神秘家里蹲 作息混乱 喜欢玩电子游戏（什么都玩） infp 什么东西都三分钟热度 大家有空可以找我聊天 看到的都会回",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justkongou1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justkongou1",
+                "start": 0,
+                "url": "https://t.co/NL5JOaqit1"
+              }
+            ]
+          }
+        },
+        "id": "1124508515685453825",
+        "location": "你的心里",
+        "name": "_互联网哈基米",
+        "pinned_tweet_id": "2039000504924311766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029592900804530176/u0zOE6RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 117,
+          "like_count": 1442,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 435
+        },
+        "url": "https://t.co/NL5JOaqit1",
+        "username": "1nternet_Hajimi",
+        "verified": true
+      }
+    ]
+  }
+}

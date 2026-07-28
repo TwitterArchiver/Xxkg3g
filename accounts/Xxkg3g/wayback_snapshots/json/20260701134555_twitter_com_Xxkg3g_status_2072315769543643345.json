@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052301909978173440"
+      ],
+      "media_source_tweet_id": [
+        "2052301922149998751"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2072315769543643345",
+    "created_at": "2026-07-01T13:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072315769543643345"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 35,
+          "tag": "手控"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1884841839121104896",
+          "start": 3,
+          "username": "Lzmiyu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Of85wCbhPM",
+          "end": 62,
+          "expanded_url": "https://x.com/Lzmiyu/status/2052301922149998751/photo/1",
+          "media_key": "3_2052301909978173440",
+          "start": 39,
+          "url": "https://t.co/Of85wCbhPM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072315769543643345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052301922149998751",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lzmiyu: 你说要警惕一切能让你上瘾的东西也包括我是吗？\n#手控 https://t.co/Of85wCbhPM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052301909978173440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs9tqwa0AARDYK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052301909978173440"
+          ],
+          "media_source_tweet_id": [
+            "2052301922149998751"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2072315769543643345",
+        "created_at": "2026-07-01T13:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072315769543643345"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "手控"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1884841839121104896",
+              "start": 3,
+              "username": "Lzmiyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Of85wCbhPM",
+              "end": 62,
+              "expanded_url": "https://x.com/Lzmiyu/status/2052301922149998751/photo/1",
+              "media_key": "3_2052301909978173440",
+              "start": 39,
+              "url": "https://t.co/Of85wCbhPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072315769543643345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052301922149998751",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lzmiyu: 你说要警惕一切能让你上瘾的东西也包括我是吗？\n#手控 https://t.co/Of85wCbhPM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052301909978173440"
+          ]
+        },
+        "author_id": "1884841839121104896",
+        "conversation_id": "2052301922149998751",
+        "created_at": "2026-05-07T08:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052301922149998751"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "手控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Of85wCbhPM",
+              "end": 50,
+              "expanded_url": "https://x.com/Lzmiyu/status/2052301922149998751/photo/1",
+              "media_key": "3_2052301909978173440",
+              "start": 27,
+              "url": "https://t.co/Of85wCbhPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052301922149998751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 41255,
+          "like_count": 1388,
+          "quote_count": 6,
+          "reply_count": 84,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "你说要警惕一切能让你上瘾的东西也包括我是吗？\n#手控 https://t.co/Of85wCbhPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 295,
+          "like_count": 245,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 888
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T05:52:23.000Z",
+        "description": "I'm wondering how I live",
+        "id": "1884841839121104896",
+        "name": "谜",
+        "pinned_tweet_id": "1965432687256289546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898581936677027840/w_HTMT36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1738,
+          "following_count": 83,
+          "like_count": 2097,
+          "listed_count": 5,
+          "media_count": 78,
+          "tweet_count": 105
+        },
+        "url": "",
+        "username": "Lzmiyu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065574241731293184"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065574244767936732",
+    "created_at": "2026-06-12T23:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065574244767936732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q5AcGhYXHH",
+          "end": 28,
+          "expanded_url": "https://x.com/Xxkg3g/status/2065574244767936732/photo/1",
+          "media_key": "3_2065574241731293184",
+          "start": 5,
+          "url": "https://t.co/Q5AcGhYXHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065574244767936732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "乐积闺蜜 https://t.co/Q5AcGhYXHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2132,
+        "media_key": "3_2065574241731293184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKpk1DeXMAA3oFk.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065574241731293184"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065574244767936732",
+        "created_at": "2026-06-12T23:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065574244767936732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q5AcGhYXHH",
+              "end": 28,
+              "expanded_url": "https://x.com/Xxkg3g/status/2065574244767936732/photo/1",
+              "media_key": "3_2065574241731293184",
+              "start": 5,
+              "url": "https://t.co/Q5AcGhYXHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065574244767936732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "乐积闺蜜 https://t.co/Q5AcGhYXHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 249,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 550
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2042264699698553228",
+    "created_at": "2026-04-09T15:35:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:35:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042265070265311345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1948996653694025728",
+          "start": 0,
+          "username": "ruiwashiawase"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042265070265311345",
+    "in_reply_to_user_id": "1948996653694025728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042265011050197476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruiwashiawase 谢谢宝宝！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042264699698553228",
+        "created_at": "2026-04-09T15:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042265070265311345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1948996653694025728",
+              "start": 0,
+              "username": "ruiwashiawase"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042265070265311345",
+        "in_reply_to_user_id": "1948996653694025728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042265011050197476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruiwashiawase 谢谢宝宝！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948996653694025728",
+        "conversation_id": "2042264699698553228",
+        "created_at": "2026-04-09T15:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042265011050197476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042265011050197476",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042264699698553228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 宝宝可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n目前居家状态在线时间比较多(≧∇≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪52",
+        "name": "灸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 58,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 46
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T06:39:54.000Z",
+        "description": "绚彩的世界和灰色的我",
+        "id": "1948996653694025728",
+        "name": "蕊",
+        "pinned_tweet_id": "2042138301268947169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041406929575317504/9NN6kRCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 52,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 78
+        },
+        "username": "ruiwashiawase",
+        "verified": false
+      }
+    ]
+  }
+}

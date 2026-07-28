@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2067611919327089092",
+    "created_at": "2026-06-18T14:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067611919327089092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1554936634139090944",
+          "start": 3,
+          "username": "tukesiwomenzou1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067611919327089092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067283499632238829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tukesiwomenzou1: 端午节别纠结吃甜粽还是咸粽了 先把我身边的杂粽带走。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2067611919327089092",
+        "created_at": "2026-06-18T14:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067611919327089092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1554936634139090944",
+              "start": 3,
+              "username": "tukesiwomenzou1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067611919327089092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067283499632238829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tukesiwomenzou1: 端午节别纠结吃甜粽还是咸粽了 先把我身边的杂粽带走。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554936634139090944",
+        "conversation_id": "2067283499632238829",
+        "created_at": "2026-06-17T16:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067283499632238829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067283499632238829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 27654,
+          "like_count": 576,
+          "quote_count": 8,
+          "reply_count": 89,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "端午节别纠结吃甜粽还是咸粽了 先把我身边的杂粽带走。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 244,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T21:06:08.000Z",
+        "description": "我本就是最干净纯粹光明正大的存在",
+        "id": "1554936634139090944",
+        "location": "距你-1m",
+        "name": "Coconut",
+        "pinned_tweet_id": "2055634228990394615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889040074643513344/08Ciy0ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 77,
+          "like_count": 7226,
+          "listed_count": 1,
+          "media_count": 521,
+          "tweet_count": 3013
+        },
+        "url": "",
+        "username": "tukesiwomenzou1",
+        "verified": false
+      }
+    ]
+  }
+}

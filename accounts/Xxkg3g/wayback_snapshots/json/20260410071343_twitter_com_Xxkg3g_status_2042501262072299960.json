@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042501245504798722",
+        "3_2042501245504835584"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2042501262072299960",
+    "created_at": "2026-04-10T07:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042501262072299960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KmRG5XvNoM",
+          "end": 23,
+          "expanded_url": "https://x.com/Xxkg3g/status/2042501262072299960/photo/1",
+          "media_key": "3_2042501245504798722",
+          "start": 0,
+          "url": "https://t.co/KmRG5XvNoM"
+        },
+        {
+          "display_url": "pic.x.com/KmRG5XvNoM",
+          "end": 23,
+          "expanded_url": "https://x.com/Xxkg3g/status/2042501262072299960/photo/1",
+          "media_key": "3_2042501245504835584",
+          "start": 0,
+          "url": "https://t.co/KmRG5XvNoM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042501262072299960",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/KmRG5XvNoM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2042501245504798722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhsD6ebQAIUWU2.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042501245504835584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFhsD6eb0AA2KLB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042501245504798722",
+            "3_2042501245504835584"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042501262072299960",
+        "created_at": "2026-04-10T07:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042501262072299960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KmRG5XvNoM",
+              "end": 23,
+              "expanded_url": "https://x.com/Xxkg3g/status/2042501262072299960/photo/1",
+              "media_key": "3_2042501245504798722",
+              "start": 0,
+              "url": "https://t.co/KmRG5XvNoM"
+            },
+            {
+              "display_url": "pic.x.com/KmRG5XvNoM",
+              "end": 23,
+              "expanded_url": "https://x.com/Xxkg3g/status/2042501262072299960/photo/1",
+              "media_key": "3_2042501245504835584",
+              "start": 0,
+              "url": "https://t.co/KmRG5XvNoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042501262072299960",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/KmRG5XvNoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n纯绿 不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪52陪聊/70照片/99语音…无上限",
+        "name": "灸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 87,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

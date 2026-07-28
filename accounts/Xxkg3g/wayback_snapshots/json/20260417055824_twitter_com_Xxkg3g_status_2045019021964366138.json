@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2044739869621322065",
+    "created_at": "2026-04-17T05:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045019021964366138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114936322890719232",
+          "start": 0,
+          "username": "Cangshengxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045019021964366138",
+    "in_reply_to_user_id": "1114936322890719232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045015411348193698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cangshengxue 太好手了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2044739869621322065",
+        "created_at": "2026-04-17T05:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045019021964366138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114936322890719232",
+              "start": 0,
+              "username": "Cangshengxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045019021964366138",
+        "in_reply_to_user_id": "1114936322890719232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045015411348193698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cangshengxue 太好手了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114936322890719232",
+        "conversation_id": "2044739869621322065",
+        "created_at": "2026-04-17T05:44:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045015411348193698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045015411348193698",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045005052709118348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 好上手吗（\n\n好上手的话我自己悄悄下载一个试试。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n互fo直关/忘记回的私信\n话多 喜欢碎碎念 欢迎私信(≧∇≦)\n聊骚找你妈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": " 提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 171,
+          "like_count": 138,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T17:01:48.000Z",
+        "description": "无趣的变态，可悲的疯子；夏天的雪，冬天的花。 /或许我只是来看色图的。/但似乎有白骑士综合症倾向。（说到底，贤者时间这种东西有没有办法常驻呢？想色色某种意义上是很麻烦的事情。",
+        "id": "1114936322890719232",
+        "name": "037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751184177482133504/-RZsDg5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 480,
+          "like_count": 78,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 205
+        },
+        "username": "Cangshengxue",
+        "verified": false
+      }
+    ]
+  }
+}

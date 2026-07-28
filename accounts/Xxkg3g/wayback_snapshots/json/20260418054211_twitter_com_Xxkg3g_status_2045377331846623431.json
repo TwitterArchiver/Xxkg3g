@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2045372752001908880",
+    "created_at": "2026-04-18T05:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045377331846623431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843360729199718404",
+          "start": 0,
+          "username": "longlongp97w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045377331846623431",
+    "in_reply_to_user_id": "1843360729199718404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045372752001908880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longlongp97w 很好听！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41633,
+        "height": 1280,
+        "media_key": "13_2045372680447172610",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2045372680447172610/img/5QRr6mpg5sTmBCQo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045372680447172610/vid/avc1/320x694/jJjthEnJS70dbKhd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045372680447172610/vid/avc1/480x1040/t3GgTN6WDd2ujin3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2045372680447172610/vid/avc1/590x1280/BhBsEc9SJQZV__5Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2045372680447172610/pl/RFP7QIyMKX1XDaW8.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2045372752001908880",
+        "created_at": "2026-04-18T05:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045377331846623431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843360729199718404",
+              "start": 0,
+              "username": "longlongp97w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045377331846623431",
+        "in_reply_to_user_id": "1843360729199718404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045372752001908880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longlongp97w 很好听！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2045372680447172610"
+          ]
+        },
+        "author_id": "1843360729199718404",
+        "conversation_id": "2045372752001908880",
+        "created_at": "2026-04-18T05:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045372752001908880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CcmoVn83XN",
+              "end": 70,
+              "expanded_url": "https://x.com/longlongp97w/status/2045372752001908880/video/1",
+              "media_key": "13_2045372680447172610",
+              "start": 47,
+              "url": "https://t.co/CcmoVn83XN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045372752001908880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "龙唱歌一般般，也没学过日语，纯念罗马音呀，请大家见谅，因为真的很喜欢这段词，想唱给大家….. https://t.co/CcmoVn83XN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n互fo直关/忘记回的私信\n话多 喜欢碎碎念 欢迎私信(≧∇≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2045212150998904840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 169,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 224
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️一个人在ny上学，19岁，艺术生，现实无社交，双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）人在国外上推方便，拿推来岁岁念+记录日常+宣泄负面情绪，讨厌圈子不想聊黄（和陌生人聊太蠢了这个）然后我不是同！想多找互关呀， #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 157,
+                "start": 153,
+                "tag": "碎碎念"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsjYs"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041004546806468608/r_cGy1V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 98,
+          "like_count": 3378,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 737
+        },
+        "url": "https://t.co/oCgXhmsjYs",
+        "username": "longlongp97w",
+        "verified": false
+      }
+    ]
+  }
+}

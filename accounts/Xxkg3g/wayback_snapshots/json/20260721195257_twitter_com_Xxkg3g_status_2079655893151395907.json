@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2079652713928036493",
+    "created_at": "2026-07-21T19:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079655893151395907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053881744223522816",
+          "start": 0,
+          "username": "Escape_She"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079655893151395907",
+    "in_reply_to_user_id": "2053881744223522816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079652713928036493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Escape_She 这种人最该死了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2079652713928036493].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2079652713928036493",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2079652713928036493"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2079652713928036493",
+        "created_at": "2026-07-21T19:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079655893151395907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053881744223522816",
+              "start": 0,
+              "username": "Escape_She"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079655893151395907",
+        "in_reply_to_user_id": "2053881744223522816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079652713928036493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Escape_She 这种人最该死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079649460766818304/3FUhplj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 343,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1240
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T16:57:06.000Z",
+        "description": "特别温良一个人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%86%B3",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%86%B3",
+                "start": 0,
+                "url": "https://t.co/UdgS1FRJzi"
+              }
+            ]
+          }
+        },
+        "id": "2053881744223522816",
+        "name": "你敢背叛我就杀了你",
+        "pinned_tweet_id": "2053919332082815080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079148795791872001/r8WmiWnU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 54,
+          "like_count": 1192,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 154
+        },
+        "url": "https://t.co/UdgS1FRJzi",
+        "username": "Escape_She",
+        "verified": false
+      }
+    ]
+  }
+}

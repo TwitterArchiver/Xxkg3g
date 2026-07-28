@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2072388570451505193",
+    "created_at": "2026-07-02T05:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072559284328501548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1852752984846852096",
+          "start": 0,
+          "username": "KK10nil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072559284328501548",
+    "in_reply_to_user_id": "1852752984846852096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072418048515195345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK10nil 美眉懂我🫦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2072388570451505193",
+        "created_at": "2026-07-02T05:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072559284328501548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1852752984846852096",
+              "start": 0,
+              "username": "KK10nil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072559284328501548",
+        "in_reply_to_user_id": "1852752984846852096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072418048515195345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK10nil 美眉懂我🫦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852752984846852096",
+        "conversation_id": "2072388570451505193",
+        "created_at": "2026-07-01T20:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T21:32:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072418048515195345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072418048515195345",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072388570451505193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 可以啊 翻看主页你每条推都有复制的价值"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 699,
+          "following_count": 294,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 892
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-02T16:41:58.000Z",
+        "description": "打瓦打pubg可以联系我了 谢谢互联网",
+        "id": "1852752984846852096",
+        "location": "By your side",
+        "name": "J4220W",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053235354027921408/YujI6U9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "KK10nil",
+        "verified": false
+      }
+    ]
+  }
+}

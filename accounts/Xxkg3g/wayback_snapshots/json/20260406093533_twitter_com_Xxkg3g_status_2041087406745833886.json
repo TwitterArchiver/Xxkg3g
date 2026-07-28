@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041087143993577472"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2041087406745833886",
+    "created_at": "2026-04-06T09:35:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:35:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041087406745833886"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RKXYSwlXVt",
+          "end": 23,
+          "expanded_url": "https://x.com/Xxkg3g/status/2041087406745833886/photo/1",
+          "media_key": "3_2041087143993577472",
+          "start": 0,
+          "url": "https://t.co/RKXYSwlXVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041087406745833886",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RKXYSwlXVt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 765,
+        "media_key": "3_2041087143993577472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNl8X1akAA0orp.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041087143993577472"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2041087406745833886",
+        "created_at": "2026-04-06T09:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041087406745833886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKXYSwlXVt",
+              "end": 23,
+              "expanded_url": "https://x.com/Xxkg3g/status/2041087406745833886/photo/1",
+              "media_key": "3_2041087143993577472",
+              "start": 0,
+              "url": "https://t.co/RKXYSwlXVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041087406745833886",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RKXYSwlXVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "互fo直关｜大号被封｜欢迎私信发展",
+        "id": "2040496801401425920",
+        "location": "🚪52 提供无限情绪价值",
+        "name": "灸",
+        "pinned_tweet_id": "2040727259330576531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041072151219011584/6s4abgnh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 11,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 8
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

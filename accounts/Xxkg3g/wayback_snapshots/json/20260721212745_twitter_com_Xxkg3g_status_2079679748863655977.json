@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2079669955034071170",
+    "created_at": "2026-07-21T21:27:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:27:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079679748863655977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2077457031326478336",
+          "start": 0,
+          "username": "haah2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079679748863655977",
+    "in_reply_to_user_id": "2077457031326478336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079679616604840025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haah2778 哈哈哈是这样的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2079669955034071170",
+        "created_at": "2026-07-21T21:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079679748863655977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2077457031326478336",
+              "start": 0,
+              "username": "haah2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079679748863655977",
+        "in_reply_to_user_id": "2077457031326478336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079679616604840025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haah2778 哈哈哈是这样的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077457031326478336",
+        "conversation_id": "2079669955034071170",
+        "created_at": "2026-07-21T21:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079679616604840025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079679616604840025",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079677627183342074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 以前看高中生学习现在看博士生学习。依然觉得很高级吖嗯。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079649460766818304/3FUhplj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 345,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-15T18:17:02.000Z",
+        "description": "奶奶也不知道这个x是什么软件吖，正在家带孙子呢孙子顺手给我下的，有没有单身小帅哥聊天的？",
+        "id": "2077457031326478336",
+        "name": "༒扫鸡屎de笤帚♕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077457920615391233/bEt-uh_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 16,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "haah2778",
+        "verified": false
+      }
+    ]
+  }
+}

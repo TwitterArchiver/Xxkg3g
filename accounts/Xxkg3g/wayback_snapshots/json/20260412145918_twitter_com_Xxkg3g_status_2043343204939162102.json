@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043343193148907520"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2043343204939162102",
+    "created_at": "2026-04-12T14:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043343204939162102"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vEXudpoaQ1",
+          "end": 23,
+          "expanded_url": "https://x.com/Xxkg3g/status/2043343204939162102/photo/1",
+          "media_key": "3_2043343193148907520",
+          "start": 0,
+          "url": "https://t.co/vEXudpoaQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043343204939162102",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vEXudpoaQ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2043343193148907520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtpzt3aYAAC7Ph.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043343193148907520"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2043343204939162102",
+        "created_at": "2026-04-12T14:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043343204939162102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEXudpoaQ1",
+              "end": 23,
+              "expanded_url": "https://x.com/Xxkg3g/status/2043343204939162102/photo/1",
+              "media_key": "3_2043343193148907520",
+              "start": 0,
+              "url": "https://t.co/vEXudpoaQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043343204939162102",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vEXudpoaQ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n不约不聊骚 私信都会回欢迎大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪在置顶 提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 141,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

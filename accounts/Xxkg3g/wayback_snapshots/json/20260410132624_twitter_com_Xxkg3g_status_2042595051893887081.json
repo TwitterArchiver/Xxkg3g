@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2042595051893887081",
+    "created_at": "2026-04-10T13:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042595051893887081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039659255398023168",
+          "start": 3,
+          "username": "shui93364"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/O3hj6",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/O3hj6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042595051893887081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042187042592018534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shui93364: 搞个自介好了\n不然我像搞黄的。\n随意经营\n15 | 女同|抑郁|焦虑|adhd|自残|\n（剩下我想到再打）\n前世已注销。不要骚扰我\n不用知道我在哪，不接活不接线下\n此号纯碎念，血图，偶尔掉落照片\n💖妹子互fo💖 https://t.co/O3hj6…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2042187033188442112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdOSWYbIAAIvJA.jpg",
+        "width": 720
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2042187038540414976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFdOSqUbwAAJ-dv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042595051893887081",
+        "created_at": "2026-04-10T13:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042595051893887081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039659255398023168",
+              "start": 3,
+              "username": "shui93364"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/O3hj6",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/O3hj6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042595051893887081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042187042592018534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shui93364: 搞个自介好了\n不然我像搞黄的。\n随意经营\n15 | 女同|抑郁|焦虑|adhd|自残|\n（剩下我想到再打）\n前世已注销。不要骚扰我\n不用知道我在哪，不接活不接线下\n此号纯碎念，血图，偶尔掉落照片\n💖妹子互fo💖 https://t.co/O3hj6…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042187033188442112",
+            "3_2042187038540414976"
+          ]
+        },
+        "author_id": "2039659255398023168",
+        "conversation_id": "2042187042592018534",
+        "created_at": "2026-04-09T10:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042187042592018534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3hj6XP5xi",
+              "end": 129,
+              "expanded_url": "https://x.com/shui93364/status/2042187042592018534/photo/1",
+              "media_key": "3_2042187033188442112",
+              "start": 106,
+              "url": "https://t.co/O3hj6XP5xi"
+            },
+            {
+              "display_url": "pic.x.com/O3hj6XP5xi",
+              "end": 129,
+              "expanded_url": "https://x.com/shui93364/status/2042187042592018534/photo/1",
+              "media_key": "3_2042187038540414976",
+              "start": 106,
+              "url": "https://t.co/O3hj6XP5xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042187042592018534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搞个自介好了\n不然我像搞黄的。\n随意经营\n15 | 女同|抑郁|焦虑|adhd|自残|\n（剩下我想到再打）\n前世已注销。不要骚扰我\n不用知道我在哪，不接活不接线下\n此号纯碎念，血图，偶尔掉落照片\n💖妹子互fo💖 https://t.co/O3hj6XP5xi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n纯绿 不约不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "距离你5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 99,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T11:00:50.000Z",
+        "description": "相信我是萌萌天使吧孩子们！我只不过坏了点。前世已注销。休想知道我是谁！",
+        "id": "2039659255398023168",
+        "location": "天国",
+        "name": "死你媽",
+        "pinned_tweet_id": "2042187042592018534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042183924127055872/aNeMnzZY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 65,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 41
+        },
+        "username": "shui93364",
+        "verified": false
+      }
+    ]
+  }
+}

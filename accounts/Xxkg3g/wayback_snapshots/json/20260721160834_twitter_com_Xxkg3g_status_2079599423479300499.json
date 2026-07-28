@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2079599193249943788",
+    "created_at": "2026-07-21T16:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079599423479300499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2056215337113382912",
+          "start": 0,
+          "username": "FreeX2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079599423479300499",
+    "in_reply_to_user_id": "2056215337113382912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079599193249943788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreeX2222 我很好奇到底啥脑子想起来这种文案？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2079599193249943788",
+        "created_at": "2026-07-21T16:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079599423479300499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2056215337113382912",
+              "start": 0,
+              "username": "FreeX2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079599423479300499",
+        "in_reply_to_user_id": "2056215337113382912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079599193249943788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreeX2222 我很好奇到底啥脑子想起来这种文案？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056215337113382912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2079599193249943788",
+        "created_at": "2026-07-21T16:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079599193249943788"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079599193249943788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继独生女文学后的商人文学已经让我笑的尿出来两滴了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077678187916713984/4WWj-c3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 342,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1231
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-18T03:29:24.000Z",
+        "description": "Love forever\n@FreeX114514\n不回复无意义消息",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "FreeX114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FreeXOvO",
+                "end": 23,
+                "expanded_url": "https://t.me/FreeXOvO",
+                "start": 0,
+                "url": "https://t.co/xZNFqf5yBG"
+              }
+            ]
+          }
+        },
+        "id": "2056215337113382912",
+        "location": "这个世界没有岸 只有越来越会游泳的自己",
+        "name": "FreeX",
+        "pinned_tweet_id": "2077823836029177857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075154363677642752/_aZ5nh6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28180,
+          "following_count": 259,
+          "like_count": 6771,
+          "listed_count": 15,
+          "media_count": 276,
+          "tweet_count": 1921
+        },
+        "url": "https://t.co/xZNFqf5yBG",
+        "username": "FreeX2222",
+        "verified": true
+      }
+    ]
+  }
+}

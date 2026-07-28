@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070444894259236864"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2070444908897321393",
+    "created_at": "2026-06-26T09:51:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T10:51:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070444908897321393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3s6XrJ6sIQ",
+          "end": 33,
+          "expanded_url": "https://x.com/Xxkg3g/status/2070444908897321393/photo/1",
+          "media_key": "3_2070444894259236864",
+          "start": 10,
+          "url": "https://t.co/3s6XrJ6sIQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070444908897321393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道您这是咋了 https://t.co/3s6XrJ6sIQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2070444894259236864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLuyqWFX0AACw7V.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070444894259236864"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2070444908897321393",
+        "created_at": "2026-06-26T09:51:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T10:51:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070444908897321393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3s6XrJ6sIQ",
+              "end": 33,
+              "expanded_url": "https://x.com/Xxkg3g/status/2070444908897321393/photo/1",
+              "media_key": "3_2070444894259236864",
+              "start": 10,
+              "url": "https://t.co/3s6XrJ6sIQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070444908897321393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道您这是咋了 https://t.co/3s6XrJ6sIQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 不加墙内 \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070325475801534464/2UxXNATI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 272,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 730
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065049867114684621",
+    "created_at": "2026-06-11T13:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T14:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065061110571556902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1676576204865019904",
+          "start": 0,
+          "username": "YanRuYu_Zzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065061110571556902",
+    "in_reply_to_user_id": "1676576204865019904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065060595586703402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YanRuYu_Zzz 我的痛处。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065049867114684621",
+        "created_at": "2026-06-11T13:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065061110571556902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1676576204865019904",
+              "start": 0,
+              "username": "YanRuYu_Zzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065061110571556902",
+        "in_reply_to_user_id": "1676576204865019904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065060595586703402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YanRuYu_Zzz 我的痛处。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676576204865019904",
+        "conversation_id": "2065049867114684621",
+        "created_at": "2026-06-11T13:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T14:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065060595586703402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065060595586703402",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065049867114684621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 93！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 244,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 509
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-05T12:58:18.000Z",
+        "description": "",
+        "id": "1676576204865019904",
+        "name": "小樹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989273593612791808/OlTXKJ8x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 69,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 159
+        },
+        "username": "YanRuYu_Zzz",
+        "verified": false
+      }
+    ]
+  }
+}

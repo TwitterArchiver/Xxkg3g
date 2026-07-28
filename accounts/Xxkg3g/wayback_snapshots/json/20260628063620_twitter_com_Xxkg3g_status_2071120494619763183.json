@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2071038929701376280",
+    "created_at": "2026-06-28T06:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071120494619763183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809885957312901120",
+          "start": 0,
+          "username": "zhu1896074"
+        },
+        {
+          "end": 26,
+          "id": "2067549451355639808",
+          "start": 12,
+          "username": "Iholdtheblade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071120494619763183",
+    "in_reply_to_user_id": "1809885957312901120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071047164697133267",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu1896074 @Iholdtheblade 我带你俩回大山"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2071038929701376280",
+        "created_at": "2026-06-28T06:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071120494619763183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809885957312901120",
+              "start": 0,
+              "username": "zhu1896074"
+            },
+            {
+              "end": 26,
+              "id": "2067549451355639808",
+              "start": 12,
+              "username": "Iholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071120494619763183",
+        "in_reply_to_user_id": "1809885957312901120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071047164697133267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu1896074 @Iholdtheblade 我带你俩回大山"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809885957312901120",
+        "conversation_id": "2071038929701376280",
+        "created_at": "2026-06-28T01:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071047164697133267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2067549451355639808",
+              "start": 0,
+              "username": "Iholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071047164697133267",
+        "in_reply_to_user_id": "2067549451355639808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071038929701376280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iholdtheblade 城市套路深 我想回農村"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 278,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 798
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T09:43:39.000Z",
+        "description": "ⓘ該賬戶因違反規定，已被禁言",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1b239c",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1b239c",
+                "start": 0,
+                "url": "https://t.co/kxmkUboc5s"
+              }
+            ]
+          }
+        },
+        "id": "1809885957312901120",
+        "name": "null",
+        "pinned_tweet_id": "2070797295084605921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067733944456687616/gG_f1Ct7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 44,
+          "like_count": 6451,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 461
+        },
+        "url": "https://t.co/kxmkUboc5s",
+        "username": "zhu1896074",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T10:07:16.000Z",
+        "description": "hi，叫我隔阂就好\n苦逼高中生 不谈恋爱不聊骚 讨厌顺直男\n碎碎念，生活日常，猫咪，音乐就是我的全部啦\n欢迎任何人互fo 爱所有美女帅哥\n别好奇关于我皮下的一切感谢！",
+        "id": "2067549451355639808",
+        "location": "在你左侧",
+        "name": "更痛更苦更隔阂",
+        "pinned_tweet_id": "2070540177811063284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067562656031293440/d1d-OGxo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 40,
+          "like_count": 364,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "Iholdtheblade",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065426798809346106",
+    "created_at": "2026-06-12T23:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065572706804703634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "765296376506880002",
+          "start": 0,
+          "username": "Selenareyna4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065572706804703634",
+    "in_reply_to_user_id": "765296376506880002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065426798809346106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Selenareyna4 你是不是司马了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1788,
+        "media_key": "3_2065426791620386816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKneuVAboAA-KCX.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065426798809346106",
+        "created_at": "2026-06-12T23:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065572706804703634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765296376506880002",
+              "start": 0,
+              "username": "Selenareyna4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065572706804703634",
+        "in_reply_to_user_id": "765296376506880002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065426798809346106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Selenareyna4 你是不是司马了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065426791620386816"
+          ]
+        },
+        "author_id": "765296376506880002",
+        "conversation_id": "2065426798809346106",
+        "created_at": "2026-06-12T13:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065426798809346106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MN5ixmraVE",
+              "end": 57,
+              "expanded_url": "https://x.com/Selenareyna4/status/2065426798809346106/photo/1",
+              "media_key": "3_2065426791620386816",
+              "start": 34,
+              "url": "https://t.co/MN5ixmraVE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065426798809346106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 80504,
+          "like_count": 314,
+          "quote_count": 0,
+          "reply_count": 450,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "给你们拍下舍友的腿。。明天删，光着身子的有机会再拍吧，目前还不太敢 https://t.co/MN5ixmraVE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 249,
+          "like_count": 194,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 549
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-15T21:17:29.000Z",
+        "description": "让我看看x哪里好玩。。臭宝宝，准备接受我的碎碎念吧！",
+        "id": "765296376506880002",
+        "name": "雪梨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005657427849658368/EaTf4nes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4056,
+          "following_count": 1,
+          "like_count": 122,
+          "listed_count": 3,
+          "media_count": 38,
+          "tweet_count": 125
+        },
+        "username": "Selenareyna4",
+        "verified": false
+      }
+    ]
+  }
+}

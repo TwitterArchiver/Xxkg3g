@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2069320742827630787",
+    "created_at": "2026-06-23T08:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069339928840790047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1817131503996030976",
+          "start": 0,
+          "username": "lliln163946"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069339928840790047",
+    "in_reply_to_user_id": "1817131503996030976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069320742827630787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lliln163946 爱你呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20041,
+        "height": 724,
+        "media_key": "13_2069320712368640000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069320712368640000/img/cUq2jTctTmfKTeV_.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069320712368640000/vid/avc1/320x320/GZmMwaTj2S8y8aV8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069320712368640000/vid/avc1/480x482/TenQvNNHmHnH2Ney.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069320712368640000/vid/avc1/720x724/qMsdIkhnV9vNnUU7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069320712368640000/pl/WdjvJfuia2daWnAK.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2069320742827630787",
+        "created_at": "2026-06-23T08:41:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069339928840790047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817131503996030976",
+              "start": 0,
+              "username": "lliln163946"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069339928840790047",
+        "in_reply_to_user_id": "1817131503996030976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069320742827630787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lliln163946 爱你呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069320712368640000"
+          ]
+        },
+        "author_id": "1817131503996030976",
+        "conversation_id": "2069320742827630787",
+        "created_at": "2026-06-23T07:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069320742827630787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRXMhFrMY8",
+              "end": 31,
+              "expanded_url": "https://x.com/lliln163946/status/2069320742827630787/video/1",
+              "media_key": "13_2069320712368640000",
+              "start": 8,
+              "url": "https://t.co/QRXMhFrMY8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069320742827630787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你就说爱我呀 https://t.co/QRXMhFrMY8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 252,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T09:34:59.000Z",
+        "description": "",
+        "id": "1817131503996030976",
+        "name": "ぺっ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064184581583257600/4U0-IgAo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 148,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "lliln163946",
+        "verified": false
+      }
+    ]
+  }
+}

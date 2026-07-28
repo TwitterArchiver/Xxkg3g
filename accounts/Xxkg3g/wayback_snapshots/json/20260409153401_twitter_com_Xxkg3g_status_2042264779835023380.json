@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2042264699698553228",
+    "created_at": "2026-04-09T15:34:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T16:34:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042264779835023380"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042264779835023380",
+    "in_reply_to_user_id": "2040496801401425920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042264699698553228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没人告诉我。现在活成这鬼样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1516,
+        "media_key": "3_2042264628273856512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFeU2-mbwAA3Uyr.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042264699698553228",
+        "created_at": "2026-04-09T15:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042264779835023380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042264779835023380",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042264699698553228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没人告诉我。现在活成这鬼样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042264628273856512"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2042264699698553228",
+        "created_at": "2026-04-09T15:33:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T16:33:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042264699698553228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x2f4HBlT5l",
+              "end": 31,
+              "expanded_url": "https://x.com/Xxkg3g/status/2042264699698553228/photo/1",
+              "media_key": "3_2042264628273856512",
+              "start": 8,
+              "url": "https://t.co/x2f4HBlT5l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042264699698553228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三年前的自己… https://t.co/x2f4HBlT5l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n可以私信发展 无雷咪～/互fo直关\n目前居家状态在线时间比较多(≧∇≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪52",
+        "name": "灸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 58,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

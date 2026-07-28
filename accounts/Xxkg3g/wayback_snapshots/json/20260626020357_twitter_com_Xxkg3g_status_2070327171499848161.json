@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2070321156662481090",
+    "created_at": "2026-06-26T02:03:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:03:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070327171499848161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2039172080336334849",
+          "start": 0,
+          "username": "Oxycontin0226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070327171499848161",
+    "in_reply_to_user_id": "2039172080336334849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070321156662481090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oxycontin0226 女孩你真的很美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2070321156662481090",
+        "created_at": "2026-06-26T02:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070327171499848161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2039172080336334849",
+              "start": 0,
+              "username": "Oxycontin0226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070327171499848161",
+        "in_reply_to_user_id": "2039172080336334849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070321156662481090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oxycontin0226 女孩你真的很美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039172080336334849",
+        "conversation_id": "2070321156662481090",
+        "created_at": "2026-06-26T01:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070321156662481090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070321156662481090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道我长这么丑到底啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 不加墙内 \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070325475801534464/2UxXNATI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 272,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 723
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T02:45:42.000Z",
+        "description": "只是一块奥利饼干\n碎碎念小号@chanel10790",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 14,
+                "username": "chanel10790"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soaunt.com",
+                "end": 23,
+                "expanded_url": "http://www.soaunt.com",
+                "start": 0,
+                "url": "https://t.co/XOiMhWSjOl"
+              }
+            ]
+          }
+        },
+        "id": "2039172080336334849",
+        "name": "奥施康定",
+        "pinned_tweet_id": "2067994947618258985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069974842565132288/nvQIhnHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 503,
+          "like_count": 419,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 476
+        },
+        "url": "https://t.co/XOiMhWSjOl",
+        "username": "Oxycontin0226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065118695672668160"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065118700789694877",
+    "created_at": "2026-06-11T17:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T18:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065118700789694877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6gQ851euiz",
+          "end": 27,
+          "expanded_url": "https://x.com/Xxkg3g/status/2065118700789694877/photo/1",
+          "media_key": "3_2065118695672668160",
+          "start": 4,
+          "url": "https://t.co/6gQ851euiz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065118700789694877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小肚子 https://t.co/6gQ851euiz"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2065118700789694877].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2065118700789694877",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2065118700789694877"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2065118695672668160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKjGgyKWYAAIxij.jpg",
+        "width": 1440
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 245,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 506
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

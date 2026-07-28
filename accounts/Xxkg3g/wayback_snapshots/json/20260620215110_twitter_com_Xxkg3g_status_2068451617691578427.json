@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2068451617691578427",
+    "created_at": "2026-06-20T21:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T22:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068451617691578427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lzmiyu/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/Lzmiyu/status/2052301922149998751",
+          "start": 3,
+          "url": "https://t.co/MP9uRniLMH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068451617691578427",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052301922149998751",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "握草 https://t.co/MP9uRniLMH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052301909978173440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHs9tqwa0AARDYK.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2068451617691578427",
+        "created_at": "2026-06-20T21:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T22:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068451617691578427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lzmiyu/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/Lzmiyu/status/2052301922149998751",
+              "start": 3,
+              "url": "https://t.co/MP9uRniLMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068451617691578427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052301922149998751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "握草 https://t.co/MP9uRniLMH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052301909978173440"
+          ]
+        },
+        "author_id": "1884841839121104896",
+        "conversation_id": "2052301922149998751",
+        "created_at": "2026-05-07T08:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052301922149998751"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "手控"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Of85wCbhPM",
+              "end": 50,
+              "expanded_url": "https://x.com/Lzmiyu/status/2052301922149998751/photo/1",
+              "media_key": "3_2052301909978173440",
+              "start": 27,
+              "url": "https://t.co/Of85wCbhPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052301922149998751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 37356,
+          "like_count": 1381,
+          "quote_count": 7,
+          "reply_count": 83,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "你说要警惕一切能让你上瘾的东西也包括我是吗？\n#手控 https://t.co/Of85wCbhPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "这里是我的朋友圈\n 碎碎念 欢迎互fo\n我就一个哥哥@xiuyui1114",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "xiuyui1114"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065679144306790400/mUtkcyb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 251,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T05:52:23.000Z",
+        "description": "I'm wondering how I live",
+        "id": "1884841839121104896",
+        "name": "谜",
+        "pinned_tweet_id": "1965432687256289546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898581936677027840/w_HTMT36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 85,
+          "like_count": 1996,
+          "listed_count": 6,
+          "media_count": 76,
+          "tweet_count": 103
+        },
+        "url": "",
+        "username": "Lzmiyu",
+        "verified": false
+      }
+    ]
+  }
+}

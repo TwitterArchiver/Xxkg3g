@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052427305977606147"
+      ],
+      "media_source_tweet_id": [
+        "2052427326609387874"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2052456017099944056",
+    "created_at": "2026-05-07T18:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T19:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052456017099944056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1852895432269234176",
+          "start": 3,
+          "username": "432Ifantrygroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Z69IICJ9A",
+          "end": 58,
+          "expanded_url": "https://x.com/432Ifantrygroup/status/2052427326609387874/photo/1",
+          "media_key": "3_2052427305977606147",
+          "start": 35,
+          "url": "https://t.co/8Z69IICJ9A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052456017099944056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052427326609387874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @432Ifantrygroup: 有谁认识这位推友？急急急！ https://t.co/8Z69IICJ9A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052427305977606147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuvwrQbcAM_Cvd.jpg",
+        "width": 1208
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052427305977606147"
+          ],
+          "media_source_tweet_id": [
+            "2052427326609387874"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2052456017099944056",
+        "created_at": "2026-05-07T18:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T19:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052456017099944056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1852895432269234176",
+              "start": 3,
+              "username": "432Ifantrygroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Z69IICJ9A",
+              "end": 58,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2052427326609387874/photo/1",
+              "media_key": "3_2052427305977606147",
+              "start": 35,
+              "url": "https://t.co/8Z69IICJ9A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052456017099944056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052427326609387874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @432Ifantrygroup: 有谁认识这位推友？急急急！ https://t.co/8Z69IICJ9A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052427305977606147"
+          ]
+        },
+        "author_id": "1852895432269234176",
+        "conversation_id": "2052427326609387874",
+        "created_at": "2026-05-07T16:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T17:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052427326609387874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Z69IICJ9A",
+              "end": 37,
+              "expanded_url": "https://x.com/432Ifantrygroup/status/2052427326609387874/photo/1",
+              "media_key": "3_2052427305977606147",
+              "start": 14,
+              "url": "https://t.co/8Z69IICJ9A"
+            },
+            {
+              "display_url": "x.com/A920520/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/A920520/status/2052408886699958315",
+              "start": 38,
+              "url": "https://t.co/lP5SVwWjQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052427326609387874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 955,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052408886699958315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有谁认识这位推友？急急急！ https://t.co/8Z69IICJ9A https://t.co/lP5SVwWjQm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n欢迎私信交朋友(≧∇≦)\n不约不聊骚 🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "骚扰我打钱",
+        "name": "灸",
+        "pinned_tweet_id": "2046098623302336698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 183,
+          "like_count": 157,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 288
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T02:08:20.000Z",
+        "description": "自由意志共产主义者，中国人，男。可以叫我东方或者东方白。\n会回关所有人",
+        "id": "1852895432269234176",
+        "name": "432InfantryRegiment",
+        "pinned_tweet_id": "2052427326609387874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900594696520691714/2Z7_CLpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185,
+          "following_count": 3653,
+          "like_count": 33447,
+          "listed_count": 4,
+          "media_count": 356,
+          "tweet_count": 8952
+        },
+        "username": "432Ifantrygroup",
+        "verified": false
+      }
+    ]
+  }
+}

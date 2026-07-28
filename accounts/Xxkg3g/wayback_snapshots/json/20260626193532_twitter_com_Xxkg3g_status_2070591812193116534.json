@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2070373765436084341",
+    "created_at": "2026-06-26T19:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070591812193116534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055655402952347648",
+          "start": 0,
+          "username": "SimaPeace184756"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070591812193116534",
+    "in_reply_to_user_id": "2055655402952347648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070373765436084341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SimaPeace184756 你他妈皮下男吧傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2070373765436084341",
+        "created_at": "2026-06-26T19:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070591812193116534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055655402952347648",
+              "start": 0,
+              "username": "SimaPeace184756"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070591812193116534",
+        "in_reply_to_user_id": "2055655402952347648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070373765436084341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SimaPeace184756 你他妈皮下男吧傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055655402952347648",
+        "conversation_id": "2070373765436084341",
+        "created_at": "2026-06-26T05:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070373765436084341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070373765436084341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 300714,
+          "like_count": 242,
+          "quote_count": 3,
+          "reply_count": 787,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "10后想约炮怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 不加墙内 \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070325475801534464/2UxXNATI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 274,
+          "like_count": 220,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T14:23:58.000Z",
+        "description": "新人玩X",
+        "id": "2055655402952347648",
+        "name": "艾薇儿",
+        "pinned_tweet_id": "2070132797600362780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066030257258516481/R5Ip38x0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 9,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "SimaPeace184756",
+        "verified": false
+      }
+    ]
+  }
+}

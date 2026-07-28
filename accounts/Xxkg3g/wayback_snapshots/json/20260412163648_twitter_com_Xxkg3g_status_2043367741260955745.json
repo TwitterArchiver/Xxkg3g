@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043367732910161920"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2043367741260955745",
+    "created_at": "2026-04-12T16:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043367741260955745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7o5Rr5tlQ7",
+          "end": 32,
+          "expanded_url": "https://x.com/Xxkg3g/status/2043367741260955745/photo/1",
+          "media_key": "3_2043367732910161920",
+          "start": 9,
+          "url": "https://t.co/7o5Rr5tlQ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043367741260955745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爱你玉美 天天见 https://t.co/7o5Rr5tlQ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043367732910161920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuAIHmbAAADuJs.jpg",
+        "width": 1608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043367732910161920"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2043367741260955745",
+        "created_at": "2026-04-12T16:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043367741260955745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7o5Rr5tlQ7",
+              "end": 32,
+              "expanded_url": "https://x.com/Xxkg3g/status/2043367741260955745/photo/1",
+              "media_key": "3_2043367732910161920",
+              "start": 9,
+              "url": "https://t.co/7o5Rr5tlQ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043367741260955745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爱你玉美 天天见 https://t.co/7o5Rr5tlQ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n互fo直关\n不约不聊骚 私信都会回欢迎大家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "🚪在置顶 提问箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2042501262072299960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042195030853746688/yHIECHQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 142,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 123
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

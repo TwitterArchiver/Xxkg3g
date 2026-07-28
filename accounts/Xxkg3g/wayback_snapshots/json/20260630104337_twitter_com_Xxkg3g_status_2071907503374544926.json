@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2071852504607068183",
+    "created_at": "2026-06-30T10:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T11:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071907503374544926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1296789543836717056",
+          "start": 0,
+          "username": "Wanan42390206"
+        },
+        {
+          "end": 31,
+          "id": "1080338711760523264",
+          "start": 15,
+          "username": "ZilEMPbIVrseSD4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071907503374544926",
+    "in_reply_to_user_id": "1296789543836717056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071878265997045829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanan42390206 @ZilEMPbIVrseSD4 我看哭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2071852504607068183",
+        "created_at": "2026-06-30T10:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071907503374544926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1296789543836717056",
+              "start": 0,
+              "username": "Wanan42390206"
+            },
+            {
+              "end": 31,
+              "id": "1080338711760523264",
+              "start": 15,
+              "username": "ZilEMPbIVrseSD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071907503374544926",
+        "in_reply_to_user_id": "1296789543836717056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071878265997045829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanan42390206 @ZilEMPbIVrseSD4 我看哭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1296789543836717056",
+        "conversation_id": "2071852504607068183",
+        "created_at": "2026-06-30T08:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071878265997045829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            },
+            {
+              "end": 24,
+              "id": "1080338711760523264",
+              "start": 8,
+              "username": "ZilEMPbIVrseSD4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071878265997045829",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071877057995554868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g @ZilEMPbIVrseSD4 我笑的不行了，男的真的很爱教别人 我终于真真见到了什么叫爹味，我操我不行了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 285,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-21T12:41:44.000Z",
+        "description": "我只想过一个再不用备考的冬天",
+        "id": "1296789543836717056",
+        "location": "🎧 ︎ı||ııı||",
+        "name": "rainrainday☔️",
+        "pinned_tweet_id": "2071629890559135913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997326990819676160/r-Wtzkih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 36,
+          "like_count": 1353,
+          "listed_count": 6,
+          "media_count": 68,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "Wanan42390206",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-02T05:43:15.000Z",
+        "description": "先贤的智慧早已在书中警示。\n而个体的懒惰造就了可怜的无知.",
+        "id": "1080338711760523264",
+        "name": "一个骑士",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124392970097086467/9P0G6NSR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 20,
+          "like_count": 7,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "ZilEMPbIVrseSD4",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2072616359096439196",
+    "created_at": "2026-07-02T09:40:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T10:40:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072616359096439196"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072616359096439196",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前我表妹谈了一个小混混，我劝了几句就没再管 结果她被家里人发现怕自己被打，把我早恋的事情给我捅出去了，还把我的小秘密当做她和她对象的话题，因为我没有告诉家里人她早恋，她妈妈就说以后她跟黄毛跑了我负全责"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2072616359096439196",
+        "created_at": "2026-07-02T09:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072616359096439196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072616359096439196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前我表妹谈了一个小混混，我劝了几句就没再管 结果她被家里人发现怕自己被打，把我早恋的事情给我捅出去了，还把我的小秘密当做她和她对象的话题，因为我没有告诉家里人她早恋，她妈妈就说以后她跟黄毛跑了我负全责"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 294,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 896
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

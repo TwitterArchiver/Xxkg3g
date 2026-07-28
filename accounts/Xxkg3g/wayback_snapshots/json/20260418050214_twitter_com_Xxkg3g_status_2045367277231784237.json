@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045367252686688256"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2045367277231784237",
+    "created_at": "2026-04-18T05:02:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T06:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045367277231784237"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/poJVLF0WX9",
+          "end": 38,
+          "expanded_url": "https://x.com/Xxkg3g/status/2045367277231784237/photo/1",
+          "media_key": "3_2045367252686688256",
+          "start": 15,
+          "url": "https://t.co/poJVLF0WX9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045367277231784237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我吃醋了。凭什么衣服可以碰你 https://t.co/poJVLF0WX9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 582,
+        "media_key": "3_2045367252686688256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKarfObUAAu5Ki.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045367252686688256"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2045367277231784237",
+        "created_at": "2026-04-18T05:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T06:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045367277231784237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/poJVLF0WX9",
+              "end": 38,
+              "expanded_url": "https://x.com/Xxkg3g/status/2045367277231784237/photo/1",
+              "media_key": "3_2045367252686688256",
+              "start": 15,
+              "url": "https://t.co/poJVLF0WX9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045367277231784237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我吃醋了。凭什么衣服可以碰你 https://t.co/poJVLF0WX9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n互fo直关/忘记回的私信\n话多 喜欢碎碎念 欢迎私信(≧∇≦)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2045212150998904840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044062041728851968/fNz1DFsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 169,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2065113054619296226",
+    "created_at": "2026-06-11T18:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T19:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065135644196692323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2065097387404926976",
+          "start": 0,
+          "username": "Justin2a4tc"
+        },
+        {
+          "end": 24,
+          "id": "1809519299754958848",
+          "start": 13,
+          "username": "xiuyui1114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065135644196692323",
+    "in_reply_to_user_id": "2065097387404926976",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065133630813503920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Justin2a4tc @xiuyui1114 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2065113054619296226",
+        "created_at": "2026-06-11T18:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065135644196692323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2065097387404926976",
+              "start": 0,
+              "username": "Justin2a4tc"
+            },
+            {
+              "end": 24,
+              "id": "1809519299754958848",
+              "start": 13,
+              "username": "xiuyui1114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065135644196692323",
+        "in_reply_to_user_id": "2065097387404926976",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065133630813503920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Justin2a4tc @xiuyui1114 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065097387404926976",
+        "conversation_id": "2065113054619296226",
+        "created_at": "2026-06-11T18:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T19:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065133630813503920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            },
+            {
+              "end": 19,
+              "id": "1809519299754958848",
+              "start": 8,
+              "username": "xiuyui1114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065133630813503920",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065133399988154626",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g @xiuyui1114 这是啥意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "餐券od\n这里是一个精神病\n 碎碎念 欢迎互fo",
+        "id": "2040496801401425920",
+        "name": "灸",
+        "pinned_tweet_id": "2059602779925045762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747117961220097/YbXsBg7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 245,
+          "like_count": 193,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 506
+        },
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T15:43:28.000Z",
+        "description": "控制欲很强真的是坏事吗。。",
+        "id": "2065097387404926976",
+        "name": "Justin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065097710768918528/GkYHU0q9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 32,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 76
+        },
+        "username": "Justin2a4tc",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-06T09:26:50.000Z",
+        "description": "",
+        "id": "1809519299754958848",
+        "name": "喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061275309962567680/X3g7VkQp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 7,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 98
+        },
+        "username": "xiuyui1114",
+        "verified": false
+      }
+    ]
+  }
+}

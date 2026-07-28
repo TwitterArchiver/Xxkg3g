@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2059308286479101990",
+    "created_at": "2026-05-26T17:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059319431705317719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2058989842625908736",
+          "start": 0,
+          "username": "wocaonimagebini"
+        },
+        {
+          "end": 25,
+          "id": "1824390995754225667",
+          "start": 17,
+          "username": "Bcattiy"
+        },
+        {
+          "end": 36,
+          "id": "1818456444611555328",
+          "start": 26,
+          "username": "wzdxhnqad"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059319431705317719",
+    "in_reply_to_user_id": "2058989842625908736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059319228344189122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wocaonimagebini @Bcattiy @wzdxhnqad 草泥马逼还来开小号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2059308286479101990",
+        "created_at": "2026-05-26T17:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059319431705317719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2058989842625908736",
+              "start": 0,
+              "username": "wocaonimagebini"
+            },
+            {
+              "end": 25,
+              "id": "1824390995754225667",
+              "start": 17,
+              "username": "Bcattiy"
+            },
+            {
+              "end": 36,
+              "id": "1818456444611555328",
+              "start": 26,
+              "username": "wzdxhnqad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059319431705317719",
+        "in_reply_to_user_id": "2058989842625908736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059319228344189122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wocaonimagebini @Bcattiy @wzdxhnqad 草泥马逼还来开小号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058989842625908736",
+        "conversation_id": "2059308286479101990",
+        "created_at": "2026-05-26T17:02:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:02:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059319228344189122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1824390995754225667",
+              "start": 0,
+              "username": "Bcattiy"
+            },
+            {
+              "end": 19,
+              "id": "1818456444611555328",
+              "start": 9,
+              "username": "wzdxhnqad"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059319228344189122",
+        "in_reply_to_user_id": "1824390995754225667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059308286479101990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bcattiy @wzdxhnqad 真的绷不住了🤣两傻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "重度抑郁焦虑|餐券od|自杀倾向...\n这里是一个精神病 同类欢迎互fo\n 🐢@eweisi32",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 39,
+                "username": "eweisi32"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "骚扰我打钱",
+        "name": "灸",
+        "pinned_tweet_id": "2058447101948743966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057497271562891264/dgTLafm6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 222,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 357
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:15:54.000Z",
+        "description": "",
+        "id": "2058989842625908736",
+        "name": "夜神月",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 58
+        },
+        "username": "wocaonimagebini",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T10:21:31.000Z",
+        "description": "",
+        "id": "1824390995754225667",
+        "name": "Bcattiy",
+        "pinned_tweet_id": "2056048671276609905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056179460823805952/Dg0JD-QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 91,
+          "like_count": 1995,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 1078
+        },
+        "username": "Bcattiy",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-31T01:19:57.000Z",
+        "description": "来农来瓦来铲来和平 碎碎念 叫我初初就好",
+        "id": "1818456444611555328",
+        "location": "地球入",
+        "name": "我睡觉的时候没睡醒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057721058816294912/iLrP7w6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 102
+        },
+        "username": "wzdxhnqad",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2079886447608275369",
+    "created_at": "2026-07-22T18:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T19:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079997008010482069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066478763286908928",
+          "start": 0,
+          "username": "TanMoulwjb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079997008010482069",
+    "in_reply_to_user_id": "2066478763286908928",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079980601902584193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TanMoulwjb 嘿嘿！耐你呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2079886447608275369",
+        "created_at": "2026-07-22T18:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T19:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079997008010482069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066478763286908928",
+              "start": 0,
+              "username": "TanMoulwjb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079997008010482069",
+        "in_reply_to_user_id": "2066478763286908928",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079980601902584193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TanMoulwjb 嘿嘿！耐你呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066478763286908928",
+        "conversation_id": "2079886447608275369",
+        "created_at": "2026-07-22T17:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079980601902584193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079980601902584193",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079886447608275369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 可爱宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079649460766818304/3FUhplj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 353,
+          "like_count": 392,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T11:13:07.000Z",
+        "description": "他喜欢橘子但你是最好的苹果呀",
+        "id": "2066478763286908928",
+        "name": "吐司昭和熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073662193116344320/L9NB3Pn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 6,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "TanMoulwjb",
+        "verified": false
+      }
+    ]
+  }
+}

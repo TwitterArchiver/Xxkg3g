@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2081658379815268587",
+    "created_at": "2026-07-27T14:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081752737306566933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2034586230881722368",
+          "start": 0,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081752737306566933",
+    "in_reply_to_user_id": "2034586230881722368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081658379815268587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds03 这个我真怕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2081658379815268587",
+        "created_at": "2026-07-27T14:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081752737306566933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2034586230881722368",
+              "start": 0,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081752737306566933",
+        "in_reply_to_user_id": "2034586230881722368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081658379815268587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds03 这个我真怕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2081658379815268587",
+        "created_at": "2026-07-27T08:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081658379815268587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081658379815268587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4479,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "虚假的开户：我知道你的电话号码 身份证号和住址\n真正的开户：我知道你小号"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079997105410592768/s87Ya-m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 916,
+          "following_count": 358,
+          "like_count": 400,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 1308
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你",
+        "id": "2034586230881722368",
+        "location": "江浙沪",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2081726609783132301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6317,
+          "following_count": 651,
+          "like_count": 8126,
+          "listed_count": 9,
+          "media_count": 136,
+          "tweet_count": 1135
+        },
+        "url": "",
+        "username": "hgds03",
+        "verified": true
+      }
+    ]
+  }
+}

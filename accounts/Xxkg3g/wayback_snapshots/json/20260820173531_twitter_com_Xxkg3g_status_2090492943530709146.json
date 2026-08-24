@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2090434345739956300",
+    "created_at": "2026-08-20T17:35:31.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090492943530709146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1761071538856701952",
+          "start": 0,
+          "username": "Jslly77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090492943530709146",
+    "in_reply_to_user_id": "1761071538856701952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090450006985814285",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jslly77 亲亲你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2090434345739956300",
+        "created_at": "2026-08-20T17:35:31.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090492943530709146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1761071538856701952",
+              "start": 0,
+              "username": "Jslly77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090492943530709146",
+        "in_reply_to_user_id": "1761071538856701952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090450006985814285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jslly77 亲亲你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761071538856701952",
+        "conversation_id": "2090434345739956300",
+        "created_at": "2026-08-20T14:44:55.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090450006985814285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090450006985814285",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090434345739956300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 好阔耐啊呀呀呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2090492943530709146",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 503,
+          "like_count": 540,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-23T16:52:39.000Z",
+        "description": "谢谢喜欢我的人 我爱你们 没回评论就是被吞了",
+        "id": "1761071538856701952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090492441090826274",
+        "name": "小希降临",
+        "pinned_tweet_id": "2090477728361550069",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761071538856701952/1744263830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910207023146516480/D2i888Q9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 817,
+          "following_count": 37,
+          "like_count": 1942,
+          "listed_count": 6,
+          "media_count": 290,
+          "tweet_count": 3091
+        },
+        "url": "",
+        "username": "Jslly77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

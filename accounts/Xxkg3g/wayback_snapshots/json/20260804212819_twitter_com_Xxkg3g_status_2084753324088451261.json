@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084752072885649711",
+    "created_at": "2026-08-04T21:28:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T22:28:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084753324088451261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069795620551024640",
+          "start": 0,
+          "username": "fanxiaoqiNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084753324088451261",
+    "in_reply_to_user_id": "2069795620551024640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084753060707082344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fanxiaoqiNN 我哭了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084752072885649711",
+        "created_at": "2026-08-04T21:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084753324088451261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069795620551024640",
+              "start": 0,
+              "username": "fanxiaoqiNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084753324088451261",
+        "in_reply_to_user_id": "2069795620551024640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084753060707082344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fanxiaoqiNN 我哭了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069795620551024640",
+        "conversation_id": "2084752072885649711",
+        "created_at": "2026-08-04T21:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084753060707082344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084753060707082344",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084752072885649711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 宝宝我也失眠睡不着😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 409,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1519
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-24T14:54:33.000Z",
+        "description": "谁给我点钱呗",
+        "id": "2069795620551024640",
+        "location": "总有一天",
+        "name": "so",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069796856570265600/zVmO3-Zn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 300,
+          "like_count": 673,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "fanxiaoqiNN",
+        "verified": false
+      }
+    ]
+  }
+}

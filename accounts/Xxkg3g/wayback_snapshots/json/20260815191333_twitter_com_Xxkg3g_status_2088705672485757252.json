@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2088704449066004852",
+    "created_at": "2026-08-15T19:13:33.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T20:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088705672485757252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2087603401391513600",
+          "start": 0,
+          "username": "Chasm_2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088705672485757252",
+    "in_reply_to_user_id": "2087603401391513600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088704649155219749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chasm_2778 你啥态度？你完了你完了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2088704449066004852",
+        "created_at": "2026-08-15T19:13:33.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088705672485757252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2087603401391513600",
+              "start": 0,
+              "username": "Chasm_2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088705672485757252",
+        "in_reply_to_user_id": "2087603401391513600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088704649155219749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chasm_2778 你啥态度？你完了你完了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087603401391513600",
+        "conversation_id": "2088704449066004852",
+        "created_at": "2026-08-15T19:09:29.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T20:09:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088704649155219749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088704649155219749",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088704449066004852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 开呗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n 性别:神 年龄:神是不可窥见的 生日:神是不可窥见的 身高:神是不可窥见的 星座:神是不可窥见的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2088705672485757252",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339,
+          "following_count": 478,
+          "like_count": 492,
+          "listed_count": 2,
+          "media_count": 87,
+          "tweet_count": 1866
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T18:16:04.000Z",
+        "description": "乐乐",
+        "id": "2087603401391513600",
+        "is_identity_verified": false,
+        "location": "神国",
+        "most_recent_tweet_id": "2088704649155219749",
+        "name": "Calm_",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087603401391513600/1786560534",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087626470298419200/A2Zwh8b3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "Chasm_2778",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

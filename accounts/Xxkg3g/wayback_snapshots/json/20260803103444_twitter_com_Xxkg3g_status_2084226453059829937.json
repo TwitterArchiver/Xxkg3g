@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084226388304044032"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084226453059829937",
+    "created_at": "2026-08-03T10:34:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084226453059829937"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZyrTjVjXjd",
+          "end": 84,
+          "expanded_url": "https://x.com/Xxkg3g/status/2084226453059829937/photo/1",
+          "media_key": "3_2084226388304044032",
+          "start": 61,
+          "url": "https://t.co/ZyrTjVjXjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084226453059829937",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你不觉得我特别的可爱吗？我有时候又很吵，一直发帖子。又突然回来骚扰你很久，然后又突然去帖子。然后像NPC一样一直缠着你。 https://t.co/ZyrTjVjXjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2084226388304044032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOyo24JboAAAABd.jpg",
+        "width": 908
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084226388304044032"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084226453059829937",
+        "created_at": "2026-08-03T10:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084226453059829937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZyrTjVjXjd",
+              "end": 84,
+              "expanded_url": "https://x.com/Xxkg3g/status/2084226453059829937/photo/1",
+              "media_key": "3_2084226388304044032",
+              "start": 61,
+              "url": "https://t.co/ZyrTjVjXjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084226453059829937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你不觉得我特别的可爱吗？我有时候又很吵，一直发帖子。又突然回来骚扰你很久，然后又突然去帖子。然后像NPC一样一直缠着你。 https://t.co/ZyrTjVjXjd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 396,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1467
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

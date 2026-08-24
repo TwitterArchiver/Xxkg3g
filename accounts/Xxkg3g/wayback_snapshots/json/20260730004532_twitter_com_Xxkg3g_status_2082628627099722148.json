@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2082034034105074018",
+    "created_at": "2026-07-30T00:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T01:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082628627099722148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1979428217707761664",
+          "start": 0,
+          "username": "C1Un4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082628627099722148",
+    "in_reply_to_user_id": "1979428217707761664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082034034105074018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C1Un4 我刚在抖音刷到这条咋一打开就是这个"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23229,
+        "height": 1080,
+        "media_key": "13_2082033832874987520",
+        "preview_image_url": "https://pbs.twimg.com/media/HOTevWwbwAEXMx7.jpg",
+        "public_metrics": {
+          "view_count": 38539
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082033832874987520/vid/avc1/480x270/g3o9kwEDaq8NogEO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082033832874987520/vid/avc1/640x360/r07GBVsKG7bEp1xz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082033832874987520/vid/avc1/1280x720/rgDZaEuygvyE5sIE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082033832874987520/pl/kzQAp4GUJ13gUNWq.m3u8?v=842"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2082034034105074018",
+        "created_at": "2026-07-30T00:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T01:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082628627099722148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1979428217707761664",
+              "start": 0,
+              "username": "C1Un4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082628627099722148",
+        "in_reply_to_user_id": "1979428217707761664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082034034105074018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C1Un4 我刚在抖音刷到这条咋一打开就是这个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082033832874987520"
+          ]
+        },
+        "author_id": "1979428217707761664",
+        "conversation_id": "2082034034105074018",
+        "created_at": "2026-07-28T09:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T10:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082034034105074018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4IzIPecKxE",
+              "end": 40,
+              "expanded_url": "https://x.com/C1Un4/status/2082034034105074018/video/1",
+              "media_key": "13_2082033832874987520",
+              "start": 17,
+              "url": "https://t.co/4IzIPecKxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082034034105074018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 102482,
+          "like_count": 689,
+          "quote_count": 1,
+          "reply_count": 351,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一堆片里看到我一个嘉豪是什么心情 https://t.co/4IzIPecKxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo 第二人格@xiaolinga1n5\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xiaolinga1n5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 357,
+          "like_count": 400,
+          "listed_count": 2,
+          "media_count": 39,
+          "tweet_count": 1317
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T06:04:09.000Z",
+        "description": "",
+        "id": "1979428217707761664",
+        "name": "千千千千",
+        "pinned_tweet_id": "2082034034105074018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079491912139157504/XWTMJPxQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 43,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "C1Un4",
+        "verified": false
+      }
+    ]
+  }
+}

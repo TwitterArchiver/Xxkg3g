@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084695491317743630",
+    "created_at": "2026-08-04T17:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084695491317743630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chnlhu345555/s…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/chnlhu345555/status/2084004560776085912",
+          "start": 22,
+          "url": "https://t.co/60WrPj0Ke1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084695491317743630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084004560776085912",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你他妈全家炸了 我把你下面缝你嘴里你个傻逼 https://t.co/60WrPj0Ke1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084695491317743630",
+        "created_at": "2026-08-04T17:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084695491317743630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chnlhu345555/s…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/chnlhu345555/status/2084004560776085912",
+              "start": 22,
+              "url": "https://t.co/60WrPj0Ke1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084695491317743630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084004560776085912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你他妈全家炸了 我把你下面缝你嘴里你个傻逼 https://t.co/60WrPj0Ke1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908364182019530752",
+        "conversation_id": "2083861669994987829",
+        "created_at": "2026-08-02T19:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T20:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084004560776085912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084004560776085912",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083861669994987829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 14岁不是儿童了 超过10岁就不是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 404,
+          "like_count": 434,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1511
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T03:41:08.000Z",
+        "description": "",
+        "id": "1908364182019530752",
+        "name": "玲音",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 119,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "chnlhu345555",
+        "verified": false
+      }
+    ]
+  }
+}

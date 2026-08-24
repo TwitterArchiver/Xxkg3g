@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084972715900064112",
+    "created_at": "2026-08-06T01:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T02:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085170510892253605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971814880375406592",
+          "start": 0,
+          "username": "kawa090109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085170510892253605",
+    "in_reply_to_user_id": "1971814880375406592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084972715900064112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawa090109 有一种被惯坏的真的很让人讨厌 平时相处的还不错你根本不知道这个人能自私到什么地步 这种人跟没有良心一样 上一秒可以好好跟说话如果你说的话和她的想法不一样 她人品不行还能直接上手打你 我天天被这种人气个半死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084972715900064112",
+        "created_at": "2026-08-06T01:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085170510892253605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971814880375406592",
+              "start": 0,
+              "username": "kawa090109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085170510892253605",
+        "in_reply_to_user_id": "1971814880375406592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084972715900064112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawa090109 有一种被惯坏的真的很让人讨厌 平时相处的还不错你根本不知道这个人能自私到什么地步 这种人跟没有良心一样 上一秒可以好好跟说话如果你说的话和她的想法不一样 她人品不行还能直接上手打你 我天天被这种人气个半死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971814880375406592",
+        "conversation_id": "2084972715900064112",
+        "created_at": "2026-08-05T12:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T13:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084972715900064112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084972715900064112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 38195,
+          "like_count": 145,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很害怕单亲家庭的人  目前接触的单亲家庭长大的都很恐怖……不论男女……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 411,
+          "like_count": 451,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1560
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T05:51:26.000Z",
+        "description": "我很懵逼 我只是一枚奔溃的蛋黄",
+        "id": "1971814880375406592",
+        "name": "铁路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971820886505525249/kLeOKWA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 19,
+          "like_count": 1310,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "kawa090109",
+        "verified": false
+      }
+    ]
+  }
+}

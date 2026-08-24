@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2088876890865983523",
+    "created_at": "2026-08-16T10:44:29.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088939949836190107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2053717016092295169",
+          "start": 0,
+          "username": "xixijun8827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088939949836190107",
+    "in_reply_to_user_id": "2053717016092295169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088876890865983523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixijun8827 又买？？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2088876884692021248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP0udZOXsAAaIyv.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2088876890865983523",
+        "created_at": "2026-08-16T10:44:29.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088939949836190107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2053717016092295169",
+              "start": 0,
+              "username": "xixijun8827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088939949836190107",
+        "in_reply_to_user_id": "2053717016092295169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088876890865983523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixijun8827 又买？？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088876884692021248"
+          ]
+        },
+        "author_id": "2053717016092295169",
+        "conversation_id": "2088876890865983523",
+        "created_at": "2026-08-16T06:33:54.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T07:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088876890865983523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHQ70jLmhL",
+              "end": 39,
+              "expanded_url": "https://x.com/xixijun8827/status/2088876890865983523/photo/1",
+              "media_key": "3_2088876884692021248",
+              "start": 16,
+              "url": "https://t.co/dHQ70jLmhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088876890865983523",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088876884692021248"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才卖20的阿里山也是被我买到了 https://t.co/dHQ70jLmhL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2088939949836190107",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 482,
+          "like_count": 501,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1889
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T06:01:51.000Z",
+        "description": "09/♂/烟鬼/od 已转生@caicaixi9927\n祝你天天开心,来都来了，互fo再走吧https://t.co/O3WONapKvU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "caicaixi9927"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/junxixijun",
+                "end": 69,
+                "expanded_url": "https://ngl.link/junxixijun",
+                "start": 46,
+                "url": "https://t.co/O3WONapKvU"
+              }
+            ]
+          }
+        },
+        "id": "2053717016092295169",
+        "is_identity_verified": false,
+        "location": "泪流海",
+        "most_recent_tweet_id": "2088876890865983523",
+        "name": "无问",
+        "pinned_tweet_id": "2070813338951704920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053717016092295169/1778588984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053780220164083712/gmAUBRcr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 199,
+          "like_count": 5563,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 692
+        },
+        "url": "",
+        "username": "xixijun8827",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

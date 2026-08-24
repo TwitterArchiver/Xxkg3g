@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2088934851575714098",
+    "created_at": "2026-08-16T10:27:47.000Z",
+    "display_text_range": [
+      14,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088935747726545117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057324764599824384",
+          "start": 0,
+          "username": "whitney96ga8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088935747726545117",
+    "in_reply_to_user_id": "2057324764599824384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088935388547367156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitney96ga8 真的不会腻吗！之前我特别喜欢吃一家面条 连续吃了快一周 我看见想吐。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2088934851575714098",
+        "created_at": "2026-08-16T10:27:47.000Z",
+        "display_text_range": [
+          14,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088935747726545117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057324764599824384",
+              "start": 0,
+              "username": "whitney96ga8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088935747726545117",
+        "in_reply_to_user_id": "2057324764599824384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088935388547367156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitney96ga8 真的不会腻吗！之前我特别喜欢吃一家面条 连续吃了快一周 我看见想吐。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057324764599824384",
+        "conversation_id": "2088934851575714098",
+        "created_at": "2026-08-16T10:26:21.000Z",
+        "display_text_range": [
+          8,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088935388547367156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088935388547367156",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088935116433404196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 上班我已经吃了一年的鸡肉饭了）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2088935747726545117",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 482,
+          "like_count": 498,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1886
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T04:57:08.000Z",
+        "description": "🧊｜只发想发的｜04｜男｜编曲/画画/日常/有时间就更男喘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whitney96ga8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whitney96ga8",
+                "start": 0,
+                "url": "https://t.co/sGth0YLZ1Y"
+              }
+            ]
+          }
+        },
+        "id": "2057324764599824384",
+        "is_identity_verified": false,
+        "location": "电子世界",
+        "most_recent_tweet_id": "2088935388547367156",
+        "name": "冬。",
+        "pinned_tweet_id": "2081715853645779237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057324764599824384/1786281146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086440456548982784/ozGrL_7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 36,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/sGth0YLZ1Y",
+        "username": "whitney96ga8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

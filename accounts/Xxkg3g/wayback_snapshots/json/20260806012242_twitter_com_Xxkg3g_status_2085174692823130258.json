@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2085174692823130258",
+    "created_at": "2026-08-06T01:22:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T02:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085174692823130258"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/potatontk0/sta…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/potatontk0/status/2084893980786127296",
+          "start": 24,
+          "url": "https://t.co/4VSCTouFaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085174692823130258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084893980786127296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "您想串出怎样的人生 是不是把手机塞逼里了一直震 https://t.co/4VSCTouFaQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2085174692823130258",
+        "created_at": "2026-08-06T01:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T02:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085174692823130258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/potatontk0/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/potatontk0/status/2084893980786127296",
+              "start": 24,
+              "url": "https://t.co/4VSCTouFaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085174692823130258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084893980786127296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "您想串出怎样的人生 是不是把手机塞逼里了一直震 https://t.co/4VSCTouFaQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027253020820709376",
+        "conversation_id": "2084893980786127296",
+        "created_at": "2026-08-05T06:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084893980786127296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084893980786127296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 122758,
+          "like_count": 464,
+          "quote_count": 9,
+          "reply_count": 1158,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "西村力做错了零件事 他一场直播下来指名道姓了吗 他让粉丝享受舞台有什么错"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 411,
+          "like_count": 451,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1563
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T05:24:29.000Z",
+        "description": "🤍🩶",
+        "id": "2027253020820709376",
+        "name": "Potato",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027253759395696640/3CJ4LL2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 14,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Potatontk0",
+        "verified": false
+      }
+    ]
+  }
+}

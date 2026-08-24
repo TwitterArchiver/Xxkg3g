@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087916943902912513",
+        "3_2087916943965872128"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2087916970268307727",
+    "created_at": "2026-08-13T14:59:31.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T15:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087916970268307727"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzeLT8pkHF",
+          "end": 32,
+          "expanded_url": "https://x.com/Xxkg3g/status/2087916970268307727/photo/1",
+          "media_key": "3_2087916943902912513",
+          "start": 9,
+          "url": "https://t.co/GzeLT8pkHF"
+        },
+        {
+          "display_url": "pic.x.com/GzeLT8pkHF",
+          "end": 32,
+          "expanded_url": "https://x.com/Xxkg3g/status/2087916970268307727/photo/1",
+          "media_key": "3_2087916943965872128",
+          "start": 9,
+          "url": "https://t.co/GzeLT8pkHF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087916970268307727",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087916943902912513"
+      },
+      {
+        "media_key": "3_2087916943965872128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就算是老虎也可爱 https://t.co/GzeLT8pkHF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1111,
+        "media_key": "3_2087916943902912513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnFZfHaMAE8SBq.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1128,
+        "media_key": "3_2087916943965872128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnFZfWa4AATSv-.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087916943902912513",
+            "3_2087916943965872128"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2087916970268307727",
+        "created_at": "2026-08-13T14:59:31.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T15:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087916970268307727"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzeLT8pkHF",
+              "end": 32,
+              "expanded_url": "https://x.com/Xxkg3g/status/2087916970268307727/photo/1",
+              "media_key": "3_2087916943902912513",
+              "start": 9,
+              "url": "https://t.co/GzeLT8pkHF"
+            },
+            {
+              "display_url": "pic.x.com/GzeLT8pkHF",
+              "end": 32,
+              "expanded_url": "https://x.com/Xxkg3g/status/2087916970268307727/photo/1",
+              "media_key": "3_2087916943965872128",
+              "start": 9,
+              "url": "https://t.co/GzeLT8pkHF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087916970268307727",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087916943902912513"
+          },
+          {
+            "media_key": "3_2087916943965872128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就算是老虎也可爱 https://t.co/GzeLT8pkHF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2087916970268307727",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 425,
+          "like_count": 471,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 1719
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

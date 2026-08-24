@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2090450174086901770",
+    "created_at": "2026-08-20T20:32:35.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T21:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090537502491001129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2070179375174352897",
+          "start": 0,
+          "username": "icczoefgko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090537502491001129",
+    "in_reply_to_user_id": "2070179375174352897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090450174086901770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@icczoefgko 你咋子这么美！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1917,
+        "media_key": "3_2090450159838892032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLFWD3bEAAQrY7.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1051,
+        "media_key": "3_2090450159402692608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLFWCPbMAAje7v.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2090450174086901770",
+        "created_at": "2026-08-20T20:32:35.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090537502491001129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2070179375174352897",
+              "start": 0,
+              "username": "icczoefgko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090537502491001129",
+        "in_reply_to_user_id": "2070179375174352897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090450174086901770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@icczoefgko 你咋子这么美！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090450159838892032",
+            "3_2090450159402692608"
+          ]
+        },
+        "author_id": "2070179375174352897",
+        "conversation_id": "2090450174086901770",
+        "created_at": "2026-08-20T14:45:34.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090450174086901770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dnBw53FOib",
+              "end": 28,
+              "expanded_url": "https://x.com/icczoefgko/status/2090450174086901770/photo/1",
+              "media_key": "3_2090450159838892032",
+              "start": 5,
+              "url": "https://t.co/dnBw53FOib"
+            },
+            {
+              "display_url": "pic.x.com/dnBw53FOib",
+              "end": 28,
+              "expanded_url": "https://x.com/icczoefgko/status/2090450174086901770/photo/1",
+              "media_key": "3_2090450159402692608",
+              "start": 5,
+              "url": "https://t.co/dnBw53FOib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090450174086901770",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090450159838892032"
+          },
+          {
+            "media_key": "3_2090450159402692608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1068,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "清相册中 https://t.co/dnBw53FOib"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2090537502491001129",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 505,
+          "like_count": 545,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2097
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-25T16:17:44.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子/可以叫我咬咬。不约不卡不想和你认识不想和你处对象不闲聊，私信只回口令红包",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yaoyao79953",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yaoyao79953",
+                "start": 0,
+                "url": "https://t.co/iQkdIgZAnA"
+              }
+            ]
+          }
+        },
+        "id": "2070179375174352897",
+        "is_identity_verified": false,
+        "location": "我想发啥就发啥🧚🏻‍♀️",
+        "most_recent_tweet_id": "2090514549715927311",
+        "name": "拭尽天下少女泪",
+        "pinned_tweet_id": "2082888025571573880",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070179375174352897/1786007357",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088528414726848512/KYPBVW-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1583,
+          "following_count": 95,
+          "like_count": 1406,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 2069
+        },
+        "url": "https://t.co/iQkdIgZAnA",
+        "username": "icczoefgko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

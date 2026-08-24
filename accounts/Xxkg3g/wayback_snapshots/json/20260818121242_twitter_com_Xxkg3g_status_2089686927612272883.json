@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2089686202710630761",
+    "created_at": "2026-08-18T12:12:42.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089686927612272883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2080474792940146688",
+          "start": 0,
+          "username": "pz_0703"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089686927612272883",
+    "in_reply_to_user_id": "2080474792940146688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089686683847623120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pz_0703 另世我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2089686202710630761",
+        "created_at": "2026-08-18T12:12:42.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089686927612272883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2080474792940146688",
+              "start": 0,
+              "username": "pz_0703"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089686927612272883",
+        "in_reply_to_user_id": "2080474792940146688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089686683847623120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pz_0703 另世我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080474792940146688",
+        "conversation_id": "2089686202710630761",
+        "created_at": "2026-08-18T12:11:44.000Z",
+        "display_text_range": [
+          8,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089686683847623120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089686683847623120",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089686202710630761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 真的！！久沒互關 我也會取關🤣"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2089686927612272883",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 498,
+          "like_count": 519,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-24T02:09:05.000Z",
+        "description": "♡ @ya_lin9744 寶貝 (*ˊᗜˋ*)\n☆ @pf__2013 小天使 ꒰ঌ(˶ˆᗜˆ˵)໒꒱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "ya_lin9744"
+              },
+              {
+                "end": 36,
+                "start": 27,
+                "username": "pf__2013"
+              }
+            ]
+          }
+        },
+        "id": "2080474792940146688",
+        "is_identity_verified": false,
+        "location": "離你一步之遙 (。•̀ᴗ-)✧",
+        "most_recent_tweet_id": "2089686683847623120",
+        "name": "z",
+        "pinned_tweet_id": "2088595021956272384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080474792940146688/1786574184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089628876465135616/fRWQLVKG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 35,
+          "like_count": 272,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "pz_0703",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

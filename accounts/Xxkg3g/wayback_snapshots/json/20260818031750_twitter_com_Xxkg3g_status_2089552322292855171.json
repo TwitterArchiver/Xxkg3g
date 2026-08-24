@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2089545982325527019",
+    "created_at": "2026-08-18T03:17:50.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089552322292855171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2087424531531182080",
+          "start": 0,
+          "username": "whitney64xj9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089552322292855171",
+    "in_reply_to_user_id": "2087424531531182080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089545982325527019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitney64xj9 我帮你😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2089545982325527019",
+        "created_at": "2026-08-18T03:17:50.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089552322292855171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2087424531531182080",
+              "start": 0,
+              "username": "whitney64xj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089552322292855171",
+        "in_reply_to_user_id": "2087424531531182080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089545982325527019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitney64xj9 我帮你😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087424531531182080",
+        "conversation_id": "2089545982325527019",
+        "created_at": "2026-08-18T02:52:38.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089545982325527019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089545982325527019",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "助力冬冬大帝找回互关😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2089552322292855171",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 500,
+          "like_count": 521,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1960
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T06:23:08.000Z",
+        "description": "04｜♂｜绘画/编曲/日常｜男喘号@snow616verse",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "snow616verse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whitney96ga8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whitney96ga8",
+                "start": 0,
+                "url": "https://t.co/YR0u9UQOdT"
+              }
+            ]
+          }
+        },
+        "id": "2087424531531182080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089551301910610037",
+        "name": "冬",
+        "pinned_tweet_id": "2089540009645031553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087424531531182080/1787021524",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089539736088317952/ekFSn9yu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/YR0u9UQOdT",
+        "username": "whitney64xj9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

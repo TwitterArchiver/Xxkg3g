@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2090442131316072698",
+    "created_at": "2026-08-20T20:33:00.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T21:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090537605519864198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1873793051065540612",
+          "start": 0,
+          "username": "i2uzty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090537605519864198",
+    "in_reply_to_user_id": "1873793051065540612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090442131316072698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@i2uzty 好可爱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5930,
+        "height": 720,
+        "media_key": "13_2090442101230280704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090442101230280704/img/HLtfTsazmZtjZ3s3.jpg",
+        "public_metrics": {
+          "view_count": 27
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090442101230280704/vid/avc1/480x270/GxPScBtGtMec01FM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090442101230280704/vid/avc1/640x360/ACgP5tokNd5ujsW-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090442101230280704/vid/avc1/1280x720/e1KqbkPybZOTmDKA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090442101230280704/pl/c12lKcveSadjgCob.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2090442131316072698",
+        "created_at": "2026-08-20T20:33:00.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T21:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090537605519864198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1873793051065540612",
+              "start": 0,
+              "username": "i2uzty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090537605519864198",
+        "in_reply_to_user_id": "1873793051065540612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090442131316072698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@i2uzty 好可爱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090442101230280704"
+          ]
+        },
+        "author_id": "1873793051065540612",
+        "conversation_id": "2090442131316072698",
+        "created_at": "2026-08-20T14:13:37.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090442131316072698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uynLUXF4wL",
+              "end": 62,
+              "expanded_url": "https://x.com/i2uzty/status/2090442131316072698/video/1",
+              "media_key": "13_2090442101230280704",
+              "start": 39,
+              "url": "https://t.co/uynLUXF4wL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090442131316072698",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "13_2090442101230280704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(´・ω・`).;:…(´・ω...:.;::..(´・;::: .:.;: https://t.co/uynLUXF4wL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2090537605519864198",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 505,
+          "like_count": 545,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2098
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-30T18:07:47.000Z",
+        "description": "爱说废话 善用屏蔽\n需要我回fo请私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/i2uzty",
+                "end": 23,
+                "expanded_url": "https://ngl.link/i2uzty",
+                "start": 0,
+                "url": "https://t.co/Rcita5Z82w"
+              }
+            ]
+          }
+        },
+        "id": "1873793051065540612",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090476934803456424",
+        "name": "一朵风中摇曳的小雨滴",
+        "pinned_tweet_id": "2088667014730858853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873793051065540612/1786774291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088651571391557632/bA35mf05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 12,
+          "like_count": 975,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/Rcita5Z82w",
+        "username": "i2uzty",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

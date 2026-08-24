@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2089686202710630761",
+    "created_at": "2026-08-18T12:18:04.000Z",
+    "display_text_range": [
+      9,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T13:18:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089688275594449207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2060826986248048640",
+          "start": 0,
+          "username": "fxy2nro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089688275594449207",
+    "in_reply_to_user_id": "2060826986248048640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089688121608954284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fxy2nro 因为你很可爱呀！我会去看别人帖子进行一个选妃子活动。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2089686202710630761",
+        "created_at": "2026-08-18T12:18:04.000Z",
+        "display_text_range": [
+          9,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:18:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089688275594449207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2060826986248048640",
+              "start": 0,
+              "username": "fxy2nro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089688275594449207",
+        "in_reply_to_user_id": "2060826986248048640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089688121608954284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fxy2nro 因为你很可爱呀！我会去看别人帖子进行一个选妃子活动。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060826986248048640",
+        "conversation_id": "2089686202710630761",
+        "created_at": "2026-08-18T12:17:27.000Z",
+        "display_text_range": [
+          8,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089688121608954284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089688121608954284",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089686202710630761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 其实我给你评论的时候根本没想到你会关注我 真的超感谢🥺😿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2089688275594449207",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1441,
+          "following_count": 498,
+          "like_count": 519,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 1978
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T20:53:59.000Z",
+        "description": "废话垃圾桶",
+        "id": "2060826986248048640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089688121608954284",
+        "name": "Xzero",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060826986248048640/1786937838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089194784816836610/BOeK8E8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 25,
+          "like_count": 4824,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 101
+        },
+        "url": "",
+        "username": "fxy2nro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

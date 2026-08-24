@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2088991514626285999",
+    "created_at": "2026-08-16T15:21:58.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089009783151939816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1960302400323162112",
+          "start": 0,
+          "username": "tao3079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089009783151939816",
+    "in_reply_to_user_id": "1960302400323162112",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088991514626285999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tao3079 mj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26033,
+        "height": 720,
+        "media_key": "13_2088991484632793090",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088991484632793090/img/QtHPDI-1LXSOB28a.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088991484632793090/vid/avc1/360x270/xMyZ8y_hY-_cmiZt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088991484632793090/vid/avc1/480x360/FE8vj1EHKVav9MmA.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088991484632793090/vid/avc1/960x720/2qiZfqQtuV0V3zZX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088991484632793090/pl/5sIPiF4z9_Y1sDuy.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2088991514626285999",
+        "created_at": "2026-08-16T15:21:58.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089009783151939816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1960302400323162112",
+              "start": 0,
+              "username": "tao3079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089009783151939816",
+        "in_reply_to_user_id": "1960302400323162112",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088991514626285999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tao3079 mj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088991484632793090"
+          ]
+        },
+        "author_id": "1960302400323162112",
+        "conversation_id": "2088991514626285999",
+        "created_at": "2026-08-16T14:09:23.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T15:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088991514626285999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QDDszZMOyk",
+              "end": 23,
+              "expanded_url": "https://x.com/tao3079/status/2088991514626285999/video/1",
+              "media_key": "13_2088991484632793090",
+              "start": 0,
+              "url": "https://t.co/QDDszZMOyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088991514626285999",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2088991484632793090"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QDDszZMOyk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2089009783151939816",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1378,
+          "following_count": 484,
+          "like_count": 502,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 1896
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-26T11:24:55.000Z",
+        "description": "",
+        "id": "1960302400323162112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089005004095099024",
+        "name": "桂小太郎（反迷你）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042936812575035395/_8G4kvtN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "tao3079",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084712818675445890",
+    "created_at": "2026-08-05T22:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T23:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085130927169257925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958057170764967936",
+          "start": 0,
+          "username": "hyxsuckmydick"
+        },
+        {
+          "end": 28,
+          "id": "2060069283812814848",
+          "start": 15,
+          "username": "Xiaojin_0116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085130927169257925",
+    "in_reply_to_user_id": "1958057170764967936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084807036601286912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hyxsuckmydick @Xiaojin_0116 我发的巧克力咋还没吃死你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084712818675445890",
+        "created_at": "2026-08-05T22:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T23:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085130927169257925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958057170764967936",
+              "start": 0,
+              "username": "hyxsuckmydick"
+            },
+            {
+              "end": 28,
+              "id": "2060069283812814848",
+              "start": 15,
+              "username": "Xiaojin_0116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085130927169257925",
+        "in_reply_to_user_id": "1958057170764967936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084807036601286912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hyxsuckmydick @Xiaojin_0116 我发的巧克力咋还没吃死你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958057170764967936",
+        "conversation_id": "2084712818675445890",
+        "created_at": "2026-08-05T01:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084807036601286912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060069283812814848",
+              "start": 0,
+              "username": "Xiaojin_0116"
+            },
+            {
+              "end": 21,
+              "id": "2040496801401425920",
+              "start": 14,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084807036601286912",
+        "in_reply_to_user_id": "2060069283812814848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084784892072898628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xiaojin_0116 @Xxkg3g 17了还儿童呢？那个死妈骚逼臭母狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1132,
+          "following_count": 411,
+          "like_count": 446,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1554
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T06:43:28.000Z",
+        "description": "",
+        "id": "1958057170764967936",
+        "name": "hyxxx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958057462621458432/qGftiSXt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 99,
+          "like_count": 6523,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "hyxsuckmydick",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T18:44:23.000Z",
+        "description": "",
+        "id": "2060069283812814848",
+        "name": "寻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084430506217951232/tijYXVXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 50,
+          "like_count": 2014,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "Xiaojin_0116",
+        "verified": false
+      }
+    ]
+  }
+}

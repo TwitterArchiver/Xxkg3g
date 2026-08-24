@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2090071190341845013",
+    "created_at": "2026-08-19T16:50:58.000Z",
+    "display_text_range": [
+      30,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090119341375402357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1916261157272489988",
+          "start": 0,
+          "username": "EomLin43194"
+        },
+        {
+          "end": 29,
+          "id": "1766595057463996416",
+          "start": 13,
+          "username": "Aaa_NekozakiYuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090119341375402357",
+    "in_reply_to_user_id": "1916261157272489988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090071190341845013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EomLin43194 @Aaa_NekozakiYuk 那个。这个发帖人和转帖人啊 我对你俩的好感度为100%欧坤？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2090071190341845013",
+        "created_at": "2026-08-19T16:50:58.000Z",
+        "display_text_range": [
+          30,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090119341375402357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1916261157272489988",
+              "start": 0,
+              "username": "EomLin43194"
+            },
+            {
+              "end": 29,
+              "id": "1766595057463996416",
+              "start": 13,
+              "username": "Aaa_NekozakiYuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090119341375402357",
+        "in_reply_to_user_id": "1916261157272489988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090071190341845013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EomLin43194 @Aaa_NekozakiYuk 那个。这个发帖人和转帖人啊 我对你俩的好感度为100%欧坤？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916261157272489988",
+        "conversation_id": "2090071190341845013",
+        "created_at": "2026-08-19T13:39:38.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090071190341845013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090071190341845013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3007,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "如果我能看到好感条就好了\n这样我就能知道我在别人心里的分量了\n总是揣测我在你心里跟你在我心里的重量是一样的吗\n总是会焦虑如果我频繁找你的话你会烦吗\n总是会在想你会不会觉得我不够有趣\n不要对我若即若离好吗，我总是会去猜你的想法"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2090119341375402357",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 503,
+          "like_count": 531,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 2033
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-26T22:40:49.000Z",
+        "description": "恨天地生万物，而非仅你我\ninfp  水瓶座",
+        "id": "1916261157272489988",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090099550438777043",
+        "name": "eom lin",
+        "pinned_tweet_id": "2089666434641326330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916261157272489988/1787051824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089230993505042432/EHCyQG7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 176,
+          "like_count": 795,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 215
+        },
+        "url": "",
+        "username": "EomLin43194",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-09T22:41:23.000Z",
+        "description": "什么都发   sw/brat  男的别叫我宝宝\n积极向上天天开心!！\nhttps://t.co/LQEoawbAmL这个是我的提问箱^^\n骚扰私信会不打码公开处刑 没有🚪除互关不扩列",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sharkteeth23242",
+                "end": 58,
+                "expanded_url": "https://ngl.link/sharkteeth23242",
+                "start": 35,
+                "url": "https://t.co/LQEoawbAmL"
+              }
+            ]
+          }
+        },
+        "id": "1766595057463996416",
+        "is_identity_verified": false,
+        "location": "骚扰我的一辈子不能发财",
+        "most_recent_tweet_id": "2090106381693268328",
+        "name": "吸酱QwQ",
+        "pinned_tweet_id": "2081252208558096605",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766595057463996416/1783146938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021580219321352192/fG-i_wl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 837,
+          "following_count": 291,
+          "like_count": 14897,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 2512
+        },
+        "url": "",
+        "username": "Aaa_NekozakiYuk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088689339266158592"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2088689350846669279",
+    "created_at": "2026-08-15T18:08:41.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T19:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088689350846669279"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8CcryEP0Ph",
+          "end": 26,
+          "expanded_url": "https://x.com/Xxkg3g/status/2088689350846669279/photo/1",
+          "media_key": "3_2088689339266158592",
+          "start": 3,
+          "url": "https://t.co/8CcryEP0Ph"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088689350846669279",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2088689339266158592"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "…… https://t.co/8CcryEP0Ph"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2088689339266158592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPyD40Ea0AADgKw.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088689339266158592"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2088689350846669279",
+        "created_at": "2026-08-15T18:08:41.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T19:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088689350846669279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8CcryEP0Ph",
+              "end": 26,
+              "expanded_url": "https://x.com/Xxkg3g/status/2088689350846669279/photo/1",
+              "media_key": "3_2088689339266158592",
+              "start": 3,
+              "url": "https://t.co/8CcryEP0Ph"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088689350846669279",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2088689339266158592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "…… https://t.co/8CcryEP0Ph"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n 性别:神 年龄:神是不可窥见的 生日:神是不可窥见的 身高:神是不可窥见的 星座:神是不可窥见的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2088689350846669279",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1332,
+          "following_count": 476,
+          "like_count": 491,
+          "listed_count": 2,
+          "media_count": 86,
+          "tweet_count": 1853
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

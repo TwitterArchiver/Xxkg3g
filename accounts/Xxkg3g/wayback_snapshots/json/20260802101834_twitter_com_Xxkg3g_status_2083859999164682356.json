@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2083542332822213041",
+    "created_at": "2026-08-02T10:18:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:18:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083859999164682356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1736821968614436865",
+          "start": 0,
+          "username": "Badnight2003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083859999164682356",
+    "in_reply_to_user_id": "1736821968614436865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083542332822213041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Badnight2003 怎么把我前任挂出来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2083542332822213041",
+        "created_at": "2026-08-02T10:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083859999164682356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1736821968614436865",
+              "start": 0,
+              "username": "Badnight2003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083859999164682356",
+        "in_reply_to_user_id": "1736821968614436865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083542332822213041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Badnight2003 怎么把我前任挂出来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736821968614436865",
+        "conversation_id": "2083542332822213041",
+        "created_at": "2026-08-01T13:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083542332822213041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083542332822213041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 17977,
+          "like_count": 280,
+          "quote_count": 10,
+          "reply_count": 62,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的低精力回避型男友，觉得无聊了就找你聊聊，嫌你烦了就玩失踪，对着你的长篇大论回一个OK我都行看你，对着你分享的日常随便回一个表情包，看着你的崩溃抓狂隔半天回一个对不起，在线状态关闭起来隐身开起来，你质问我为什么不爱你我说一句我很爱你只是不想表现出来，你哭着要分手我说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 379,
+          "like_count": 410,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-18T18:53:33.000Z",
+        "description": "花有重开日，人无再少年",
+        "id": "1736821968614436865",
+        "location": "在你心里😗",
+        "name": "铭.",
+        "pinned_tweet_id": "1775040732279275782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082089919481364480/N_I6MLZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 84,
+          "like_count": 1181,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1482
+        },
+        "url": "",
+        "username": "Badnight2003",
+        "verified": false
+      }
+    ]
+  }
+}

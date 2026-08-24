@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084006142527914044",
+    "created_at": "2026-08-03T10:23:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:23:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084223747087823208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1978142123779133440",
+          "start": 0,
+          "username": "huaiYuYu40347"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084223747087823208",
+    "in_reply_to_user_id": "1978142123779133440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084183807339696322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huaiYuYu40347 男人装女人的时候最男人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084006142527914044",
+        "created_at": "2026-08-03T10:23:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:23:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084223747087823208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1978142123779133440",
+              "start": 0,
+              "username": "huaiYuYu40347"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084223747087823208",
+        "in_reply_to_user_id": "1978142123779133440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084183807339696322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huaiYuYu40347 男人装女人的时候最男人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978142123779133440",
+        "conversation_id": "2084006142527914044",
+        "created_at": "2026-08-03T07:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T08:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084183807339696322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084183807339696322",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1090,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084006142527914044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 当别人问我为什么一眼能看出来这个人是个皮下男的时候be like："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 396,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T16:53:37.000Z",
+        "description": "🚪绝地武士尖晶石（严格要求霓虹感）/赵之谦名品一方或黄士陵两方/宋拓集王圣教序一册/雍正粉彩茶圆一对（珐琅彩亦可）",
+        "id": "1978142123779133440",
+        "name": "螺丝起子多加西柚",
+        "pinned_tweet_id": "2045083040431685854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978144187729035265/Ub-ENlH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 24,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 752
+        },
+        "url": "",
+        "username": "huaiYuYu40347",
+        "verified": true
+      }
+    ]
+  }
+}

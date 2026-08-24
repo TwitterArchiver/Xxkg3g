@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2088671918690107643",
+    "created_at": "2026-08-15T17:20:45.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T18:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088677285570428941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1350480625438867456",
+          "start": 0,
+          "username": "qwqyimolove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088677285570428941",
+    "in_reply_to_user_id": "1350480625438867456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088671918690107643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qwqyimolove 王者就这样对自己金主？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2088671918690107643",
+        "created_at": "2026-08-15T17:20:45.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T18:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088677285570428941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1350480625438867456",
+              "start": 0,
+              "username": "qwqyimolove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088677285570428941",
+        "in_reply_to_user_id": "1350480625438867456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088671918690107643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqyimolove 王者就这样对自己金主？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1350480625438867456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900552308949006",
+              "name": "MOBAs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1538607121129869313",
+              "name": "Honor of Kings"
+            }
+          }
+        ],
+        "conversation_id": "2088671918690107643",
+        "created_at": "2026-08-15T16:59:25.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T17:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088671918690107643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088671918690107643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "王者荣耀你被我拉入黑名单了好吗？我现在就剩0颗星了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n 性别:神 年龄:神是不可窥见的 生日:神是不可窥见的 身高:神是不可窥见的 星座:神是不可窥见的",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "0.1km",
+        "most_recent_tweet_id": "2088677285570428941",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 475,
+          "like_count": 489,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1842
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-16T16:31:00.000Z",
+        "description": "https://t.co/xfU2lR6OvE\n我就是个爱听点kpop有一点点特摄二次元成分，爱发点碎碎念的普通小男生呀。。我很温良的希望认识好宝宝们呀。和我熟了之后什么都可以聊的ovo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yimo84754",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yimo84754",
+                "start": 0,
+                "url": "https://t.co/xfU2lR6OvE"
+              }
+            ]
+          }
+        },
+        "id": "1350480625438867456",
+        "is_identity_verified": false,
+        "location": "一万只猫的中心",
+        "most_recent_tweet_id": "2088676396877185400",
+        "name": "一末yimo",
+        "pinned_tweet_id": "2071625589405184383",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1350480625438867456/1771179072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069615998697627648/3MThrhHx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 365,
+          "like_count": 3065,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "qwqyimolove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

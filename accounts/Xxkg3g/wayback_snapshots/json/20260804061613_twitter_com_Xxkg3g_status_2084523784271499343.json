@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084374610255200563",
+    "created_at": "2026-08-04T06:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T07:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084523784271499343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1778061003517022208",
+          "start": 0,
+          "username": "mikoworks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084523784271499343",
+    "in_reply_to_user_id": "1778061003517022208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084432110199382295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikoworks 啊？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084374610255200563",
+        "created_at": "2026-08-04T06:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084523784271499343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1778061003517022208",
+              "start": 0,
+              "username": "mikoworks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084523784271499343",
+        "in_reply_to_user_id": "1778061003517022208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084432110199382295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikoworks 啊？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778061003517022208",
+        "conversation_id": "2084374610255200563",
+        "created_at": "2026-08-04T00:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084432110199382295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084432110199382295",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084374610255200563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我还听过有让自己女朋友去3p的，别埋怨当初的自己，能从里面走出来已经很不容易了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 401,
+          "like_count": 433,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1491
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-10T14:02:38.000Z",
+        "description": "只是在一个人安静的发疯/波奇酱控lv.max/妹控lv.max/黑猫控lv.max/东方lv.max/san值略低/FF14鸟区",
+        "id": "1778061003517022208",
+        "location": "千叶",
+        "name": "食人鲨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083237790289170433/q0-KK6wb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "mikoworks",
+        "verified": false
+      }
+    ]
+  }
+}

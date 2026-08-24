@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2088934851575714098",
+    "created_at": "2026-08-16T10:25:16.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:25:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088935116433404196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057324764599824384",
+          "start": 0,
+          "username": "whitney96ga8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088935116433404196",
+    "in_reply_to_user_id": "2057324764599824384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088934851575714098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitney96ga8 可以可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2088934838426603520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1jKvtbEAAztAv.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2088934851575714098",
+        "created_at": "2026-08-16T10:25:16.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088935116433404196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057324764599824384",
+              "start": 0,
+              "username": "whitney96ga8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088935116433404196",
+        "in_reply_to_user_id": "2057324764599824384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088934851575714098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitney96ga8 可以可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088934838426603520"
+          ]
+        },
+        "author_id": "2057324764599824384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088934851575714098",
+        "created_at": "2026-08-16T10:24:13.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088934851575714098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLZ78OqgM1",
+              "end": 42,
+              "expanded_url": "https://x.com/whitney96ga8/status/2088934851575714098/photo/1",
+              "media_key": "3_2088934838426603520",
+              "start": 19,
+              "url": "https://t.co/BLZ78OqgM1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088934851575714098",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088934838426603520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "报备\n暴走10km后的蛋白质晚饭＋🥤 https://t.co/BLZ78OqgM1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2088935116433404196",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 482,
+          "like_count": 498,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 1885
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T04:57:08.000Z",
+        "description": "🧊｜只发想发的｜04｜男｜编曲/画画/日常/有时间就更男喘",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whitney96ga8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whitney96ga8",
+                "start": 0,
+                "url": "https://t.co/sGth0YLZ1Y"
+              }
+            ]
+          }
+        },
+        "id": "2057324764599824384",
+        "is_identity_verified": false,
+        "location": "电子世界",
+        "most_recent_tweet_id": "2088934851575714098",
+        "name": "冬。",
+        "pinned_tweet_id": "2081715853645779237",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057324764599824384/1786281146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086440456548982784/ozGrL_7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 36,
+          "like_count": 2874,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 850
+        },
+        "url": "https://t.co/sGth0YLZ1Y",
+        "username": "whitney96ga8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

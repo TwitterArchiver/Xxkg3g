@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2087553929777393799",
+    "created_at": "2026-08-12T19:27:08.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T20:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087621927456399650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1515253415936348163",
+          "start": 0,
+          "username": "GeiWo_Money"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087621927456399650",
+    "in_reply_to_user_id": "1515253415936348163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087553929777393799",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GeiWo_Money 伟大的…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2087553903303045120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPh7NvfbsAAejje.jpg",
+        "width": 2376
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2087553909816791040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPh7OHwbkAAuLhr.jpg",
+        "width": 2376
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2087553916980559872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPh7OicaAAADuda.jpg",
+        "width": 2376
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2087553923725004800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPh7O7kaEAArBd7.jpg",
+        "width": 2376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2087553929777393799",
+        "created_at": "2026-08-12T19:27:08.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T20:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087621927456399650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1515253415936348163",
+              "start": 0,
+              "username": "GeiWo_Money"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087621927456399650",
+        "in_reply_to_user_id": "1515253415936348163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087553929777393799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeiWo_Money 伟大的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087553903303045120",
+            "3_2087553909816791040",
+            "3_2087553916980559872",
+            "3_2087553923725004800"
+          ]
+        },
+        "author_id": "1515253415936348163",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087553929777393799",
+        "created_at": "2026-08-12T14:56:56.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:56:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087553929777393799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yo5iI2hn6r",
+              "end": 54,
+              "expanded_url": "https://x.com/GeiWo_Money/status/2087553929777393799/photo/1",
+              "media_key": "3_2087553903303045120",
+              "start": 31,
+              "url": "https://t.co/Yo5iI2hn6r"
+            },
+            {
+              "display_url": "pic.x.com/Yo5iI2hn6r",
+              "end": 54,
+              "expanded_url": "https://x.com/GeiWo_Money/status/2087553929777393799/photo/1",
+              "media_key": "3_2087553909816791040",
+              "start": 31,
+              "url": "https://t.co/Yo5iI2hn6r"
+            },
+            {
+              "display_url": "pic.x.com/Yo5iI2hn6r",
+              "end": 54,
+              "expanded_url": "https://x.com/GeiWo_Money/status/2087553929777393799/photo/1",
+              "media_key": "3_2087553916980559872",
+              "start": 31,
+              "url": "https://t.co/Yo5iI2hn6r"
+            },
+            {
+              "display_url": "pic.x.com/Yo5iI2hn6r",
+              "end": 54,
+              "expanded_url": "https://x.com/GeiWo_Money/status/2087553929777393799/photo/1",
+              "media_key": "3_2087553923725004800",
+              "start": 31,
+              "url": "https://t.co/Yo5iI2hn6r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087553929777393799",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087553903303045120"
+          },
+          {
+            "media_key": "3_2087553909816791040"
+          },
+          {
+            "media_key": "3_2087553916980559872"
+          },
+          {
+            "media_key": "3_2087553923725004800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ദ്ദി ༎ຶ‿༎ຶ )\n(*꒦ິ⌓꒦ີ)\n我要看一辈子百合 https://t.co/Yo5iI2hn6r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2087621927456399650",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1180,
+          "following_count": 420,
+          "like_count": 462,
+          "listed_count": 2,
+          "media_count": 68,
+          "tweet_count": 1695
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-16T08:59:09.000Z",
+        "description": "INTJ  随便发点  希望每天睡个好觉\n分享点日常，碎碎念，还有🔞 不喜勿喷  刷走就行\n匿名提问：https://t.co/CY1uzod1Is",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/takachiki",
+                "end": 74,
+                "expanded_url": "https://ngl.link/takachiki",
+                "start": 51,
+                "url": "https://t.co/CY1uzod1Is"
+              }
+            ]
+          }
+        },
+        "id": "1515253415936348163",
+        "is_identity_verified": false,
+        "location": "被窝",
+        "most_recent_tweet_id": "2087553929777393799",
+        "name": "Izumi",
+        "pinned_tweet_id": "2071644500154630211",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1515253415936348163/1782655560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073294526954041344/mgUVPYp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2632,
+          "following_count": 115,
+          "like_count": 1216,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "GeiWo_Money",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

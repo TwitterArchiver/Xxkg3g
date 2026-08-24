@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084187577712783795",
+    "created_at": "2026-08-04T20:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T21:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084731975546642629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1650545962690150400",
+          "start": 0,
+          "username": "zhu112209238882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084731975546642629",
+    "in_reply_to_user_id": "1650545962690150400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084187577712783795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu112209238882 唉..之前在初中的时候 一个别的学校的女孩和男朋友的私密视频被传出来 当时传的我们整个小县城基本都知道了…可恨的男人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084187577712783795",
+        "created_at": "2026-08-04T20:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T21:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084731975546642629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1650545962690150400",
+              "start": 0,
+              "username": "zhu112209238882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084731975546642629",
+        "in_reply_to_user_id": "1650545962690150400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084187577712783795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu112209238882 唉..之前在初中的时候 一个别的学校的女孩和男朋友的私密视频被传出来 当时传的我们整个小县城基本都知道了…可恨的男人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650545962690150400",
+        "conversation_id": "2084187577712783795",
+        "created_at": "2026-08-03T08:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084187577712783795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084187577712783795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 343059,
+          "like_count": 4742,
+          "quote_count": 9,
+          "reply_count": 584,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "女孩们，你们谈恋爱可以，不要随便拍那种裸露的照片给男朋友好吗，vx 里的一个朋友不小心转发错了，把他女友拍的照片发给我了，我就对着三张色情的照片震惊，痴呆了一下午。一时间语塞，而且他还是在我提醒以后，才发现自己转发错人了。可怕的时候，他原先是要转发给谁的，这种私密照。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 408,
+          "like_count": 438,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1514
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-24T17:03:28.000Z",
+        "description": "悟以往之不谏，知来者知可追",
+        "id": "1650545962690150400",
+        "name": "碎玉头猪",
+        "pinned_tweet_id": "2015437613197598941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902388949395632137/sWFcpi_o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2179,
+          "following_count": 12,
+          "like_count": 2723,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2007
+        },
+        "url": "",
+        "username": "zhu112209238882",
+        "verified": false
+      }
+    ]
+  }
+}

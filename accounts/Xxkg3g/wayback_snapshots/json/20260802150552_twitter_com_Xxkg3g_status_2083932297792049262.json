@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2083905360809869630",
+    "created_at": "2026-08-02T15:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083932297792049262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1853660529858134016",
+          "start": 0,
+          "username": "pparkie_cxxioi3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083932297792049262",
+    "in_reply_to_user_id": "1853660529858134016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083929463973417141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pparkie_cxxioi3 宝宝😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2083905360809869630",
+        "created_at": "2026-08-02T15:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083932297792049262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853660529858134016",
+              "start": 0,
+              "username": "pparkie_cxxioi3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083932297792049262",
+        "in_reply_to_user_id": "1853660529858134016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083929463973417141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pparkie_cxxioi3 宝宝😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1853660529858134016",
+        "conversation_id": "2083905360809869630",
+        "created_at": "2026-08-02T14:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083929463973417141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083929463973417141",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083905360809869630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我陪你好吧，宝贝。🫳🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 385,
+          "like_count": 413,
+          "listed_count": 2,
+          "media_count": 53,
+          "tweet_count": 1434
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T04:48:15.000Z",
+        "description": "重力系ヤンデレ🔪🩸互fo来吧\n類似人間☠️/sh 、od/ズッ友@yahana_sama \ntrs•jh🐶bnd•jh🐾/maeda_riku_❤️‍🩹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "yahana_sama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/imangcnx.ii__3…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/imangcnx.ii__3?igsh=MWlhZDVyaTMwcnJwcw%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/16ghDigEC5"
+              }
+            ]
+          }
+        },
+        "id": "1853660529858134016",
+        "location": "마른논에 물대기 ",
+        "name": "Miokko:-D",
+        "pinned_tweet_id": "2082744008271614448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082741943604490240/kI-juoLg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 42,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/16ghDigEC5",
+        "username": "pparkie_cxxioi3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086783525899091968"
+      ],
+      "media_source_tweet_id": [
+        "2086783539094405264"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2087582634407084243",
+    "created_at": "2026-08-12T16:51:00.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087582634407084243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2070598021617008640",
+          "start": 3,
+          "username": "jiujin8848"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K4SbjjA0WU",
+          "end": 44,
+          "expanded_url": "https://x.com/jiujin8848/status/2086783539094405264/photo/1",
+          "media_key": "3_2086783525899091968",
+          "start": 21,
+          "url": "https://t.co/K4SbjjA0WU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087582634407084243",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086783525899091968"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086783539094405264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiujin8848: 斯哈…. https://t.co/K4SbjjA0WU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1278,
+        "media_key": "3_2086783525899091968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPW-j4BaQAAp6Fw.jpg",
+        "width": 958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086783525899091968"
+          ]
+        },
+        "author_id": "2070598021617008640",
+        "conversation_id": "2086783539094405264",
+        "created_at": "2026-08-10T11:55:40.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T12:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086783539094405264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4SbjjA0WU",
+              "end": 28,
+              "expanded_url": "https://x.com/jiujin8848/status/2086783539094405264/photo/1",
+              "media_key": "3_2086783525899091968",
+              "start": 5,
+              "url": "https://t.co/K4SbjjA0WU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086783539094405264",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086783525899091968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1893,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "斯哈…. https://t.co/K4SbjjA0WU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086783525899091968"
+          ],
+          "media_source_tweet_id": [
+            "2086783539094405264"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2087582634407084243",
+        "created_at": "2026-08-12T16:51:00.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087582634407084243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2070598021617008640",
+              "start": 3,
+              "username": "jiujin8848"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K4SbjjA0WU",
+              "end": 44,
+              "expanded_url": "https://x.com/jiujin8848/status/2086783539094405264/photo/1",
+              "media_key": "3_2086783525899091968",
+              "start": 21,
+              "url": "https://t.co/K4SbjjA0WU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087582634407084243",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086783525899091968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086783539094405264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiujin8848: 斯哈…. https://t.co/K4SbjjA0WU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2087582634407084243",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1177,
+          "following_count": 417,
+          "like_count": 459,
+          "listed_count": 2,
+          "media_count": 69,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T20:01:08.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n前世@Xxkg3g 互fo回家….",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "Xxkg3g"
+              }
+            ]
+          }
+        },
+        "id": "2070598021617008640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087581107701346485",
+        "name": "灸（二代转世）",
+        "pinned_tweet_id": "2086783290300907643",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070598021617008640/1785462908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086406267845951488/FDx_kg3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 66,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "jiujin8848",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

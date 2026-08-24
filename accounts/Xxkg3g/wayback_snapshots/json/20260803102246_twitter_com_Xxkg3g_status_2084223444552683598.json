@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084006142527914044",
+    "created_at": "2026-08-03T10:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084223444552683598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050090690105774080",
+          "start": 0,
+          "username": "Iris_RinKanzaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084223444552683598",
+    "in_reply_to_user_id": "2050090690105774080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084199657043820606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iris_RinKanzaki 这个我在抖音搬运的谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084006142527914044",
+        "created_at": "2026-08-03T10:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084223444552683598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050090690105774080",
+              "start": 0,
+              "username": "Iris_RinKanzaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084223444552683598",
+        "in_reply_to_user_id": "2050090690105774080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084199657043820606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iris_RinKanzaki 这个我在抖音搬运的谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050090690105774080",
+        "conversation_id": "2084006142527914044",
+        "created_at": "2026-08-03T08:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084199657043820606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084199657043820606",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 653,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084006142527914044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 这张图片到底被多少个人盗图了。我至少看过10086遍。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 396,
+          "like_count": 424,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 1466
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T05:51:40.000Z",
+        "description": "不加聯繫方式，\n有時候看不到評論，我沒有裝高冷，可以私信找我聊天我會回復，最近不怎麼上推特，大家放心我不在的時候也沒有幸福\n最近身體好像越來越差了 回復信息有點慢，因為大多數時間在睡覺。不要為難我。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iris_rinkanzaki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iris_rinkanzaki",
+                "start": 0,
+                "url": "https://t.co/oVIaDcOQh9"
+              }
+            ]
+          }
+        },
+        "id": "2050090690105774080",
+        "location": "好痛苦 好心酸",
+        "name": "特別壞的一個人",
+        "pinned_tweet_id": "2075848345529233910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083578791759368192/-iqleWYu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 18,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/oVIaDcOQh9",
+        "username": "Iris_RinKanzaki",
+        "verified": false
+      }
+    ]
+  }
+}

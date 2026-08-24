@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2087965671527424090",
+    "created_at": "2026-08-13T18:55:44.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087976414415085977"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1742496937147002880",
+          "start": 0,
+          "username": "papyrus291481"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087976414415085977",
+    "in_reply_to_user_id": "1742496937147002880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087966611261255990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@papyrus291481 拯救！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_2087966606442041344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPnykOfbEAAjQkn.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2087965671527424090",
+        "created_at": "2026-08-13T18:55:44.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087976414415085977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1742496937147002880",
+              "start": 0,
+              "username": "papyrus291481"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087976414415085977",
+        "in_reply_to_user_id": "1742496937147002880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087966611261255990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@papyrus291481 拯救！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087966606442041344"
+          ]
+        },
+        "author_id": "1742496937147002880",
+        "conversation_id": "2087965671527424090",
+        "created_at": "2026-08-13T18:16:47.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087966611261255990"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZuSqT22UrO",
+              "end": 36,
+              "expanded_url": "https://x.com/papyrus291481/status/2087966611261255990/photo/1",
+              "media_key": "3_2087966606442041344",
+              "start": 13,
+              "url": "https://t.co/ZuSqT22UrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087966611261255990",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087966606442041344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087965671527424090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 救救小猫 https://t.co/ZuSqT22UrO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2087976414415085977",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 430,
+          "like_count": 472,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 1731
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-03T10:43:44.000Z",
+        "description": "这么多美丽的事物，还真得活下去",
+        "id": "1742496937147002880",
+        "is_identity_verified": false,
+        "location": "浙江",
+        "most_recent_tweet_id": "2087966968620224562",
+        "name": "papyrus",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742496937147002880/1785077816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081813639020077056/NYODr022_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 35,
+          "like_count": 188,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "papyrus291481",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

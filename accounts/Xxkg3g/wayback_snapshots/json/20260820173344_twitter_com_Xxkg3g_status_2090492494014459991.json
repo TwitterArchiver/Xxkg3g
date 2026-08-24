@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2090434345739956300",
+    "created_at": "2026-08-20T17:33:44.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090492494014459991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2059917748474634241",
+          "start": 0,
+          "username": "Lollipopm1217"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090492494014459991",
+    "in_reply_to_user_id": "2059917748474634241",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090452997797233075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lollipopm1217 mua！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2090434345739956300",
+        "created_at": "2026-08-20T17:33:44.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090492494014459991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2059917748474634241",
+              "start": 0,
+              "username": "Lollipopm1217"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090492494014459991",
+        "in_reply_to_user_id": "2059917748474634241",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090452997797233075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lollipopm1217 mua！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059917748474634241",
+        "conversation_id": "2090434345739956300",
+        "created_at": "2026-08-20T14:56:48.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090452997797233075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090452997797233075",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090434345739956300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 美神降临"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2090492494014459991",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1515,
+          "following_count": 503,
+          "like_count": 540,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2074
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T08:41:44.000Z",
+        "description": "HK学生妹🫶🏻喜欢的话 可以点个赞和关注😽谢谢支持 😽女孩子和蓝v一定会回关/小号: @QwQlolgood\nhttps://t.co/UUTARYa1HP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "QwQlolgood"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ycm_auhingan",
+                "end": 78,
+                "expanded_url": "https://ngl.link/ycm_auhingan",
+                "start": 55,
+                "url": "https://t.co/UUTARYa1HP"
+              }
+            ]
+          }
+        },
+        "id": "2059917748474634241",
+        "is_identity_verified": false,
+        "location": "Galaxy",
+        "most_recent_tweet_id": "2090487753574359515",
+        "name": "Lollipop",
+        "pinned_tweet_id": "2089917007705853990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059917748474634241/1780683784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059918147344588800/C1yfpmd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 458,
+          "like_count": 8436,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "Lollipopm1217",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084726837050278090",
+    "created_at": "2026-08-04T20:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T21:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084731176410022149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1852949232749293568",
+          "start": 0,
+          "username": "xsen60102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084731176410022149",
+    "in_reply_to_user_id": "1852949232749293568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084726837050278090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xsen60102 对。感谢所有陪我玩的推油…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084726837050278090",
+        "created_at": "2026-08-04T20:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T21:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084731176410022149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1852949232749293568",
+              "start": 0,
+              "username": "xsen60102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084731176410022149",
+        "in_reply_to_user_id": "1852949232749293568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084726837050278090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xsen60102 对。感谢所有陪我玩的推油…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852949232749293568",
+        "conversation_id": "2084726837050278090",
+        "created_at": "2026-08-04T19:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T20:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084726837050278090"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084726837050278090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉自己很像一个啥子然后推友也不嫌弃我这个啥子还跟我互动。谢谢你们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1098,
+          "following_count": 408,
+          "like_count": 438,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1513
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T05:41:53.000Z",
+        "description": "我只是一个普通人不要为难我  \n查成分互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uiamu",
+                "end": 23,
+                "expanded_url": "http://ngl.link/uiamu",
+                "start": 0,
+                "url": "https://t.co/ql5OP1uL8z"
+              }
+            ]
+          }
+        },
+        "id": "1852949232749293568",
+        "location": "天台上",
+        "name": "Uiamu",
+        "pinned_tweet_id": "2083629428987625712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084560365585858560/7UpwQjsT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 88,
+          "like_count": 996,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/ql5OP1uL8z",
+        "username": "xsen60102",
+        "verified": false
+      }
+    ]
+  }
+}

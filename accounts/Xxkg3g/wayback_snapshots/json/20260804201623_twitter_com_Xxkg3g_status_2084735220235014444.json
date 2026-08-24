@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084728419456254444",
+    "created_at": "2026-08-04T20:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T21:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084735220235014444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952435985347956736",
+          "start": 0,
+          "username": "Zhang_ming_qing"
+        },
+        {
+          "end": 28,
+          "id": "1809885957312901120",
+          "start": 17,
+          "username": "zhu1896074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084735220235014444",
+    "in_reply_to_user_id": "1952435985347956736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084732551328096511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zhang_ming_qing @zhu1896074 小兄弟我很支持你呀…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2084732539793772544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO51MxYbEAACCn3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084728419456254444",
+        "created_at": "2026-08-04T20:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T21:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084735220235014444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952435985347956736",
+              "start": 0,
+              "username": "Zhang_ming_qing"
+            },
+            {
+              "end": 28,
+              "id": "1809885957312901120",
+              "start": 17,
+              "username": "zhu1896074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084735220235014444",
+        "in_reply_to_user_id": "1952435985347956736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084732551328096511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhang_ming_qing @zhu1896074 小兄弟我很支持你呀…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084732539793772544"
+          ]
+        },
+        "author_id": "1952435985347956736",
+        "conversation_id": "2084728419456254444",
+        "created_at": "2026-08-04T20:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T21:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084732551328096511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809885957312901120",
+              "start": 0,
+              "username": "zhu1896074"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPvPKw3CXE",
+              "end": 127,
+              "expanded_url": "https://x.com/Zhang_ming_qing/status/2084732551328096511/photo/1",
+              "media_key": "3_2084732539793772544",
+              "start": 104,
+              "url": "https://t.co/OPvPKw3CXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084732551328096511",
+        "in_reply_to_user_id": "1809885957312901120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084728419456254444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu1896074 依旧书接上回。我本来对这男生印象还挺好的，感觉是个谦虚且寡言的大佬。得知他俩谈上了之后其实波澜也不是太大，真正反感的是得知男生主动去找女生奔现了，大哥对面还是个初中生啊，真是下得去手 https://t.co/OPvPKw3CXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 409,
+          "like_count": 438,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1515
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T18:26:40.000Z",
+        "description": "只关注有趣的灵魂\n我很温良，不要骂我，如有冒犯或词不达意请见谅\n粉红毛粉绕道走，明知故犯自动4000+",
+        "id": "1952435985347956736",
+        "location": "自由中國",
+        "name": "紀小念Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081081678345228288/Ism-tSm2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 187,
+          "like_count": 19592,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 4614
+        },
+        "url": "",
+        "username": "Zhang_ming_qing",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T09:43:39.000Z",
+        "description": "大家好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/1b239c",
+                "end": 23,
+                "expanded_url": "https://ngl.link/1b239c",
+                "start": 0,
+                "url": "https://t.co/kxmkUboc5s"
+              }
+            ]
+          }
+        },
+        "id": "1809885957312901120",
+        "name": "null",
+        "pinned_tweet_id": "2071617343109886111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083243735039787008/RCsxZsL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 45,
+          "like_count": 9115,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/kxmkUboc5s",
+        "username": "zhu1896074",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2090527586850070686",
+    "created_at": "2026-08-21T07:47:33.000Z",
+    "display_text_range": [
+      8,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T08:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090707364987154759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2089604745107517440",
+          "start": 0,
+          "username": "w3btuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090707364987154759",
+    "in_reply_to_user_id": "2089604745107517440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090681691492978708",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w3btuc 抱抱你吧宝宝🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2090527586850070686",
+        "created_at": "2026-08-21T07:47:33.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T08:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090707364987154759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2089604745107517440",
+              "start": 0,
+              "username": "w3btuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090707364987154759",
+        "in_reply_to_user_id": "2089604745107517440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090681691492978708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w3btuc 抱抱你吧宝宝🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089604745107517440",
+        "conversation_id": "2090527586850070686",
+        "created_at": "2026-08-21T06:05:32.000Z",
+        "display_text_range": [
+          8,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T07:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090681691492978708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090681691492978708",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090527586850070686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我小的时候家里也这个，爸妈总吵架，我还见过我爸爸打我妈妈，掐我妈，所以到现在我都很不喜欢我爸。我有一个弟弟，感觉我弟弟出生之后家里争吵就少了很多，我有时候就不禁感慨啊，感觉我弟弟比我那时候幸福一点，虽然也没多少"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2090707364987154759",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 509,
+          "like_count": 547,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 2103
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T06:47:18.000Z",
+        "description": "就想发点碎碎念 | 可以和我互fo",
+        "id": "2089604745107517440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090686102076281211",
+        "name": "想見你回眸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089604745107517440/1787055622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089605984625000448/WD_TKeQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 70,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "w3btuc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

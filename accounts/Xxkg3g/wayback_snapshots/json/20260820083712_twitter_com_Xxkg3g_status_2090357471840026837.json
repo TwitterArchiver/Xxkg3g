@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2090343932823773222",
+    "created_at": "2026-08-20T08:37:12.000Z",
+    "display_text_range": [
+      14,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090357471840026837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906965920515551233",
+          "start": 0,
+          "username": "OrangeTsukii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090357471840026837",
+    "in_reply_to_user_id": "1906965920515551233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090343932823773222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrangeTsukii 看见有人说自己性压抑 结果还到处骚扰别人 这是压抑？到底有没有上过学的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2090343932823773222",
+        "created_at": "2026-08-20T08:37:12.000Z",
+        "display_text_range": [
+          14,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090357471840026837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906965920515551233",
+              "start": 0,
+              "username": "OrangeTsukii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090357471840026837",
+        "in_reply_to_user_id": "1906965920515551233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090343932823773222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrangeTsukii 看见有人说自己性压抑 结果还到处骚扰别人 这是压抑？到底有没有上过学的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906965920515551233",
+        "conversation_id": "2090343932823773222",
+        "created_at": "2026-08-20T07:43:24.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090343932823773222"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090343932823773222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "事先声明，号主其实很少谈及性话题。\n但真的很想吐槽一下「性压抑」这个词。怎么感觉现在的性压抑跟高性欲/性瘾之间划等号了？\n\n我自认为是原教旨主义派的100分值性压抑，大概是自己一直在左右脑互搏：想的一直很变态，但是会因为各种因素——或是道德底线，或是因为自己难以性/爱分离的底色，或是单纯开不了这个口，欲望和念头本身就被严格审查、压抑、甚至内化成羞耻——而从来没有和陌生同性或异性之间谈论过有关性的话题。\n\n点进很多人的主页看见自己在标榜自己是性压抑，但是左手不离逼右手不离吊的，赛博世界玩的比谁都开。当然大伙都玩推了自然是想怎么样就怎么样，尊重大家的选择，但是挂一个性压抑的标签，性我是看出来了，压抑在哪？无非是机会压抑或者途径压抑罢了，再直白一点就是连找炮友都找不到只能在推上大狗叫。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事先声明，号主其实很少谈及性话题。\n但真的很想吐槽一下「性压抑」这个词。怎么感觉现在的性压抑跟高性欲/性瘾之间划等号了？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2090357471840026837",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1489,
+          "following_count": 500,
+          "like_count": 535,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 2055
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "03/男/中文/医学生/邦摇/J-pop/Dreampop/Midwest emo/Shoegaze/Mathrock/Neo-citypop/夜好性/夏日文学，叫我橙子就好。\n这里是我的日记兼垃圾桶，青春文艺病晚期，会经常说一些梦话，伤痛表演欲爆棚。\n更真实的橙子：@TsukiyoDes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "TsukiyoDes"
+              }
+            ]
+          }
+        },
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090356466482110810",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2088764451457744918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1746148217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090219298493235200/nXiKDM0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 121,
+          "like_count": 4522,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

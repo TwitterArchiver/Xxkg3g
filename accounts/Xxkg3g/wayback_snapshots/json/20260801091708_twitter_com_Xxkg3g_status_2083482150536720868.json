@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083482110082625536",
+        "3_2083482110078423040"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2083482150536720868",
+    "created_at": "2026-08-01T09:17:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083482150536720868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oRT1P2BI3G",
+          "end": 39,
+          "expanded_url": "https://x.com/Xxkg3g/status/2083482150536720868/photo/1",
+          "media_key": "3_2083482110082625536",
+          "start": 16,
+          "url": "https://t.co/oRT1P2BI3G"
+        },
+        {
+          "display_url": "pic.x.com/oRT1P2BI3G",
+          "end": 39,
+          "expanded_url": "https://x.com/Xxkg3g/status/2083482150536720868/photo/1",
+          "media_key": "3_2083482110078423040",
+          "start": 16,
+          "url": "https://t.co/oRT1P2BI3G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083482150536720868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闺蜜突然正经一次我实在是没接住 https://t.co/oRT1P2BI3G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083482110082625536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoD8LtbMAAwEeX.jpg",
+        "width": 1092
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083482110078423040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoD8LsbEAA5amg.jpg",
+        "width": 1028
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083482110082625536",
+            "3_2083482110078423040"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083482150536720868",
+        "created_at": "2026-08-01T09:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083482150536720868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oRT1P2BI3G",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxkg3g/status/2083482150536720868/photo/1",
+              "media_key": "3_2083482110082625536",
+              "start": 16,
+              "url": "https://t.co/oRT1P2BI3G"
+            },
+            {
+              "display_url": "pic.x.com/oRT1P2BI3G",
+              "end": 39,
+              "expanded_url": "https://x.com/Xxkg3g/status/2083482150536720868/photo/1",
+              "media_key": "3_2083482110078423040",
+              "start": 16,
+              "url": "https://t.co/oRT1P2BI3G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083482150536720868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闺蜜突然正经一次我实在是没接住 https://t.co/oRT1P2BI3G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 365,
+          "like_count": 405,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 1394
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084695078849937472",
+    "created_at": "2026-08-04T17:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084695078849937472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/chnlhu345555/s…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/chnlhu345555/status/2084667362054156511",
+          "start": 51,
+          "url": "https://t.co/Wvx87rIYyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084695078849937472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084667362054156511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是我他妈让这么多人骂你的吗 你个ltp怎么敢在我反ltp的帖子评论的？妈的上赶着挨骂 你他妈是不是m https://t.co/Wvx87rIYyz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084695078849937472",
+        "created_at": "2026-08-04T17:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084695078849937472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chnlhu345555/s…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/chnlhu345555/status/2084667362054156511",
+              "start": 51,
+              "url": "https://t.co/Wvx87rIYyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084695078849937472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084667362054156511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是我他妈让这么多人骂你的吗 你个ltp怎么敢在我反ltp的帖子评论的？妈的上赶着挨骂 你他妈是不是m https://t.co/Wvx87rIYyz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1908364182019530752",
+        "conversation_id": "2084006142527914044",
+        "created_at": "2026-08-04T15:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T16:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084667362054156511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084667362054156511",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084006142527914044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 规矩 三观和法律都是人定的 你自己不是人？当然也能订一套自己的三观和标准 双方都同意的标准下完全可以按照自己的意愿 感情为什么要分年龄？只是喜欢稚嫩可爱类型女生 就像喜欢御姐类型一样 发表一下自己的观点就这样发帖骂我 你情我愿的事情一大堆人来喷 我惹你了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1091,
+          "following_count": 404,
+          "like_count": 434,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1510
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-05T03:41:08.000Z",
+        "description": "",
+        "id": "1908364182019530752",
+        "name": "玲音",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 119,
+          "like_count": 127,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "chnlhu345555",
+        "verified": false
+      }
+    ]
+  }
+}

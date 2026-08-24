@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2089500775630389340",
+    "created_at": "2026-08-18T01:37:35.000Z",
+    "display_text_range": [
+      9,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T02:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089527095823380527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2060826986248048640",
+          "start": 0,
+          "username": "fxy2nro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089527095823380527",
+    "in_reply_to_user_id": "2060826986248048640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089500775630389340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fxy2nro 姐姐可以找我呀 我陪你呀🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2089500775630389340",
+        "created_at": "2026-08-18T01:37:35.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089527095823380527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2060826986248048640",
+              "start": 0,
+              "username": "fxy2nro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089527095823380527",
+        "in_reply_to_user_id": "2060826986248048640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089500775630389340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fxy2nro 姐姐可以找我呀 我陪你呀🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060826986248048640",
+        "conversation_id": "2089500775630389340",
+        "created_at": "2026-08-17T23:53:00.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T00:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089500775630389340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089500775630389340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想要朋友 我不想这么孤独"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我看帝王的情绪未必有我无常，曹操未必有我多疑，纣王未必有我好色，勾践未必有我能忍，阿斗未必有我难扶，饕餮未必有我贪吃，唐僧未必有我啰唆，哪吒不认的命我全认了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2089527095823380527",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 499,
+          "like_count": 521,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T20:53:59.000Z",
+        "description": "废话垃圾桶",
+        "id": "2060826986248048640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089517543019237631",
+        "name": "Xzero",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060826986248048640/1786937838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089194784816836610/BOeK8E8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 25,
+          "like_count": 4727,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 98
+        },
+        "url": "",
+        "username": "fxy2nro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

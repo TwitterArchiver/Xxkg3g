@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088159926468345856",
+        "3_2088159926426439680",
+        "3_2088159926418132992"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2088159958055698724",
+    "created_at": "2026-08-14T07:05:04.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T08:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088159958055698724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uj1mmwf2Qi",
+          "end": 33,
+          "expanded_url": "https://x.com/Xxkg3g/status/2088159958055698724/photo/1",
+          "media_key": "3_2088159926468345856",
+          "start": 10,
+          "url": "https://t.co/uj1mmwf2Qi"
+        },
+        {
+          "display_url": "pic.x.com/uj1mmwf2Qi",
+          "end": 33,
+          "expanded_url": "https://x.com/Xxkg3g/status/2088159958055698724/photo/1",
+          "media_key": "3_2088159926426439680",
+          "start": 10,
+          "url": "https://t.co/uj1mmwf2Qi"
+        },
+        {
+          "display_url": "pic.x.com/uj1mmwf2Qi",
+          "end": 33,
+          "expanded_url": "https://x.com/Xxkg3g/status/2088159958055698724/photo/1",
+          "media_key": "3_2088159926418132992",
+          "start": 10,
+          "url": "https://t.co/uj1mmwf2Qi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088159958055698724",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088159926468345856"
+      },
+      {
+        "media_key": "3_2088159926426439680"
+      },
+      {
+        "media_key": "3_2088159926418132992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽p1你是谁呀🌚 https://t.co/uj1mmwf2Qi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088159926468345856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqiY7taAAABUh0.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088159926426439680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqiY7jakAAfgfH.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2088159926418132992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPqiY7hb0AAm3PA.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088159926468345856",
+            "3_2088159926426439680",
+            "3_2088159926418132992"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2088159958055698724",
+        "created_at": "2026-08-14T07:05:04.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T08:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088159958055698724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uj1mmwf2Qi",
+              "end": 33,
+              "expanded_url": "https://x.com/Xxkg3g/status/2088159958055698724/photo/1",
+              "media_key": "3_2088159926468345856",
+              "start": 10,
+              "url": "https://t.co/uj1mmwf2Qi"
+            },
+            {
+              "display_url": "pic.x.com/uj1mmwf2Qi",
+              "end": 33,
+              "expanded_url": "https://x.com/Xxkg3g/status/2088159958055698724/photo/1",
+              "media_key": "3_2088159926426439680",
+              "start": 10,
+              "url": "https://t.co/uj1mmwf2Qi"
+            },
+            {
+              "display_url": "pic.x.com/uj1mmwf2Qi",
+              "end": 33,
+              "expanded_url": "https://x.com/Xxkg3g/status/2088159958055698724/photo/1",
+              "media_key": "3_2088159926418132992",
+              "start": 10,
+              "url": "https://t.co/uj1mmwf2Qi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088159958055698724",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088159926468345856"
+          },
+          {
+            "media_key": "3_2088159926426439680"
+          },
+          {
+            "media_key": "3_2088159926418132992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽p1你是谁呀🌚 https://t.co/uj1mmwf2Qi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "jiujin8848"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2088159958055698724",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1782668923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 449,
+          "like_count": 478,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1752
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

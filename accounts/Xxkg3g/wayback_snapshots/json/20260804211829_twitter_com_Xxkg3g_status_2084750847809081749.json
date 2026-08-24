@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2081341254361595904"
+      ],
+      "media_source_tweet_id": [
+        "2081341280576029020"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2084750847809081749",
+    "created_at": "2026-08-04T21:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T22:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084750847809081749"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 17,
+          "tag": "手控"
+        },
+        {
+          "end": 24,
+          "start": 21,
+          "tag": "青筋"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1889684639788195840",
+          "start": 3,
+          "username": "zhngy257824"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/doR91k7Jez",
+          "end": 48,
+          "expanded_url": "https://x.com/zhngy257824/status/2081341280576029020/video/1",
+          "media_key": "13_2081341254361595904",
+          "start": 25,
+          "url": "https://t.co/doR91k7Jez"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084750847809081749",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081341280576029020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhngy257824: #手控 #青筋 https://t.co/doR91k7Jez"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5533,
+        "height": 960,
+        "media_key": "13_2081341254361595904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081341254361595904/img/k-QxEURFMrQ1hn_t.jpg",
+        "public_metrics": {
+          "view_count": 4964
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081341254361595904/vid/avc1/320x426/dYzP4f7niY9gRcNh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081341254361595904/vid/avc1/480x640/c1B5oWHR5XJm_wP5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081341254361595904/vid/avc1/720x960/5sUdH5ez_ISV27Sk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081341254361595904/pl/TgGIot7ttT-rRlw-.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081341254361595904"
+          ]
+        },
+        "author_id": "1889684639788195840",
+        "conversation_id": "2081341280576029020",
+        "created_at": "2026-07-26T11:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081341280576029020"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "手控"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "青筋"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/doR91k7Jez",
+              "end": 31,
+              "expanded_url": "https://x.com/zhngy257824/status/2081341280576029020/video/1",
+              "media_key": "13_2081341254361595904",
+              "start": 8,
+              "url": "https://t.co/doR91k7Jez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081341280576029020",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 21175,
+          "like_count": 803,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "#手控 #青筋 https://t.co/doR91k7Jez"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081341254361595904"
+          ],
+          "media_source_tweet_id": [
+            "2081341280576029020"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2084750847809081749",
+        "created_at": "2026-08-04T21:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T22:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084750847809081749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 17,
+              "tag": "手控"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "青筋"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1889684639788195840",
+              "start": 3,
+              "username": "zhngy257824"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/doR91k7Jez",
+              "end": 48,
+              "expanded_url": "https://x.com/zhngy257824/status/2081341280576029020/video/1",
+              "media_key": "13_2081341254361595904",
+              "start": 25,
+              "url": "https://t.co/doR91k7Jez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084750847809081749",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081341280576029020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhngy257824: #手控 #青筋 https://t.co/doR91k7Jez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 另一个我@jiujin8848\n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "jiujin8848"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "5.2km",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 409,
+          "like_count": 439,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1517
+        },
+        "url": "",
+        "username": "Xxkg3g",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T14:35:14.000Z",
+        "description": "不是gay  男孩子别找我",
+        "id": "1889684639788195840",
+        "name": "vocal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889685221055864832/3zqDfIEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 45,
+          "like_count": 644,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "zhngy257824",
+        "verified": false
+      }
+    ]
+  }
+}

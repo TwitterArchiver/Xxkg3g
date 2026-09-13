@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092546264286343329",
+    "created_at": "2026-08-26T09:39:14.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092547407200530442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1809885957312901120",
+          "start": 0,
+          "username": "zhu1896074"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092547407200530442",
+    "in_reply_to_user_id": "1809885957312901120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092546688057786879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhu1896074 嘿嘿好像是？我不知道鸭🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092546264286343329",
+        "created_at": "2026-08-26T09:39:14.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092547407200530442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1809885957312901120",
+              "start": 0,
+              "username": "zhu1896074"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092547407200530442",
+        "in_reply_to_user_id": "1809885957312901120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092546688057786879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhu1896074 嘿嘿好像是？我不知道鸭🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809885957312901120",
+        "conversation_id": "2092546264286343329",
+        "created_at": "2026-08-26T09:36:22.000Z",
+        "display_text_range": [
+          8,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:36:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092546688057786879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092546688057786879",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092546264286343329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 地瓜丸是地瓜球嗎"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092547407200530442",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 519,
+          "like_count": 579,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 2291
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-07T09:43:39.000Z",
+        "description": "",
+        "id": "1809885957312901120",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092547206863851757",
+        "name": "null",
+        "pinned_tweet_id": "2085492158581387758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809885957312901120/1786053188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085388979013353472/qhVyv4lI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 57,
+          "like_count": 10251,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "zhu1896074",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

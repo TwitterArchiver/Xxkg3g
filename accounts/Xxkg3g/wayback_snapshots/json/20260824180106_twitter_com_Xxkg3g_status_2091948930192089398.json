@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2091916005727772823",
+    "created_at": "2026-08-24T18:01:06.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091948930192089398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1036167674470879232",
+          "start": 0,
+          "username": "LMing233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091948930192089398",
+    "in_reply_to_user_id": "1036167674470879232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091916005727772823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LMing233 比耶比耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2091915988988264448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQf6gi-bAAAO1i8.jpg",
+        "width": 769
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2091916005727772823",
+        "created_at": "2026-08-24T18:01:06.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091948930192089398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091948930192089398",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091916005727772823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 比耶比耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091915988988264448"
+          ]
+        },
+        "author_id": "1036167674470879232",
+        "conversation_id": "2091916005727772823",
+        "created_at": "2026-08-24T15:50:16.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091916005727772823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cCXDBFub36",
+              "end": 23,
+              "expanded_url": "https://x.com/LMing233/status/2091916005727772823/photo/1",
+              "media_key": "3_2091915988988264448",
+              "start": 0,
+              "url": "https://t.co/cCXDBFub36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091916005727772823",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091915988988264448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cCXDBFub36"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2091948930192089398",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 510,
+          "like_count": 572,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 2234
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子 一个乐子餐券弟 精神病 我割我o 喜欢会直fo 不和健全b互fo\n家妻 @naariisaawaa_19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "naariisaawaa_19"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091916005727772823",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2080490232533909885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036167674470879232/1779239454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 245,
+          "like_count": 2293,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 218
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

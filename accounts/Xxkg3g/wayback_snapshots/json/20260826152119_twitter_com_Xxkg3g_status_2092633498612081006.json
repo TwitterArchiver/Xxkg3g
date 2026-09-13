@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2091995221265732041",
+    "created_at": "2026-08-26T15:21:19.000Z",
+    "display_text_range": [
+      10,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092633498612081006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1036167674470879232",
+          "start": 0,
+          "username": "LMing233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092633498612081006",
+    "in_reply_to_user_id": "1036167674470879232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091995221265732041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LMing233 评论区骂你的都是被点中的傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2091995221265732041",
+        "created_at": "2026-08-26T15:21:19.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092633498612081006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1036167674470879232",
+              "start": 0,
+              "username": "LMing233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092633498612081006",
+        "in_reply_to_user_id": "1036167674470879232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091995221265732041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LMing233 评论区骂你的都是被点中的傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1036167674470879232",
+        "conversation_id": "2091995221265732041",
+        "created_at": "2026-08-24T21:05:02.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T22:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091995221265732041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091995221265732041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 55445,
+          "like_count": 1117,
+          "quote_count": 3,
+          "reply_count": 189,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "看黄男算是最神人的群体之一了，他们甚至默认只要上推的女的都是想聊骚的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092633498612081006",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 508,
+          "like_count": 581,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 2319
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-02T08:23:19.000Z",
+        "description": "我叫椰子 一个乐子餐券弟 精神病 我割我o 喜欢会直fo 不和健全b互fo\n家妻 @naariisaawaa_19",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "naariisaawaa_19"
+              }
+            ]
+          }
+        },
+        "id": "1036167674470879232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092453732541944058",
+        "name": "若要我来谈论爱的话",
+        "pinned_tweet_id": "2080490232533909885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036167674470879232/1779239454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043922796439654400/Z7CjqLrg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 242,
+          "like_count": 2298,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "LMing233",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

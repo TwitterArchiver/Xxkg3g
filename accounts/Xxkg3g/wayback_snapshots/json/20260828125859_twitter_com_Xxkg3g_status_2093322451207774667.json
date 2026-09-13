@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093314035169075545",
+    "created_at": "2026-08-28T12:58:59.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T13:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093322451207774667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028477701888380928",
+          "start": 0,
+          "username": "Loliangelcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093322451207774667",
+    "in_reply_to_user_id": "2028477701888380928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093314747110228401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loliangelcn 我想你啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093314035169075545",
+        "created_at": "2026-08-28T12:58:59.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093322451207774667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028477701888380928",
+              "start": 0,
+              "username": "Loliangelcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093322451207774667",
+        "in_reply_to_user_id": "2028477701888380928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093314747110228401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loliangelcn 我想你啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028477701888380928",
+        "conversation_id": "2093314035169075545",
+        "created_at": "2026-08-28T12:28:22.000Z",
+        "display_text_range": [
+          8,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:28:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093314747110228401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093314747110228401",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093314035169075545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我叫铃儿你叫叮当 因为铃儿响叮当"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093322451207774667",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 535,
+          "like_count": 586,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 2417
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-02T14:32:03.000Z",
+        "description": "🚪52 纯圈\n我爱发啥发啥 看不惯我你就去死",
+        "id": "2028477701888380928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093321903804977555",
+        "name": "小孤单",
+        "pinned_tweet_id": "2092668056124174339",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093017260986142720/ZZk5sVW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 18,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "Loliangelcn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

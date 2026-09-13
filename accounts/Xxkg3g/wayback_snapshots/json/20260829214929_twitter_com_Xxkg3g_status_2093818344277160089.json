@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093817859805794591",
+    "created_at": "2026-08-29T21:49:29.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T22:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093818344277160089"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093818344277160089",
+    "in_reply_to_user_id": "2040496801401425920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093817859805794591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "恶心恶心恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093817859805794591",
+        "created_at": "2026-08-29T21:49:29.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T22:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093818344277160089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093818344277160089",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093817859805794591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "恶心恶心恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093817859805794591",
+        "created_at": "2026-08-29T21:47:33.000Z",
+        "display_text_range": [
+          0,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T22:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093817859805794591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093817859805794591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前真的很明媚乐观的 自从她的出现 她pua我说我身材长相声音什么都嘲讽我 我第一次化妆开开心心的跟她分享 她开始锐评我 我第一次鼓起勇气穿jk她开始嘲讽我 让我的内心世界越来越自卑越来越敏感我最感到恶心的就是我亲人去世 她没有安慰我反过来指责我 说完就开始继续给我传递负面情绪 她什么时候死"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093818344277160089",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 545,
+          "like_count": 588,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 2479
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

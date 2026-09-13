@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2094434684390306053",
+    "created_at": "2026-08-31T14:38:36.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094434684390306053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1626568586696224771",
+          "start": 3,
+          "username": "onodd17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094434684390306053",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094250671818301656",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onodd17: 会拉下面子哄人和一哄就好的 才是顶配"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2094434684390306053",
+        "created_at": "2026-08-31T14:38:36.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094434684390306053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1626568586696224771",
+              "start": 3,
+              "username": "onodd17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094434684390306053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094250671818301656",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onodd17: 会拉下面子哄人和一哄就好的 才是顶配"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626568586696224771",
+        "conversation_id": "2094250671818301656",
+        "created_at": "2026-08-31T02:27:24.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T03:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094250671818301656"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094250671818301656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 21309,
+          "like_count": 522,
+          "quote_count": 17,
+          "reply_count": 158,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "会拉下面子哄人和一哄就好的 才是顶配"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2094434684390306053",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 543,
+          "like_count": 587,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 2529
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-17T13:06:01.000Z",
+        "description": "1/4i 💜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onodd17.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://onodd17.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/XOFrZVijWA"
+              }
+            ]
+          }
+        },
+        "id": "1626568586696224771",
+        "is_identity_verified": false,
+        "location": "清水音频  ➡️",
+        "most_recent_tweet_id": "2094250671818301656",
+        "name": "ono",
+        "pinned_tweet_id": "2071771711511633939",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626568586696224771/1726173834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939347751717982208/63p3iFcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33331,
+          "following_count": 45,
+          "like_count": 2040,
+          "listed_count": 24,
+          "media_count": 69,
+          "tweet_count": 133
+        },
+        "url": "https://t.co/XOFrZVijWA",
+        "username": "onodd17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

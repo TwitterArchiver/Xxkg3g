@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2091443895054061627",
+    "created_at": "2026-08-23T08:50:05.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091447877617041428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1487811468145745920",
+          "start": 0,
+          "username": "zhao051108"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091447877617041428",
+    "in_reply_to_user_id": "1487811468145745920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091447576856015016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhao051108 对！最近压力超级大"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2091443895054061627",
+        "created_at": "2026-08-23T08:50:05.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091447877617041428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1487811468145745920",
+              "start": 0,
+              "username": "zhao051108"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091447877617041428",
+        "in_reply_to_user_id": "1487811468145745920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091447576856015016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhao051108 对！最近压力超级大"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487811468145745920",
+        "conversation_id": "2091443895054061627",
+        "created_at": "2026-08-23T08:48:54.000Z",
+        "display_text_range": [
+          8,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091447576856015016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091447576856015016",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091443895054061627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 会不会压力大，我一压力大就会疯狂买东西"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2091447877617041428",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 509,
+          "like_count": 561,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 2170
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-30T15:34:44.000Z",
+        "description": "如果爱成为唯一的解药，那爱还是爱吗",
+        "id": "1487811468145745920",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091447576856015016",
+        "name": "海苔碎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1487811468145745920/1786253575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087844309836120064/ci64C-8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 5,
+          "like_count": 724,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "zhao051108",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

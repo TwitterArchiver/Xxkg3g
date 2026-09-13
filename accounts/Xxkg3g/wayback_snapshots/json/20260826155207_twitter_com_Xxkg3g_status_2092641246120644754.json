@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092589019402252707",
+    "created_at": "2026-08-26T15:52:07.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092641246120644754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1671546739546021888",
+          "start": 0,
+          "username": "cutecutenatsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092641246120644754",
+    "in_reply_to_user_id": "1671546739546021888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092641097613025354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cutecutenatsuki 对不起我错了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092589019402252707",
+        "created_at": "2026-08-26T15:52:07.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092641246120644754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1671546739546021888",
+              "start": 0,
+              "username": "cutecutenatsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092641246120644754",
+        "in_reply_to_user_id": "1671546739546021888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092641097613025354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cutecutenatsuki 对不起我错了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1671546739546021888",
+        "conversation_id": "2092589019402252707",
+        "created_at": "2026-08-26T15:51:31.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092641097613025354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092641097613025354",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092589019402252707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我给你评论你都没回过我。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092641246120644754",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 510,
+          "like_count": 581,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-21T15:53:01.000Z",
+        "description": "07 生理男 心理男 infp-t 天蝎",
+        "id": "1671546739546021888",
+        "is_identity_verified": false,
+        "location": "10000000km",
+        "most_recent_tweet_id": "2092641097613025354",
+        "name": "okokokokokoko",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1671546739546021888/1784995943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080587261826236416/g_PbWRP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 28,
+          "like_count": 650,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "cutecutenatsuki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092763488288641076",
+    "created_at": "2026-08-27T02:51:33.000Z",
+    "display_text_range": [
+      14,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T03:51:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092807198841983153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2092644666567188480",
+          "start": 0,
+          "username": "snowdong0816"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092807198841983153",
+    "in_reply_to_user_id": "2092644666567188480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092763488288641076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snowdong0816 我给你叫的专车马上就到了 说一下你的手机后四位就行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2092763471045877760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQr9SfqaYAAyeXF.jpg",
+        "width": 3060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092763488288641076",
+        "created_at": "2026-08-27T02:51:33.000Z",
+        "display_text_range": [
+          14,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:51:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092807198841983153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2092644666567188480",
+              "start": 0,
+              "username": "snowdong0816"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092807198841983153",
+        "in_reply_to_user_id": "2092644666567188480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092763488288641076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snowdong0816 我给你叫的专车马上就到了 说一下你的手机后四位就行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092763471045877760"
+          ]
+        },
+        "author_id": "2092644666567188480",
+        "conversation_id": "2092763488288641076",
+        "created_at": "2026-08-26T23:57:51.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092763488288641076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9sCIxzHbxO",
+              "end": 37,
+              "expanded_url": "https://x.com/snowdong0816/status/2092763488288641076/photo/1",
+              "media_key": "3_2092763471045877760",
+              "start": 14,
+              "url": "https://t.co/9sCIxzHbxO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092763488288641076",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092763471045877760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广州你就一边下雨一边高温吧 https://t.co/9sCIxzHbxO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092807198841983153",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 513,
+          "like_count": 583,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 2330
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T16:07:41.000Z",
+        "description": "前世大号@snowdong08｜男喘/日常/编曲/画师",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "snowdong08"
+              }
+            ]
+          }
+        },
+        "id": "2092644666567188480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092801421460787342",
+        "name": "冬冬大魔王（第五世）",
+        "pinned_tweet_id": "2092660181847118320",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092644666567188480/1787787617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092645261072052224/UbPnseOT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 15,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "snowdong0816",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

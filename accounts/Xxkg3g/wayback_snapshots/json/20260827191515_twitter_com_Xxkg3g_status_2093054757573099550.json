@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093038117326590318",
+    "created_at": "2026-08-27T19:15:15.000Z",
+    "display_text_range": [
+      7,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093054757573099550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2091860353818988544",
+          "start": 0,
+          "username": "6zish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093054757573099550",
+    "in_reply_to_user_id": "2091860353818988544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093038117326590318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6zish 小耳朵现在在我心里最大的位置"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_2093038107277025280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQv3EbWaYAAYhRW.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093038117326590318",
+        "created_at": "2026-08-27T19:15:15.000Z",
+        "display_text_range": [
+          7,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093054757573099550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2091860353818988544",
+              "start": 0,
+              "username": "6zish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093054757573099550",
+        "in_reply_to_user_id": "2091860353818988544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093038117326590318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6zish 小耳朵现在在我心里最大的位置"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093038107277025280"
+          ]
+        },
+        "author_id": "2091860353818988544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093038117326590318",
+        "created_at": "2026-08-27T18:09:08.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093038117326590318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JgRfjl2qEv",
+              "end": 28,
+              "expanded_url": "https://x.com/6zish/status/2093038117326590318/photo/1",
+              "media_key": "3_2093038107277025280",
+              "start": 5,
+              "url": "https://t.co/JgRfjl2qEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093038117326590318",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093038107277025280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "っ⩊＜。 https://t.co/JgRfjl2qEv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093054757573099550",
+        "name": "灸",
+        "pinned_tweet_id": "2093049134785741310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 515,
+          "like_count": 587,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2378
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-24T12:10:23.000Z",
+        "description": "",
+        "id": "2091860353818988544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093053006443118809",
+        "name": "我有沟通障碍别和我说话",
+        "pinned_tweet_id": "2092353371076518103",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2091860353818988544/1787573642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092698629253566464/VsrJ4TKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 13,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "6zish",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

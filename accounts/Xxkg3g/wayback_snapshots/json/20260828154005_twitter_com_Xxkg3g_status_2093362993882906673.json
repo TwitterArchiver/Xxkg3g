@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093362598427468061",
+    "created_at": "2026-08-28T15:40:05.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:40:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093362993882906673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2081377853162369024",
+          "start": 0,
+          "username": "Iiholdtheblade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093362993882906673",
+    "in_reply_to_user_id": "2081377853162369024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093362598427468061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Iiholdtheblade 我就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093362598427468061",
+        "created_at": "2026-08-28T15:40:05.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093362993882906673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2081377853162369024",
+              "start": 0,
+              "username": "Iiholdtheblade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093362993882906673",
+        "in_reply_to_user_id": "2081377853162369024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093362598427468061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Iiholdtheblade 我就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081377853162369024",
+        "conversation_id": "2093362598427468061",
+        "created_at": "2026-08-28T15:38:30.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093362598427468061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093362598427468061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈最近刚开始减肥抖音就全是美食 之前压根刷不到啊。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093362993882906673",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 538,
+          "like_count": 586,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 2421
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-26T13:56:26.000Z",
+        "description": "上一世我的号被莫名其妙冻结了 这一世我要拿回我的所有….",
+        "id": "2081377853162369024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093362759543177607",
+        "name": "更痛更苦更隔阂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081377853162369024/1785076563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081378242729287680/Gqj4A5hV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 15,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 79
+        },
+        "url": "",
+        "username": "Iiholdtheblade",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

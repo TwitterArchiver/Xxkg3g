@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092553748254220288",
+        "3_2092553748233289728",
+        "3_2092553748241633280",
+        "3_2092553748245852160"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092553790952227255",
+    "created_at": "2026-08-26T10:04:36.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:04:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092553790952227255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/%E7%81%B8",
+          "end": 78,
+          "expanded_url": "https://ngl.link/%E7%81%B8",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2083485420659306496/ZOc90WhH?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083485420659306496/ZOc90WhH?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 55,
+          "status": 200,
+          "title": "@灸: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/%E7%81%B8",
+          "url": "https://t.co/zqGzLlMVOz"
+        },
+        {
+          "display_url": "pic.x.com/L1kpRsVXeW",
+          "end": 102,
+          "expanded_url": "https://x.com/Xxkg3g/status/2092553790952227255/photo/1",
+          "media_key": "3_2092553748254220288",
+          "start": 79,
+          "url": "https://t.co/L1kpRsVXeW"
+        },
+        {
+          "display_url": "pic.x.com/L1kpRsVXeW",
+          "end": 102,
+          "expanded_url": "https://x.com/Xxkg3g/status/2092553790952227255/photo/1",
+          "media_key": "3_2092553748233289728",
+          "start": 79,
+          "url": "https://t.co/L1kpRsVXeW"
+        },
+        {
+          "display_url": "pic.x.com/L1kpRsVXeW",
+          "end": 102,
+          "expanded_url": "https://x.com/Xxkg3g/status/2092553790952227255/photo/1",
+          "media_key": "3_2092553748241633280",
+          "start": 79,
+          "url": "https://t.co/L1kpRsVXeW"
+        },
+        {
+          "display_url": "pic.x.com/L1kpRsVXeW",
+          "end": 102,
+          "expanded_url": "https://x.com/Xxkg3g/status/2092553790952227255/photo/1",
+          "media_key": "3_2092553748245852160",
+          "start": 79,
+          "url": "https://t.co/L1kpRsVXeW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092553790952227255",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092553748254220288"
+      },
+      {
+        "media_key": "3_2092553748233289728"
+      },
+      {
+        "media_key": "3_2092553748241633280"
+      },
+      {
+        "media_key": "3_2092553748245852160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "匿名太少了 宝宝可不可以多去玩玩呀 不开心不好意思找我的都可以去哦！我会认真看安慰你们哒呀(≧∇≦)欢迎来玩哦https://t.co/zqGzLlMVOz https://t.co/L1kpRsVXeW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092553748254220288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo-jBYa4AAP4b3.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092553748233289728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo-jBTbgAAERiT.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092553748241633280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo-jBVa0AAEgI-.jpg",
+        "width": 947
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092553748245852160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo-jBWbMAAxggq.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092553748254220288",
+            "3_2092553748233289728",
+            "3_2092553748241633280",
+            "3_2092553748245852160"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092553790952227255",
+        "created_at": "2026-08-26T10:04:36.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092553790952227255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/%E7%81%B8",
+              "end": 78,
+              "expanded_url": "https://ngl.link/%E7%81%B8",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2083485420659306496/ZOc90WhH?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083485420659306496/ZOc90WhH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "@灸: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/%E7%81%B8",
+              "url": "https://t.co/zqGzLlMVOz"
+            },
+            {
+              "display_url": "pic.x.com/L1kpRsVXeW",
+              "end": 102,
+              "expanded_url": "https://x.com/Xxkg3g/status/2092553790952227255/photo/1",
+              "media_key": "3_2092553748254220288",
+              "start": 79,
+              "url": "https://t.co/L1kpRsVXeW"
+            },
+            {
+              "display_url": "pic.x.com/L1kpRsVXeW",
+              "end": 102,
+              "expanded_url": "https://x.com/Xxkg3g/status/2092553790952227255/photo/1",
+              "media_key": "3_2092553748233289728",
+              "start": 79,
+              "url": "https://t.co/L1kpRsVXeW"
+            },
+            {
+              "display_url": "pic.x.com/L1kpRsVXeW",
+              "end": 102,
+              "expanded_url": "https://x.com/Xxkg3g/status/2092553790952227255/photo/1",
+              "media_key": "3_2092553748241633280",
+              "start": 79,
+              "url": "https://t.co/L1kpRsVXeW"
+            },
+            {
+              "display_url": "pic.x.com/L1kpRsVXeW",
+              "end": 102,
+              "expanded_url": "https://x.com/Xxkg3g/status/2092553790952227255/photo/1",
+              "media_key": "3_2092553748245852160",
+              "start": 79,
+              "url": "https://t.co/L1kpRsVXeW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092553790952227255",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092553748254220288"
+          },
+          {
+            "media_key": "3_2092553748233289728"
+          },
+          {
+            "media_key": "3_2092553748241633280"
+          },
+          {
+            "media_key": "3_2092553748245852160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "匿名太少了 宝宝可不可以多去玩玩呀 不开心不好意思找我的都可以去哦！我会认真看安慰你们哒呀(≧∇≦)欢迎来玩哦https://t.co/zqGzLlMVOz https://t.co/L1kpRsVXeW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092553790952227255",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 519,
+          "like_count": 579,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 2294
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

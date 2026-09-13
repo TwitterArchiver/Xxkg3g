@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2094029052982043056",
+    "created_at": "2026-08-30T16:16:44.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T17:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094096993203192149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1676968562802712579",
+          "start": 0,
+          "username": "BoiledYu14796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094096993203192149",
+    "in_reply_to_user_id": "1676968562802712579",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094032274157425093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoiledYu14796 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2094029052982043056",
+        "created_at": "2026-08-30T16:16:44.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094096993203192149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1676968562802712579",
+              "start": 0,
+              "username": "BoiledYu14796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094096993203192149",
+        "in_reply_to_user_id": "1676968562802712579",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094032274157425093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoiledYu14796 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676968562802712579",
+        "conversation_id": "2094029052982043056",
+        "created_at": "2026-08-30T11:59:34.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094032274157425093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094032274157425093",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094029052982043056",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 你那么好看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2094096993203192149",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 544,
+          "like_count": 589,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 2508
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-06T14:57:27.000Z",
+        "description": "A ONE AND A TWO",
+        "id": "1676968562802712579",
+        "is_identity_verified": false,
+        "location": "多云转晴",
+        "most_recent_tweet_id": "2094063194537144697",
+        "name": "水煮鼬",
+        "pinned_tweet_id": "2086141354812510290",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1676968562802712579/1689928406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040675132843401216/IpfjzX-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 62,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 168
+        },
+        "url": "",
+        "username": "BoiledYu14796",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

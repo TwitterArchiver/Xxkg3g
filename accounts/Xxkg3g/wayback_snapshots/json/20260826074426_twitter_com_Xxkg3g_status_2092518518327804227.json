@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092471172898164931",
+    "created_at": "2026-08-26T07:44:26.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T08:44:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092518518327804227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843360729199718404",
+          "start": 0,
+          "username": "longlongp97w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092518518327804227",
+    "in_reply_to_user_id": "1843360729199718404",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092471172898164931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longlongp97w 好美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1001,
+        "media_key": "3_2092471166543740928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnzcIiWQAAoJPR.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092471172898164931",
+        "created_at": "2026-08-26T07:44:26.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092518518327804227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843360729199718404",
+              "start": 0,
+              "username": "longlongp97w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092518518327804227",
+        "in_reply_to_user_id": "1843360729199718404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092471172898164931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longlongp97w 好美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092471166543740928"
+          ]
+        },
+        "author_id": "1843360729199718404",
+        "conversation_id": "2092471172898164931",
+        "created_at": "2026-08-26T04:36:18.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:36:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092471172898164931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PYWykrnUY",
+              "end": 36,
+              "expanded_url": "https://x.com/longlongp97w/status/2092471172898164931/photo/1",
+              "media_key": "3_2092471166543740928",
+              "start": 13,
+              "url": "https://t.co/0PYWykrnUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092471172898164931",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092471166543740928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝大后就喜欢画点神经玩意 https://t.co/0PYWykrnUY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092518518327804227",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 519,
+          "like_count": 577,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 2271
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）ps.龙的聊天能力堪比人机，龙喜欢被夸🥰,然后我不是同！想多找互关呀，提问箱：https://t.co/Z6tB4yWrII碎碎念",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864#",
+                "end": 129,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864#",
+                "start": 106,
+                "url": "https://t.co/Z6tB4yWrII"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsjYs"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "is_identity_verified": false,
+        "location": "阿美莉卡",
+        "most_recent_tweet_id": "2092471172898164931",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1843360729199718404/1776137740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050705580327587841/0FGws5YT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 160,
+          "like_count": 9977,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/oCgXhmsjYs",
+        "username": "longlongp97w",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

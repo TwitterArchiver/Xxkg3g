@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095328739668180995",
+        "3_2095328739638796290",
+        "3_2095328739643011072"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2095328762824970519",
+    "created_at": "2026-09-03T01:51:21.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T02:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095328762824970519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U3bpfbxEkH",
+          "end": 52,
+          "expanded_url": "https://x.com/Xxkg3g/status/2095328762824970519/photo/1",
+          "media_key": "3_2095328739668180995",
+          "start": 29,
+          "url": "https://t.co/U3bpfbxEkH"
+        },
+        {
+          "display_url": "pic.x.com/U3bpfbxEkH",
+          "end": 52,
+          "expanded_url": "https://x.com/Xxkg3g/status/2095328762824970519/photo/1",
+          "media_key": "3_2095328739638796290",
+          "start": 29,
+          "url": "https://t.co/U3bpfbxEkH"
+        },
+        {
+          "display_url": "pic.x.com/U3bpfbxEkH",
+          "end": 52,
+          "expanded_url": "https://x.com/Xxkg3g/status/2095328762824970519/photo/1",
+          "media_key": "3_2095328739643011072",
+          "start": 29,
+          "url": "https://t.co/U3bpfbxEkH"
+        },
+        {
+          "display_url": "x.com/xxkg3g/status/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/xxkg3g/status/2095327528256757843",
+          "start": 53,
+          "url": "https://t.co/lpxK0vlQvM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095328762824970519",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095328739668180995"
+      },
+      {
+        "media_key": "3_2095328739638796290"
+      },
+      {
+        "media_key": "3_2095328739643011072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095327528256757843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来有黑幕的 太累了写不动了以后给你们写出来吧就不公开了 https://t.co/U3bpfbxEkH https://t.co/lpxK0vlQvM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_2095328739668180995",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQaYx-WwAMGoZi.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1478,
+        "media_key": "3_2095328739638796290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQaYx3WYAIK2ea.jpg",
+        "width": 1242
+      },
+      {
+        "height": 1009,
+        "media_key": "3_2095328739643011072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQaYx4WsAAey5S.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095328739668180995",
+            "3_2095328739638796290",
+            "3_2095328739643011072"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2095328762824970519",
+        "created_at": "2026-09-03T01:51:21.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095328762824970519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3bpfbxEkH",
+              "end": 52,
+              "expanded_url": "https://x.com/Xxkg3g/status/2095328762824970519/photo/1",
+              "media_key": "3_2095328739668180995",
+              "start": 29,
+              "url": "https://t.co/U3bpfbxEkH"
+            },
+            {
+              "display_url": "pic.x.com/U3bpfbxEkH",
+              "end": 52,
+              "expanded_url": "https://x.com/Xxkg3g/status/2095328762824970519/photo/1",
+              "media_key": "3_2095328739638796290",
+              "start": 29,
+              "url": "https://t.co/U3bpfbxEkH"
+            },
+            {
+              "display_url": "pic.x.com/U3bpfbxEkH",
+              "end": 52,
+              "expanded_url": "https://x.com/Xxkg3g/status/2095328762824970519/photo/1",
+              "media_key": "3_2095328739643011072",
+              "start": 29,
+              "url": "https://t.co/U3bpfbxEkH"
+            },
+            {
+              "display_url": "x.com/xxkg3g/status/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/xxkg3g/status/2095327528256757843",
+              "start": 53,
+              "url": "https://t.co/lpxK0vlQvM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095328762824970519",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095328739668180995"
+          },
+          {
+            "media_key": "3_2095328739638796290"
+          },
+          {
+            "media_key": "3_2095328739643011072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095327528256757843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来有黑幕的 太累了写不动了以后给你们写出来吧就不公开了 https://t.co/U3bpfbxEkH https://t.co/lpxK0vlQvM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2095327528256757843",
+        "created_at": "2026-09-03T01:46:26.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T02:46:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095327528256757843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2998529749",
+              "start": 3,
+              "username": "STULRS"
+            },
+            {
+              "end": 31,
+              "id": "1921068047542218754",
+              "start": 15,
+              "username": "3R8sMFwksd43410"
+            },
+            {
+              "end": 47,
+              "id": "1879127155302617088",
+              "start": 36,
+              "username": "xixiTwTono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095327528256757843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一等奖@STULRS \n二等奖@3R8sMFwksd43410 \n三等奖@xixiTwTono"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2095328762824970519",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 546,
+          "like_count": 586,
+          "listed_count": 2,
+          "media_count": 132,
+          "tweet_count": 2569
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

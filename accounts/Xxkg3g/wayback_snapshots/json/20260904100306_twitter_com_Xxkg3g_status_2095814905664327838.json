@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2095798190826000672",
+    "created_at": "2026-09-04T10:03:06.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T11:03:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095814905664327838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1942477191390097408",
+          "start": 0,
+          "username": "JiaYu32195"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095814905664327838",
+    "in_reply_to_user_id": "1942477191390097408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095812173557875153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JiaYu32195 申请成功"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2095798190826000672",
+        "created_at": "2026-09-04T10:03:06.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095814905664327838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1942477191390097408",
+              "start": 0,
+              "username": "JiaYu32195"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095814905664327838",
+        "in_reply_to_user_id": "1942477191390097408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095812173557875153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaYu32195 申请成功"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942477191390097408",
+        "conversation_id": "2095798190826000672",
+        "created_at": "2026-09-04T09:52:15.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095812173557875153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095812173557875153",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095798190826000672",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 礼貌申请团宠"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2095814905664327838",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 544,
+          "like_count": 589,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2605
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-08T06:54:26.000Z",
+        "description": "ENFP",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xin64158",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xin64158",
+                "start": 0,
+                "url": "https://t.co/sTlsjlK2lO"
+              }
+            ]
+          }
+        },
+        "id": "1942477191390097408",
+        "is_identity_verified": false,
+        "location": "3.4㎞",
+        "most_recent_tweet_id": "2095812173557875153",
+        "name": "小猫病",
+        "pinned_tweet_id": "2089754669522555353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942477191390097408/1788437179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095483524203814912/k6U059kP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 67,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 460
+        },
+        "url": "https://t.co/sTlsjlK2lO",
+        "username": "JiaYu32195",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

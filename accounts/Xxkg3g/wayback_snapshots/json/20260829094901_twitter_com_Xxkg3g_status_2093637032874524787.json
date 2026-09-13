@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093637025408724992"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093288762713260096",
+    "created_at": "2026-08-29T09:49:01.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T10:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093637032874524787"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wFnyWs3Rbj",
+          "end": 38,
+          "expanded_url": "https://x.com/Xxkg3g/status/2093637032874524787/photo/1",
+          "media_key": "3_2093637025408724992",
+          "start": 15,
+          "url": "https://t.co/wFnyWs3Rbj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093637032874524787",
+    "in_reply_to_user_id": "2040496801401425920",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093637025408724992"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093288762713260096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是快递你很牛吗 咋又来一个 https://t.co/wFnyWs3Rbj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 180,
+        "media_key": "3_2093637025408724992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ4XyDQXsAA0C_q.jpg",
+        "width": 876
+      },
+      {
+        "height": 328,
+        "media_key": "3_2093288753909350400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzbB-0WQAASoht.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093637025408724992"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093288762713260096",
+        "created_at": "2026-08-29T09:49:01.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093637032874524787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFnyWs3Rbj",
+              "end": 38,
+              "expanded_url": "https://x.com/Xxkg3g/status/2093637032874524787/photo/1",
+              "media_key": "3_2093637025408724992",
+              "start": 15,
+              "url": "https://t.co/wFnyWs3Rbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093637032874524787",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093637025408724992"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093288762713260096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是快递你很牛吗 咋又来一个 https://t.co/wFnyWs3Rbj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093288753909350400"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093288762713260096",
+        "created_at": "2026-08-28T10:45:07.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093288762713260096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NXREHCA8Ja",
+              "end": 29,
+              "expanded_url": "https://x.com/Xxkg3g/status/2093288762713260096/photo/1",
+              "media_key": "3_2093288753909350400",
+              "start": 6,
+              "url": "https://t.co/NXREHCA8Ja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093288762713260096",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093288753909350400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 909,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？哦哦哦。 https://t.co/NXREHCA8Ja"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093637032874524787",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 541,
+          "like_count": 588,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 2459
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

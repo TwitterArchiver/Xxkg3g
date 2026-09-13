@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092455853584715884",
+    "created_at": "2026-08-26T08:54:14.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092536083766718479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766595057463996416",
+          "start": 0,
+          "username": "Aaa_NekozakiYuk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092536083766718479",
+    "in_reply_to_user_id": "1766595057463996416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092455853584715884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aaa_NekozakiYuk 我靠。哪家好吃呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092455853584715884",
+        "created_at": "2026-08-26T08:54:14.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092536083766718479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766595057463996416",
+              "start": 0,
+              "username": "Aaa_NekozakiYuk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092536083766718479",
+        "in_reply_to_user_id": "1766595057463996416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092455853584715884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aaa_NekozakiYuk 我靠。哪家好吃呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766595057463996416",
+        "conversation_id": "2092455853584715884",
+        "created_at": "2026-08-26T03:35:26.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092455853584715884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092455853584715884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1325,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想吃那个什么奶皮子酸奶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092536083766718479",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1597,
+          "following_count": 519,
+          "like_count": 577,
+          "listed_count": 2,
+          "media_count": 120,
+          "tweet_count": 2281
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-09T22:41:23.000Z",
+        "description": "什么都发   sw/brat  男的别叫我宝宝\n积极向上天天开心!！\nhttps://t.co/LQEoawbAmL这个是我的提问箱^^\n骚扰私信会不打码公开处刑 没有🚪除互关不扩列",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sharkteeth23242",
+                "end": 58,
+                "expanded_url": "https://ngl.link/sharkteeth23242",
+                "start": 35,
+                "url": "https://t.co/LQEoawbAmL"
+              }
+            ]
+          }
+        },
+        "id": "1766595057463996416",
+        "is_identity_verified": false,
+        "location": "骚扰我的一辈子不能发财",
+        "most_recent_tweet_id": "2092516303198118060",
+        "name": "吸酱QwQ",
+        "pinned_tweet_id": "2081252208558096605",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1766595057463996416/1783146938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021580219321352192/fG-i_wl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 305,
+          "like_count": 17195,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 3046
+        },
+        "url": "",
+        "username": "Aaa_NekozakiYuk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

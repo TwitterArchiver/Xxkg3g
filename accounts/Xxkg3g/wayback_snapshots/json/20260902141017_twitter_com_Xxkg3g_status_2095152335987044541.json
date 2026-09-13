@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2094975920977092635",
+    "created_at": "2026-09-02T14:10:17.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095152335987044541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1802710797912846337",
+          "start": 0,
+          "username": "chang439677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095152335987044541",
+    "in_reply_to_user_id": "1802710797912846337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095061838891188611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chang439677 操你麻痹 以后你用一个文案死一个妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2094975920977092635",
+        "created_at": "2026-09-02T14:10:17.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095152335987044541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1802710797912846337",
+              "start": 0,
+              "username": "chang439677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095152335987044541",
+        "in_reply_to_user_id": "1802710797912846337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095061838891188611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chang439677 操你麻痹 以后你用一个文案死一个妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802710797912846337",
+        "conversation_id": "2094975920977092635",
+        "created_at": "2026-09-02T08:10:41.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T09:10:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095061838891188611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095061838891188611",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1481,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094975920977092635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 如果是假的，我希望是真的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2095152335987044541",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1752,
+          "following_count": 545,
+          "like_count": 586,
+          "listed_count": 2,
+          "media_count": 130,
+          "tweet_count": 2557
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-17T14:33:47.000Z",
+        "description": "喜欢我丁真吗？",
+        "id": "1802710797912846337",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095074207424196613",
+        "name": "丁真纯一郎",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802713259906154496/Bd7z-PWZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "chang439677",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

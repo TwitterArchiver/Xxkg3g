@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2095846240126656887",
+    "created_at": "2026-09-04T13:44:53.000Z",
+    "display_text_range": [
+      11,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095870719385071982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2082166310650413057",
+          "start": 0,
+          "username": "Dorisxx2a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095870719385071982",
+    "in_reply_to_user_id": "2082166310650413057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095855870139908350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dorisxx2a 我身边人。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2095846240126656887",
+        "created_at": "2026-09-04T13:44:53.000Z",
+        "display_text_range": [
+          11,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095870719385071982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2082166310650413057",
+              "start": 0,
+              "username": "Dorisxx2a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095870719385071982",
+        "in_reply_to_user_id": "2082166310650413057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095855870139908350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dorisxx2a 我身边人。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2082166310650413057",
+        "conversation_id": "2095846240126656887",
+        "created_at": "2026-09-04T12:45:53.000Z",
+        "display_text_range": [
+          8,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T13:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095855870139908350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095855870139908350",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095846240126656887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 大部分应该不会这样吧 同时谈两个太那个了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2095870719385071982",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 545,
+          "like_count": 590,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 2620
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-28T18:09:03.000Z",
+        "description": "07 泛性恋 性别不明。关注的一般都会回关 很幼稚精神病碎碎念 墙内刷到我请无视 不约 纯口嗨来嘛耍起爱找乐子 温良 有对象了我就保证不玩推特了专注和婆娘的性福生活 爱发私信 私信大欢迎聊天聊原神家庭 有意思的 黄的秒回 帮看逼相 奶相 屌相 \n这个号纯用来压抑口嗨\n骚话耍起 男孩子女孩子们骚起来\n只是喜欢口嗨",
+        "id": "2082166310650413057",
+        "is_identity_verified": false,
+        "location": "江苏耍起",
+        "most_recent_tweet_id": "2095868425948242202",
+        "name": "Doris",
+        "pinned_tweet_id": "2095720111181328575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2082166310650413057/1785262815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089890287107891200/xTnfi77K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 87,
+          "like_count": 1518,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "Dorisxx2a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

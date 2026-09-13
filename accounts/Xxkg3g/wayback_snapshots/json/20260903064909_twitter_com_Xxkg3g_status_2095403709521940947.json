@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2095402805649375434",
+    "created_at": "2026-09-03T06:49:09.000Z",
+    "display_text_range": [
+      45,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T07:49:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095403709521940947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1901633821696483329",
+          "start": 0,
+          "username": "even12694"
+        },
+        {
+          "end": 27,
+          "id": "1905850606813855744",
+          "start": 11,
+          "username": "3R8sMFwksd434I0"
+        },
+        {
+          "end": 44,
+          "id": "1921068047542218754",
+          "start": 28,
+          "username": "3R8sMFwksd43410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095403709521940947",
+    "in_reply_to_user_id": "1901633821696483329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095403576214569353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@even12694 @3R8sMFwksd434I0 @3R8sMFwksd43410 我真他妈笑疯了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2095402805649375434",
+        "created_at": "2026-09-03T06:49:09.000Z",
+        "display_text_range": [
+          45,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095403709521940947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1901633821696483329",
+              "start": 0,
+              "username": "even12694"
+            },
+            {
+              "end": 27,
+              "id": "1905850606813855744",
+              "start": 11,
+              "username": "3R8sMFwksd434I0"
+            },
+            {
+              "end": 44,
+              "id": "1921068047542218754",
+              "start": 28,
+              "username": "3R8sMFwksd43410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095403709521940947",
+        "in_reply_to_user_id": "1901633821696483329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095403576214569353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@even12694 @3R8sMFwksd434I0 @3R8sMFwksd43410 我真他妈笑疯了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901633821696483329",
+        "conversation_id": "2095402805649375434",
+        "created_at": "2026-09-03T06:48:37.000Z",
+        "display_text_range": [
+          42,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095403576214569353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            },
+            {
+              "end": 24,
+              "id": "1905850606813855744",
+              "start": 8,
+              "username": "3R8sMFwksd434I0"
+            },
+            {
+              "end": 41,
+              "id": "1921068047542218754",
+              "start": 25,
+              "username": "3R8sMFwksd43410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095403576214569353",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095402805649375434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g @3R8sMFwksd434I0 @3R8sMFwksd43410 有点好笑。。。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2095403709521940947",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1762,
+          "following_count": 545,
+          "like_count": 586,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-17T13:57:08.000Z",
+        "description": "ᜊ( ' ⩊ '𖦹)ᜊ",
+        "id": "1901633821696483329",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095403576214569353",
+        "name": "ZzGG",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901633821696483329/1776282402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058918434734272512/iwQSERnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 44,
+          "like_count": 4776,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1723
+        },
+        "url": "",
+        "username": "even12694",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-29T05:13:44.000Z",
+        "description": "",
+        "id": "1905850606813855744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094744062972809348",
+        "name": "^ ^",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905850606813855744/1788411186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095374500078682112/saMUrRVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 111,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "3R8sMFwksd434I0",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-10T05:01:53.000Z",
+        "description": "",
+        "id": "1921068047542218754",
+        "is_identity_verified": false,
+        "location": "(T . T)",
+        "most_recent_tweet_id": "2093824134568648779",
+        "name": "^ ^",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921068047542218754/1754874410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084207889032572928/3Mwbys5g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 682,
+          "like_count": 61,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 202
+        },
+        "url": "",
+        "username": "3R8sMFwksd43410",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

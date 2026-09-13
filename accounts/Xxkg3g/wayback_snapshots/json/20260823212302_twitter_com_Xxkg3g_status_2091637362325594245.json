@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2091609273390551284",
+    "created_at": "2026-08-23T21:23:02.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T22:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091637362325594245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2050566949223251968",
+          "start": 0,
+          "username": "7UaRYFNrp216413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091637362325594245",
+    "in_reply_to_user_id": "2050566949223251968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091636408595501560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7UaRYFNrp216413 🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2091609273390551284",
+        "created_at": "2026-08-23T21:23:02.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T22:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091637362325594245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2050566949223251968",
+              "start": 0,
+              "username": "7UaRYFNrp216413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091637362325594245",
+        "in_reply_to_user_id": "2050566949223251968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091636408595501560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7UaRYFNrp216413 🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2050566949223251968",
+        "conversation_id": "2091609273390551284",
+        "created_at": "2026-08-23T21:19:15.000Z",
+        "display_text_range": [
+          8,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T22:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091636408595501560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091636408595501560",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091609273390551284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 因为它们是一群绝对的贱人"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2091637362325594245",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1547,
+          "following_count": 512,
+          "like_count": 565,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 2191
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-02T13:24:15.000Z",
+        "description": "我不在我鼠了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/weishiji",
+                "end": 23,
+                "expanded_url": "https://ngl.link/weishiji",
+                "start": 0,
+                "url": "https://t.co/rjD6BMsgiB"
+              }
+            ]
+          }
+        },
+        "id": "2050566949223251968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091637256792793147",
+        "name": "SoberMand",
+        "pinned_tweet_id": "2061754062849319100",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050566949223251968/1779984545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067192859636461568/qw07ybWB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 27,
+          "like_count": 696,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/rjD6BMsgiB",
+        "username": "7UaRYFNrp216413",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

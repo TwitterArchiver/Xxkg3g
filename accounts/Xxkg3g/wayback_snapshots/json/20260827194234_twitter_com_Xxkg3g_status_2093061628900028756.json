@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092869094026690670",
+    "created_at": "2026-08-27T19:42:34.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:42:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093061628900028756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2060004417437659136",
+          "start": 0,
+          "username": "Song77c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093061628900028756",
+    "in_reply_to_user_id": "2060004417437659136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092869094026690670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Song77c1 我吃我吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092869079266918400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQtdVs8agAA-fr3.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092869094026690670",
+        "created_at": "2026-08-27T19:42:34.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093061628900028756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060004417437659136",
+              "start": 0,
+              "username": "Song77c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093061628900028756",
+        "in_reply_to_user_id": "2060004417437659136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092869094026690670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Song77c1 我吃我吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092869079266918400"
+          ]
+        },
+        "author_id": "2060004417437659136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2092869094026690670",
+        "created_at": "2026-08-27T06:57:30.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:57:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092869094026690670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLCfWLVVaU",
+              "end": 45,
+              "expanded_url": "https://x.com/Song77c1/status/2092869094026690670/photo/1",
+              "media_key": "3_2092869079266918400",
+              "start": 22,
+              "url": "https://t.co/bLCfWLVVaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092869094026690670",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092869079266918400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 127,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个鱼特别特别好吃😋（其实是前天晚上吃的） https://t.co/bLCfWLVVaU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093061628900028756",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 518,
+          "like_count": 587,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2380
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T14:25:19.000Z",
+        "description": "碎碎念｜可以找我私信互fo｜黄色私信❌\n欢迎来到我的第二个朋友圈。\n📪：https://t.co/t3RPQWoitK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9D%BE%E6%9…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/%E6%9D%BE%E6%9D%BE%E6%9C%88%E6%9C%88",
+                "start": 36,
+                "url": "https://t.co/t3RPQWoitK"
+              }
+            ]
+          }
+        },
+        "id": "2060004417437659136",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092869094026690670",
+        "name": "松松月月",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060004417437659136/1783821008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076121807426580480/MndNa5l2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 26,
+          "like_count": 3475,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "Song77c1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

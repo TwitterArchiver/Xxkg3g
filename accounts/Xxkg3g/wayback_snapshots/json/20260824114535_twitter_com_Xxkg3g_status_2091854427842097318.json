@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2091841385284694075",
+    "created_at": "2026-08-24T11:45:35.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T12:45:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091854427842097318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2089604745107517440",
+          "start": 0,
+          "username": "w3btuc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091854427842097318",
+    "in_reply_to_user_id": "2089604745107517440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091845413821395255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w3btuc 没错没错！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2091841385284694075",
+        "created_at": "2026-08-24T11:45:35.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:45:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091854427842097318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2089604745107517440",
+              "start": 0,
+              "username": "w3btuc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091854427842097318",
+        "in_reply_to_user_id": "2089604745107517440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091845413821395255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w3btuc 没错没错！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089604745107517440",
+        "conversation_id": "2091841385284694075",
+        "created_at": "2026-08-24T11:09:45.000Z",
+        "display_text_range": [
+          8,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091845413821395255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091845413821395255",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091841385284694075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我去好美味😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2091854427842097318",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1548,
+          "following_count": 510,
+          "like_count": 568,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 2215
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T06:47:18.000Z",
+        "description": "就想发点碎碎念 | 可以和我互fo\n不喜欢见证，我是真的不懂……",
+        "id": "2089604745107517440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091853362027463119",
+        "name": "想見你回眸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089604745107517440/1787055622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089605984625000448/WD_TKeQc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 87,
+          "like_count": 932,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "w3btuc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

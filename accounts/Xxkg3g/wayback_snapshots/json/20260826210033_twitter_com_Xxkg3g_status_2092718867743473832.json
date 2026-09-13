@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092687786042421257",
+    "created_at": "2026-08-26T21:00:33.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T22:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092718867743473832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906965920515551233",
+          "start": 0,
+          "username": "OrangeTsukii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092718867743473832",
+    "in_reply_to_user_id": "1906965920515551233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092687786042421257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrangeTsukii 好帅好帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2092687778115112960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQq4clhaUAARtw6.jpg",
+        "width": 1346
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092687786042421257",
+        "created_at": "2026-08-26T21:00:33.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092718867743473832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906965920515551233",
+              "start": 0,
+              "username": "OrangeTsukii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092718867743473832",
+        "in_reply_to_user_id": "1906965920515551233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092687786042421257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrangeTsukii 好帅好帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092687778115112960"
+          ]
+        },
+        "author_id": "1906965920515551233",
+        "conversation_id": "2092687786042421257",
+        "created_at": "2026-08-26T18:57:03.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:57:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092687786042421257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J9Ytb0MCNO",
+              "end": 49,
+              "expanded_url": "https://x.com/OrangeTsukii/status/2092687786042421257/photo/1",
+              "media_key": "3_2092687778115112960",
+              "start": 26,
+              "url": "https://t.co/J9Ytb0MCNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092687786042421257",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092687778115112960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还在学校的时候，偶尔也喜欢抱着舍友的吉他装一下深沉 https://t.co/J9Ytb0MCNO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092718867743473832",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 513,
+          "like_count": 582,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2336
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "日本摇滚乐重度依赖",
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092718075615572286",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2092424701381632007",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1746148217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092182042708746240/2bOhDkc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 136,
+          "like_count": 9440,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

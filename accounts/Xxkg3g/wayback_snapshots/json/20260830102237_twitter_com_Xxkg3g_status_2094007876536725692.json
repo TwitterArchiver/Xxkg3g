@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093992365434494976"
+      ],
+      "media_source_tweet_id": [
+        "2093992373659590853"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2094007876536725692",
+    "created_at": "2026-08-30T10:22:37.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T11:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094007876536725692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1751455485872488448",
+          "start": 3,
+          "username": "xiaohukitou"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Olah9vHk2v",
+          "end": 79,
+          "expanded_url": "https://x.com/Aliguti22/status/2093992373659590853/photo/1",
+          "media_key": "3_2093992365434494976",
+          "start": 56,
+          "url": "https://t.co/Olah9vHk2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094007876536725692",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093992365434494976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093992373659590853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaohukitou: msk 你打不倒我的😡😡😡😡狐狸头大王第五世  互关回家 助力狐狸头大王回归 https://t.co/Olah9vHk2v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2093992365434494976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ9a9kAaYAAr9NB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093992365434494976"
+          ],
+          "media_source_tweet_id": [
+            "2093992373659590853"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2094007876536725692",
+        "created_at": "2026-08-30T10:22:37.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094007876536725692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1751455485872488448",
+              "start": 3,
+              "username": "xiaohukitou"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Olah9vHk2v",
+              "end": 79,
+              "expanded_url": "https://x.com/Aliguti22/status/2093992373659590853/photo/1",
+              "media_key": "3_2093992365434494976",
+              "start": 56,
+              "url": "https://t.co/Olah9vHk2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094007876536725692",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093992365434494976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093992373659590853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaohukitou: msk 你打不倒我的😡😡😡😡狐狸头大王第五世  互关回家 助力狐狸头大王回归 https://t.co/Olah9vHk2v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093992365434494976"
+          ]
+        },
+        "author_id": "1751455485872488448",
+        "conversation_id": "2093992373659590853",
+        "created_at": "2026-08-30T09:21:01.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093992373659590853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Olah9vHk2v",
+              "end": 62,
+              "expanded_url": "https://x.com/Aliguti22/status/2093992373659590853/photo/1",
+              "media_key": "3_2093992365434494976",
+              "start": 39,
+              "url": "https://t.co/Olah9vHk2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093992373659590853",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093992365434494976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 358,
+          "like_count": 6,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "msk 你打不倒我的😡😡😡😡狐狸头大王第五世  互关回家 助力狐狸头大王回归 https://t.co/Olah9vHk2v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2094007876536725692",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 542,
+          "like_count": 589,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 2498
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-28T04:01:48.000Z",
+        "description": "hukitou小号 直男｜男喘 / 唱歌 / 吉他 / 游戏\n青受向·女性向音频｜偶尔弹琴唱歌\n欢迎互fo & 点歌 & 点本   \n 欢迎和我私信啊都会回的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hukitou",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hukitou",
+                "start": 0,
+                "url": "https://t.co/5ElN1LMp9k"
+              }
+            ]
+          }
+        },
+        "id": "1751455485872488448",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2093997396820902078",
+        "name": "小狐狸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1751455485872488448/1788081469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093991224776785920/htZmbKnb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 12,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/5ElN1LMp9k",
+        "username": "xiaohukitou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

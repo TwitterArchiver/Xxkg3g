@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2091104306460279053",
+    "created_at": "2026-08-22T10:07:41.000Z",
+    "display_text_range": [
+      13,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091105017591910595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888239230020661248",
+          "start": 0,
+          "username": "MEASUREMEN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091105017591910595",
+    "in_reply_to_user_id": "1888239230020661248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091104869604262000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEASUREMEN7 下面没有提示啊 人机不是有一串英文嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2091104306460279053",
+        "created_at": "2026-08-22T10:07:41.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091105017591910595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091105017591910595",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091104869604262000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 下面没有提示啊 人机不是有一串英文嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1888239230020661248",
+        "conversation_id": "2091104306460279053",
+        "created_at": "2026-08-22T10:07:06.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091104869604262000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091104869604262000",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091104306460279053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 这是人机哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2091105017591910595",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 507,
+          "like_count": 558,
+          "listed_count": 2,
+          "media_count": 112,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2091104869604262000",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 287,
+          "like_count": 35400,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 7850
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

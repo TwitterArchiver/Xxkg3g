@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2091450103538294929",
+    "created_at": "2026-08-23T10:05:04.000Z",
+    "display_text_range": [
+      10,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T11:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091466747606131045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2014548897969119232",
+          "start": 0,
+          "username": "wchnbovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091466747606131045",
+    "in_reply_to_user_id": "2014548897969119232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091462520825618748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wchnbovo 我特别害怕喝醉酒的人我不知道他会不会做出什么事情 所以我只能从根本解决问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2091450103538294929",
+        "created_at": "2026-08-23T10:05:04.000Z",
+        "display_text_range": [
+          10,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091466747606131045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2014548897969119232",
+              "start": 0,
+              "username": "wchnbovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091466747606131045",
+        "in_reply_to_user_id": "2014548897969119232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091462520825618748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wchnbovo 我特别害怕喝醉酒的人我不知道他会不会做出什么事情 所以我只能从根本解决问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014548897969119232",
+        "conversation_id": "2091450103538294929",
+        "created_at": "2026-08-23T09:48:17.000Z",
+        "display_text_range": [
+          8,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T10:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091462520825618748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091462520825618748",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091450103538294929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 其实抽烟喝酒挺正常的 不正常的是那些喝点酒就开始耍酒疯的人 抽烟的话好处就是男性的交际关系往往只需要递根烟就可以成为朋友 打开话匣子 不过要有自控 多抽也是不好的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2091466747606131045",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1538,
+          "following_count": 509,
+          "like_count": 561,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 2176
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-23T04:01:21.000Z",
+        "description": "",
+        "id": "2014548897969119232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091463163464327371",
+        "name": "Mikey Mikey",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014549114294525952/jE5gIJ6M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 90,
+          "like_count": 97,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 18
+        },
+        "url": "",
+        "username": "wchnbovo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

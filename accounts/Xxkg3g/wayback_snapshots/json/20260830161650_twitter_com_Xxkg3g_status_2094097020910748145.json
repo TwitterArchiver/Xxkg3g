@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2094031134002659796",
+    "created_at": "2026-08-30T16:16:50.000Z",
+    "display_text_range": [
+      11,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T17:16:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094097020910748145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1842979020570542080",
+          "start": 0,
+          "username": "7497_bety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094097020910748145",
+    "in_reply_to_user_id": "1842979020570542080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094032010167853346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7497_bety 嘿嘿！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2094031134002659796",
+        "created_at": "2026-08-30T16:16:50.000Z",
+        "display_text_range": [
+          11,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:16:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094097020910748145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1842979020570542080",
+              "start": 0,
+              "username": "7497_bety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094097020910748145",
+        "in_reply_to_user_id": "1842979020570542080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094032010167853346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7497_bety 嘿嘿！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842979020570542080",
+        "conversation_id": "2094031134002659796",
+        "created_at": "2026-08-30T11:58:31.000Z",
+        "display_text_range": [
+          8,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094032010167853346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094032010167853346",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094031134002659796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 就这样叽叽咕咕的说了这么多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2094097020910748145",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 544,
+          "like_count": 589,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 2509
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-06T17:23:44.000Z",
+        "description": "04 / ISTJ / 162  60kg / 75E\n全世界第一自恋，可爱又迷人的反派角色\n小号：@betygarden020，只过互关",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "betygarden020"
+              }
+            ]
+          }
+        },
+        "id": "1842979020570542080",
+        "is_identity_verified": false,
+        "location": "无门槛不闲聊，不交友不卖原味不线下",
+        "most_recent_tweet_id": "2094093606906970366",
+        "name": "小小的钠钾泵",
+        "pinned_tweet_id": "2083727660056744349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842979020570542080/1787305761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088854077740642304/LuxrIGMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7201,
+          "following_count": 481,
+          "like_count": 5555,
+          "listed_count": 18,
+          "media_count": 455,
+          "tweet_count": 3835
+        },
+        "url": "",
+        "username": "7497_bety",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

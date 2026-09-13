@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093515969679315316",
+    "created_at": "2026-08-29T01:47:57.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T02:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093515969679315316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tommy022873688…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/tommy022873688/status/2093385841133641817",
+          "start": 41,
+          "url": "https://t.co/d4t7VDo9O8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093515969679315316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093385841133641817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很多人都问我为什么不喜欢把情绪表达出来 如果当我说出来我就获得以下belike： https://t.co/d4t7VDo9O8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093515969679315316",
+        "created_at": "2026-08-29T01:47:57.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T02:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093515969679315316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tommy022873688…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/tommy022873688/status/2093385841133641817",
+              "start": 41,
+              "url": "https://t.co/d4t7VDo9O8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093515969679315316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093385841133641817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多人都问我为什么不喜欢把情绪表达出来 如果当我说出来我就获得以下belike： https://t.co/d4t7VDo9O8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640765720404344832",
+        "conversation_id": "2093242899064586273",
+        "created_at": "2026-08-28T17:10:52.000Z",
+        "display_text_range": [
+          23,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T18:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093385841133641817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2083063991824494592",
+              "start": 0,
+              "username": "juhoonz75i"
+            },
+            {
+              "end": 22,
+              "id": "2090485992373497856",
+              "start": 12,
+              "username": "Demonnn77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093385841133641817",
+        "in_reply_to_user_id": "2083063991824494592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15878,
+          "like_count": 0,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093342766642422237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juhoonz75i @Demonnn77 首先很感谢你特意打了一大段话回复我，不过请你不要带着怒气，我并没有说过博主是有多幸福的人，我只是不认可他对父母赡养的冷漠而已，他能发这么多贴子表达自己的感受我也相信他是恨比爱多，但是我不相信他一丁点美好没有感受过"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093515969679315316",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1663,
+          "following_count": 540,
+          "like_count": 586,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-28T17:20:18.000Z",
+        "description": "中华人民共和国万岁\n希望每个人都能健康快乐地幸福生活",
+        "id": "1640765720404344832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093497617582067832",
+        "name": "账号未注销",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092271894317916160/IqjLRkXd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 293,
+          "like_count": 1920,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "Tommy022873688",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T05:36:09.000Z",
+        "description": "",
+        "id": "2083063991824494592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093342766642422237",
+        "name": "juhoon",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092675236852539392/JuFvnvih_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "juhoonz75i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

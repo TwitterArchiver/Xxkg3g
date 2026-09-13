@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092195971040153797",
+    "created_at": "2026-08-25T11:07:11.000Z",
+    "display_text_range": [
+      14,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T12:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092207152161292518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906965920515551233",
+          "start": 0,
+          "username": "OrangeTsukii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092207152161292518",
+    "in_reply_to_user_id": "1906965920515551233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092195971040153797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrangeTsukii 我靠。竟然可以了解到这种程度！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092195971040153797",
+        "created_at": "2026-08-25T11:07:11.000Z",
+        "display_text_range": [
+          14,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T12:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092207152161292518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906965920515551233",
+              "start": 0,
+              "username": "OrangeTsukii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092207152161292518",
+        "in_reply_to_user_id": "1906965920515551233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092195971040153797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrangeTsukii 我靠。竟然可以了解到这种程度！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906965920515551233",
+        "conversation_id": "2092195971040153797",
+        "created_at": "2026-08-25T10:22:45.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T11:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092195971040153797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092195971040153797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我最害怕的人是前妻妹，最害怕的事情是被她翻到我的这条推特号。\n\n私以为她比我本人还要了解我自己，以至于她能从我的口癖，语气，互动判断出我在因谁开心，因谁内耗。了解太深甚至能读出我推文外隐藏的思绪和想表达的含义。所以我偷偷把她 Block 了，哈哈，呃。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092207152161292518",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 513,
+          "like_count": 573,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 2254
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "日本摇滚乐重度依赖",
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092202497402356149",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2089442888291938332",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1746148217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092182042708746240/2bOhDkc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 128,
+          "like_count": 8521,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 375
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

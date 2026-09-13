@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2096809593557115045",
+    "created_at": "2026-09-07T23:40:55.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T00:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097107878448423146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1662757137997778944",
+          "start": 0,
+          "username": "six919303018180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097107878448423146",
+    "in_reply_to_user_id": "1662757137997778944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096809593557115045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@six919303018180 我返校就这样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2096809593557115045",
+        "created_at": "2026-09-07T23:40:55.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T00:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097107878448423146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1662757137997778944",
+              "start": 0,
+              "username": "six919303018180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097107878448423146",
+        "in_reply_to_user_id": "1662757137997778944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096809593557115045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@six919303018180 我返校就这样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662757137997778944",
+        "conversation_id": "2096809593557115045",
+        "created_at": "2026-09-07T03:55:38.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096809593557115045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096809593557115045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4673,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每日最不幸：骑车上班路上一路绿灯"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2097107878448423146",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1870,
+          "following_count": 550,
+          "like_count": 587,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-28T09:46:45.000Z",
+        "description": "不看几把 不处不约\n匿名https://t.co/T2NSTzG20a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/six919303018180",
+                "end": 35,
+                "expanded_url": "https://ngl.link/six919303018180",
+                "start": 12,
+                "url": "https://t.co/T2NSTzG20a"
+              }
+            ]
+          }
+        },
+        "id": "1662757137997778944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096979921944080694",
+        "name": "woo",
+        "pinned_tweet_id": "2096610769085628706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662757137997778944/1770211558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019039678645833728/-PZPVIy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 88,
+          "like_count": 6499,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 2105
+        },
+        "url": "",
+        "username": "six919303018180",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

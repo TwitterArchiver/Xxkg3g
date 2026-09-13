@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2094401001180561762",
+    "created_at": "2026-08-31T12:37:37.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094404238709285028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2075655055076950016",
+          "start": 0,
+          "username": "Julyfuvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094404238709285028",
+    "in_reply_to_user_id": "2075655055076950016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094403126866710643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Julyfuvc 谢谢宝宝呀(´･ω･`)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2094401001180561762",
+        "created_at": "2026-08-31T12:37:37.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094404238709285028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2075655055076950016",
+              "start": 0,
+              "username": "Julyfuvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094404238709285028",
+        "in_reply_to_user_id": "2075655055076950016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094403126866710643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Julyfuvc 谢谢宝宝呀(´･ω･`)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075655055076950016",
+        "conversation_id": "2094401001180561762",
+        "created_at": "2026-08-31T12:33:12.000Z",
+        "display_text_range": [
+          8,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094403126866710643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094403126866710643",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094401001180561762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 宝宝你好瘦啊。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2094404238709285028",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 542,
+          "like_count": 590,
+          "listed_count": 2,
+          "media_count": 129,
+          "tweet_count": 2527
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-10T18:55:53.000Z",
+        "description": "泛性恋｜我喜欢和小女孩互fo\n欢迎找我聊天 找我打王者也可以",
+        "id": "2075655055076950016",
+        "is_identity_verified": false,
+        "location": "11.4km",
+        "most_recent_tweet_id": "2094403826208121134",
+        "name": "我只有一只猫",
+        "pinned_tweet_id": "2087026754036928957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075655055076950016/1784390127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078507782161231872/_iCzENKu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 30,
+          "like_count": 1459,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 198
+        },
+        "url": "",
+        "username": "Julyfuvc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

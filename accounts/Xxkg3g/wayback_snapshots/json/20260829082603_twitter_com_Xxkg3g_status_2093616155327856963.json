@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093515969679315316",
+    "created_at": "2026-08-29T08:26:03.000Z",
+    "display_text_range": [
+      11,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T09:26:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093616155327856963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2090485992373497856",
+          "start": 0,
+          "username": "Demonnn77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093616155327856963",
+    "in_reply_to_user_id": "2090485992373497856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093565948183953717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Demonnn77 抱抱你呀宝宝 不要被这种人影响心情(╥﹏╥)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093515969679315316",
+        "created_at": "2026-08-29T08:26:03.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093616155327856963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2090485992373497856",
+              "start": 0,
+              "username": "Demonnn77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093616155327856963",
+        "in_reply_to_user_id": "2090485992373497856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093565948183953717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Demonnn77 抱抱你呀宝宝 不要被这种人影响心情(╥﹏╥)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090485992373497856",
+        "conversation_id": "2093515969679315316",
+        "created_at": "2026-08-29T05:06:33.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093565948183953717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093565948183953717",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093515969679315316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我已急哭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093616155327856963",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1665,
+          "following_count": 541,
+          "like_count": 587,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 2453
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "🌈♀ 双相 老公奴 pr80梦女 阴间引路人\n突然消失就是被毒哑了 提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin_demon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin_demon",
+                "start": 0,
+                "url": "https://t.co/KR3neogsr1"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": ":3",
+        "most_recent_tweet_id": "2093612096709923146",
+        "name": "三清剑",
+        "pinned_tweet_id": "2093193687446819170",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091955819143462913/4omDxaX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 211,
+          "like_count": 2068,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/KR3neogsr1",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

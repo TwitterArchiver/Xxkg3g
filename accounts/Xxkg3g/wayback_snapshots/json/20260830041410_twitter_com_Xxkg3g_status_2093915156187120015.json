@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093914303048872099",
+    "created_at": "2026-08-30T04:14:10.000Z",
+    "display_text_range": [
+      13,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T05:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093915156187120015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013866507793793024",
+          "start": 0,
+          "username": "Nakg1Lovely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093915156187120015",
+    "in_reply_to_user_id": "2013866507793793024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093914995348406371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nakg1Lovely 凌晨睡了半个小时就起来了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093914303048872099",
+        "created_at": "2026-08-30T04:14:10.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093915156187120015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013866507793793024",
+              "start": 0,
+              "username": "Nakg1Lovely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093915156187120015",
+        "in_reply_to_user_id": "2013866507793793024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093914995348406371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nakg1Lovely 凌晨睡了半个小时就起来了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013866507793793024",
+        "conversation_id": "2093914303048872099",
+        "created_at": "2026-08-30T04:13:32.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093914995348406371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093914995348406371",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093914303048872099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 真的假的。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093915156187120015",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 546,
+          "like_count": 588,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 2488
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-21T06:50:06.000Z",
+        "description": "感谢喜欢感谢关注( ๑ ᴖ ᴈ ᴖ)ᴖ ᴑ ᴖ๑)\n法友@KittyTwTDoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "KittyTwTDoll"
+              }
+            ]
+          }
+        },
+        "id": "2013866507793793024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093914995348406371",
+        "name": "弹珠口袋",
+        "pinned_tweet_id": "2093537922490450385",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013866507793793024/1786521078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090984404940435456/Q8HyHknk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 38,
+          "like_count": 44,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "Nakg1Lovely",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

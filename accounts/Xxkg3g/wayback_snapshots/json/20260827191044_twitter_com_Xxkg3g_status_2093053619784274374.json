@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093051371436302502",
+    "created_at": "2026-08-27T19:10:44.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T20:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093053619784274374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2085333070249619457",
+          "start": 0,
+          "username": "yx0qq9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093053619784274374",
+    "in_reply_to_user_id": "2085333070249619457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093051371436302502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yx0qq9k 爱自己就是好宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093051371436302502",
+        "created_at": "2026-08-27T19:10:44.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093053619784274374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2085333070249619457",
+              "start": 0,
+              "username": "yx0qq9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093053619784274374",
+        "in_reply_to_user_id": "2085333070249619457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093051371436302502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yx0qq9k 爱自己就是好宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085333070249619457",
+        "conversation_id": "2093051371436302502",
+        "created_at": "2026-08-27T19:01:48.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T20:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093051371436302502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093051371436302502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为爱自己 痛苦做出选择在你看来算自私吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093053619784274374",
+        "name": "灸",
+        "pinned_tweet_id": "2093049134785741310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1611,
+          "following_count": 515,
+          "like_count": 587,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2374
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T11:54:09.000Z",
+        "description": "贱畜赶紧滚 老子爱发啥发啥",
+        "id": "2085333070249619457",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093051371436302502",
+        "name": "Eve",
+        "pinned_tweet_id": "2092680174500458522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085333070249619457/1786023874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090813218616967168/RUvmACx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 25,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 140
+        },
+        "url": "",
+        "username": "yx0qq9k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092168853413646709",
+    "created_at": "2026-08-25T08:34:59.000Z",
+    "display_text_range": [
+      0,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T09:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092168853413646709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xxkg3g/status/…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/xxkg3g/status/2090138696230256861",
+          "start": 104,
+          "url": "https://t.co/ZFL5JBdAQK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092168853413646709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090138696230256861",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是双性恋 我的前任是女孩 她把我掰弯 前段时间她加回来我跟我哭诉自己过的有多不好 我有点心疼但是也有点恶心 为什么女孩会这么心狠的对我 是她先表白的我 后面先是她伤害的我 或许我有点坏 坏到女孩都这么对我 https://t.co/ZFL5JBdAQK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092168853413646709",
+        "created_at": "2026-08-25T08:34:59.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092168853413646709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxkg3g/status/…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/xxkg3g/status/2090138696230256861",
+              "start": 104,
+              "url": "https://t.co/ZFL5JBdAQK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092168853413646709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090138696230256861",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是双性恋 我的前任是女孩 她把我掰弯 前段时间她加回来我跟我哭诉自己过的有多不好 我有点心疼但是也有点恶心 为什么女孩会这么心狠的对我 是她先表白的我 后面先是她伤害的我 或许我有点坏 坏到女孩都这么对我 https://t.co/ZFL5JBdAQK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2090138696230256861",
+        "created_at": "2026-08-19T18:07:52.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090138696230256861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090138696230256861",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15029,
+          "like_count": 191,
+          "quote_count": 1,
+          "reply_count": 79,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "我出车祸的时候为什么要跟别人聊骚 我生日的时候为什么要出轨为什么要让我看见你们的官宣 我容貌焦虑的时候为什么要嘲讽我 为什么要对我这么刻薄 我不是你女朋友吗 为什么为什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092168853413646709",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1566,
+          "following_count": 511,
+          "like_count": 572,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 2246
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

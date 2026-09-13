@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2096769393044636023",
+    "created_at": "2026-09-07T05:08:02.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T06:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096827811616973225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2095732446482321408",
+          "start": 0,
+          "username": "Scallop135"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096827811616973225",
+    "in_reply_to_user_id": "2095732446482321408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096810873171947597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scallop135 现在安排上！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2096769393044636023",
+        "created_at": "2026-09-07T05:08:02.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T06:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096827811616973225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2095732446482321408",
+              "start": 0,
+              "username": "Scallop135"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096827811616973225",
+        "in_reply_to_user_id": "2095732446482321408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096810873171947597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scallop135 现在安排上！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2095732446482321408",
+        "conversation_id": "2096769393044636023",
+        "created_at": "2026-09-07T04:00:43.000Z",
+        "display_text_range": [
+          8,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096810873171947597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096810873171947597",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096769393044636023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 宝宝还是补个午觉！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2096827811616973225",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 549,
+          "like_count": 589,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 2658
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-04T04:36:42.000Z",
+        "description": "恭迎扇贝三世@ZhengX50513\n放一个匿名https://t.co/7PoemaTQS9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "ZhengX50513"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhengx50513",
+                "end": 47,
+                "expanded_url": "https://ngl.link/zhengx50513",
+                "start": 24,
+                "url": "https://t.co/7PoemaTQS9"
+              }
+            ]
+          }
+        },
+        "id": "2095732446482321408",
+        "is_identity_verified": false,
+        "location": "2.14km",
+        "most_recent_tweet_id": "2096824825423573051",
+        "name": "此人绝非扇贝3.0",
+        "pinned_tweet_id": "2095747104643637482",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095733135120179200/BPztRND3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 45,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 298
+        },
+        "url": "",
+        "username": "Scallop135",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

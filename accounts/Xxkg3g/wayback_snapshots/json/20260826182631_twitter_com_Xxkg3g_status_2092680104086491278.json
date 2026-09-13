@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092679264336511172",
+    "created_at": "2026-08-26T18:26:31.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092680104086491278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092594263284711425",
+          "start": 0,
+          "username": "hukitou010203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092680104086491278",
+    "in_reply_to_user_id": "2092594263284711425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092679452509851750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hukitou010203 不错不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092679264336511172",
+        "created_at": "2026-08-26T18:26:31.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092680104086491278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092594263284711425",
+              "start": 0,
+              "username": "hukitou010203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092680104086491278",
+        "in_reply_to_user_id": "2092594263284711425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092679452509851750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hukitou010203 不错不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092594263284711425",
+        "conversation_id": "2092679264336511172",
+        "created_at": "2026-08-26T18:23:56.000Z",
+        "display_text_range": [
+          8,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092679452509851750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092679452509851750",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092679264336511172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 好"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092680104086491278",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 513,
+          "like_count": 581,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2331
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T12:48:29.000Z",
+        "description": "hukitou第四世｜男喘 / 唱歌 / 吉他 / 游戏\n青受向·女性向音频｜偶尔弹琴唱歌\n欢迎互fo & 点歌 & 点本",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hukitou2333",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hukitou2333",
+                "start": 0,
+                "url": "https://t.co/KcHrautbZp"
+              }
+            ]
+          }
+        },
+        "id": "2092594263284711425",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2092679452509851750",
+        "name": "狐狸",
+        "pinned_tweet_id": "2092597266775417142",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092594263284711425/1787757332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092645927853133824/lT3EGYHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 19,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/KcHrautbZp",
+        "username": "hukitou010203",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

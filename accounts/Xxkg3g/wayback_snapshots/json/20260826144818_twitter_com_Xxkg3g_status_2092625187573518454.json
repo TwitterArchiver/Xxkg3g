@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092546264286343329",
+    "created_at": "2026-08-26T14:48:18.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:48:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092625187573518454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1842979020570542080",
+          "start": 0,
+          "username": "7497_bety"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092625187573518454",
+    "in_reply_to_user_id": "1842979020570542080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092625046875537553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7497_bety 是呀是呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092546264286343329",
+        "created_at": "2026-08-26T14:48:18.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:48:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092625187573518454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1842979020570542080",
+              "start": 0,
+              "username": "7497_bety"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092625187573518454",
+        "in_reply_to_user_id": "1842979020570542080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092625046875537553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7497_bety 是呀是呀！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842979020570542080",
+        "conversation_id": "2092546264286343329",
+        "created_at": "2026-08-26T14:47:44.000Z",
+        "display_text_range": [
+          8,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092625046875537553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092625046875537553",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092546264286343329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 蛋挞好好吃，香芋地瓜丸好好吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092625187573518454",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 508,
+          "like_count": 581,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2315
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-06T17:23:44.000Z",
+        "description": "04 / ISTJ / 162  60kg / 75E\n全世界第一自恋，可爱又迷人的反派角色\n您的到来让我的老鼠洞蓬荜生辉",
+        "id": "1842979020570542080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092625184348151971",
+        "name": "小小的钠钾泵",
+        "pinned_tweet_id": "2083727660056744349",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842979020570542080/1787305761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088854077740642304/LuxrIGMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6894,
+          "following_count": 432,
+          "like_count": 4684,
+          "listed_count": 17,
+          "media_count": 417,
+          "tweet_count": 3377
+        },
+        "url": "",
+        "username": "7497_bety",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

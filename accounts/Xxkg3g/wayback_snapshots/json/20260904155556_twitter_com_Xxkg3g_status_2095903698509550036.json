@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2095900854377144707",
+    "created_at": "2026-09-04T15:55:56.000Z",
+    "display_text_range": [
+      15,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:55:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095903698509550036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2094299083749933056",
+          "start": 0,
+          "username": "Dream20090102"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095903698509550036",
+    "in_reply_to_user_id": "2094299083749933056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095901123890843881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream20090102 卧槽啊啊啊啊啊啊啊 还尴尬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2095900854377144707",
+        "created_at": "2026-09-04T15:55:56.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095903698509550036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2094299083749933056",
+              "start": 0,
+              "username": "Dream20090102"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095903698509550036",
+        "in_reply_to_user_id": "2094299083749933056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095901123890843881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream20090102 卧槽啊啊啊啊啊啊啊 还尴尬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094299083749933056",
+        "conversation_id": "2095900854377144707",
+        "created_at": "2026-09-04T15:45:42.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095901123890843881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095901123890843881",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095900854377144707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 我也是我靠 我的玩具就被发现了呵呵呵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2095903698509550036",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1778,
+          "following_count": 546,
+          "like_count": 590,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 2625
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T05:40:28.000Z",
+        "description": "喜欢萌萌的女孩子们和我聊天\n原号@dream090102\n💗@FLCm0NESY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "dream090102"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "FLCm0NESY"
+              }
+            ]
+          }
+        },
+        "id": "2094299083749933056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095902217102573746",
+        "name": "Dream",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094299083749933056/1788155073",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094299933448765440/2WSAsaGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 10,
+          "like_count": 202,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Dream20090102",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

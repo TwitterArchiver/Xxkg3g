@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093433567594369226",
+    "created_at": "2026-08-28T21:47:39.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T22:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093455494551670883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2081582720749359105",
+          "start": 0,
+          "username": "hengliiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093455494551670883",
+    "in_reply_to_user_id": "2081582720749359105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093444568473895017",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hengliiiii 谢谢宝宝(╥﹏╥)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093433567594369226",
+        "created_at": "2026-08-28T21:47:39.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093455494551670883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2081582720749359105",
+              "start": 0,
+              "username": "hengliiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093455494551670883",
+        "in_reply_to_user_id": "2081582720749359105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093444568473895017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hengliiiii 谢谢宝宝(╥﹏╥)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081582720749359105",
+        "conversation_id": "2093433567594369226",
+        "created_at": "2026-08-28T21:04:14.000Z",
+        "display_text_range": [
+          8,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T22:04:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093444568473895017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093444568473895017",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093433567594369226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 别怕宝宝 梦里都是假的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093455494551670883",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1660,
+          "following_count": 540,
+          "like_count": 586,
+          "listed_count": 2,
+          "media_count": 124,
+          "tweet_count": 2443
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T03:30:52.000Z",
+        "description": "好奇我？",
+        "id": "2081582720749359105",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093454385389166745",
+        "name": "怪我也没办法",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081582720749359105/1787948978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093435813619195904/Xtad11yc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "hengliiiii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

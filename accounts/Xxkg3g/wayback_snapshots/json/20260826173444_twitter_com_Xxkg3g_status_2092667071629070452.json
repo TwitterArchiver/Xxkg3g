@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092662827446059054",
+    "created_at": "2026-08-26T17:34:44.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:34:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092667071629070452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1498331786656448521",
+          "start": 0,
+          "username": "lovettovo030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092667071629070452",
+    "in_reply_to_user_id": "1498331786656448521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092662827446059054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovettovo030 老公😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092662827446059054",
+        "created_at": "2026-08-26T17:34:44.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092667071629070452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1498331786656448521",
+              "start": 0,
+              "username": "lovettovo030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092667071629070452",
+        "in_reply_to_user_id": "1498331786656448521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092662827446059054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovettovo030 老公😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498331786656448521",
+        "conversation_id": "2092662827446059054",
+        "created_at": "2026-08-26T17:17:52.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092662827446059054"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092662827446059054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雾草我大号登不进去了邮箱收不到验证码我好奔溃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092667071629070452",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 514,
+          "like_count": 581,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2326
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T16:18:45.000Z",
+        "description": "此账号发表的所有言论，意在取悦自己，并通过文字或图片强制干预他人的思想，如果翻阅之后出现不适等症状，恭喜你，你怀了我的孩子。",
+        "id": "1498331786656448521",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092662827446059054",
+        "name": "一只两脚兽",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498331786656448521/1786993945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089430011577061376/Zi5MeYsq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "lovettovo030",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

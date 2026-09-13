@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093817305650118925",
+    "created_at": "2026-08-29T22:33:05.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T23:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093829315888554353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028477701888380928",
+          "start": 0,
+          "username": "Loliangelcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093829315888554353",
+    "in_reply_to_user_id": "2028477701888380928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093817305650118925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Loliangelcn 这个人有点渣对谁都好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2093817295722143744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ67vKgWYAAOH7Q.jpg",
+        "width": 1168
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093817305650118925",
+        "created_at": "2026-08-29T22:33:05.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T23:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093829315888554353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028477701888380928",
+              "start": 0,
+              "username": "Loliangelcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093829315888554353",
+        "in_reply_to_user_id": "2028477701888380928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093817305650118925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Loliangelcn 这个人有点渣对谁都好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093817295722143744"
+          ]
+        },
+        "author_id": "2028477701888380928",
+        "conversation_id": "2093817305650118925",
+        "created_at": "2026-08-29T21:45:21.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T22:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093817305650118925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mZr2PbDj3y",
+              "end": 38,
+              "expanded_url": "https://x.com/Loliangelcn/status/2093817305650118925/photo/1",
+              "media_key": "3_2093817295722143744",
+              "start": 15,
+              "url": "https://t.co/mZr2PbDj3y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093817305650118925",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093817295722143744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那个不会在意我古怪性格的女孩 https://t.co/mZr2PbDj3y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093829315888554353",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 545,
+          "like_count": 588,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 2480
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-02T14:32:03.000Z",
+        "description": "🚪52 纯圈\n我爱发啥发啥 看不惯我你就去死",
+        "id": "2028477701888380928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093822696190599204",
+        "name": "小孤单",
+        "pinned_tweet_id": "2092668056124174339",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093678775112171520/WhSzLWDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 14,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "Loliangelcn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

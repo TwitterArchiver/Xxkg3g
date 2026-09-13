@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2097272433392697699",
+    "created_at": "2026-09-08T11:41:25.000Z",
+    "display_text_range": [
+      15,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T12:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097289199925809422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058319321441411072",
+          "start": 0,
+          "username": "7oveforever14"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097289199925809422",
+    "in_reply_to_user_id": "2058319321441411072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097272433392697699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7oveforever14 还有一种 比你痛苦的人多了去了你这才哪到哪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2097272433392697699",
+        "created_at": "2026-09-08T11:41:25.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097289199925809422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058319321441411072",
+              "start": 0,
+              "username": "7oveforever14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097289199925809422",
+        "in_reply_to_user_id": "2058319321441411072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097272433392697699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7oveforever14 还有一种 比你痛苦的人多了去了你这才哪到哪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058319321441411072",
+        "conversation_id": "2097272433392697699",
+        "created_at": "2026-09-08T10:34:48.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T11:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097272433392697699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097272433392697699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是你们能懂我其实非常讨厌别人跟我讲道理吗 我当下的情绪崩溃了 我想要的是有人安静陪伴或者稍加安抚 而不是跟我分析事实也不应该在这个状态下对我提出要求"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2097289199925809422",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 549,
+          "like_count": 587,
+          "listed_count": 3,
+          "media_count": 120,
+          "tweet_count": 2666
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T22:54:47.000Z",
+        "description": "ip意大利 水瓶座 isfp-t冒险家 \n09 0211 17 https://t.co/HhgNZjxcBt\n异性恋 当前恋爱中^ - ^\n我喜欢轻松自在的氛围\n回应有礼貌的正常人\n欢迎萌萌的小女孩们\n中意时差慢6h\n聊天纯绿 别辱骂别破防\n不看各种照片",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo41845",
+                "end": 55,
+                "expanded_url": "https://ngl.link/ovo41845",
+                "start": 32,
+                "url": "https://t.co/HhgNZjxcBt"
+              }
+            ]
+          }
+        },
+        "id": "2058319321441411072",
+        "is_identity_verified": false,
+        "location": "你家门口",
+        "most_recent_tweet_id": "2097284538766385357",
+        "name": "ovo",
+        "pinned_tweet_id": "2060169756691353744",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058319321441411072/1780748753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063236660062543872/PWeiXiaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 285,
+          "like_count": 2042,
+          "listed_count": 3,
+          "media_count": 355,
+          "tweet_count": 3615
+        },
+        "url": "",
+        "username": "7oveforever14",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

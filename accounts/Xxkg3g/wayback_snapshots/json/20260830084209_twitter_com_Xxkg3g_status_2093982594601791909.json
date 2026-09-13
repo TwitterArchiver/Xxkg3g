@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2093971751059558771",
+    "created_at": "2026-08-30T08:42:09.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093982594601791909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906965920515551233",
+          "start": 0,
+          "username": "OrangeTsukii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093982594601791909",
+    "in_reply_to_user_id": "1906965920515551233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093971751059558771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OrangeTsukii 好好听！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16346,
+        "height": 2560,
+        "media_key": "13_2093971694918774784",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093971694918774784/img/PrOrUYXjHizcBKEN.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093971694918774784/vid/avc1/480x1052/eA41WMBpfcL3EYMC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093971694918774784/vid/avc1/720x1580/t6SaMLMFVDucH0ws.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093971694918774784/vid/avc1/320x702/-zQY6Gr00EIe031C.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093971694918774784/pl/IuVn5ubNm31BYadB.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093971694918774784/vid/avc1/1166x2560/fWHGzykz0EjyiSul.mp4"
+          }
+        ],
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2093971751059558771",
+        "created_at": "2026-08-30T08:42:09.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093982594601791909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906965920515551233",
+              "start": 0,
+              "username": "OrangeTsukii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093982594601791909",
+        "in_reply_to_user_id": "1906965920515551233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093971751059558771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OrangeTsukii 好好听！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093971694918774784"
+          ]
+        },
+        "author_id": "1906965920515551233",
+        "conversation_id": "2093971751059558771",
+        "created_at": "2026-08-30T07:59:04.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:58:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093971542434783395",
+          "2093971751059558771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Us44fSAUfF",
+              "end": 63,
+              "expanded_url": "https://x.com/OrangeTsukii/status/2093971751059558771/video/1",
+              "media_key": "13_2093971694918774784",
+              "start": 40,
+              "url": "https://t.co/Us44fSAUfF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093971751059558771",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093971694918774784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唱歌最怕唱一半突然口胡\n我真的好满意这一遍，结果最后几句糊了，大草，我去背书了 https://t.co/Us44fSAUfF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2093982594601791909",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1715,
+          "following_count": 541,
+          "like_count": 590,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 2496
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-01T07:04:46.000Z",
+        "description": "日本摇滚乐重度依赖\n匿名消息https://t.co/9ReV73oVSL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orange81120",
+                "end": 37,
+                "expanded_url": "http://ngl.link/orange81120",
+                "start": 14,
+                "url": "https://t.co/9ReV73oVSL"
+              }
+            ]
+          }
+        },
+        "id": "1906965920515551233",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093979917474255323",
+        "name": "Tsukiyo",
+        "pinned_tweet_id": "2093111271000572202",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906965920515551233/1746148217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092182042708746240/2bOhDkc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 156,
+          "like_count": 10659,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "OrangeTsukii",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

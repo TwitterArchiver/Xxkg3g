@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092565493853172201",
+    "created_at": "2026-08-26T11:04:50.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T12:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092568950089687394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2085333070249619457",
+          "start": 0,
+          "username": "yx0qq9k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092568950089687394",
+    "in_reply_to_user_id": "2085333070249619457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092565493853172201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yx0qq9k 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3509,
+        "media_key": "3_2092565483916804096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpJOIIawAAEhGx.jpg",
+        "width": 2304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092565493853172201",
+        "created_at": "2026-08-26T11:04:50.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092568950089687394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2085333070249619457",
+              "start": 0,
+              "username": "yx0qq9k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092568950089687394",
+        "in_reply_to_user_id": "2085333070249619457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092565493853172201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yx0qq9k 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092565483916804096"
+          ]
+        },
+        "author_id": "2085333070249619457",
+        "conversation_id": "2092565493853172201",
+        "created_at": "2026-08-26T10:51:06.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092565493853172201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iBqZrNl534",
+              "end": 23,
+              "expanded_url": "https://x.com/yx0qq9k/status/2092565493853172201/photo/1",
+              "media_key": "3_2092565483916804096",
+              "start": 0,
+              "url": "https://t.co/iBqZrNl534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092565493853172201",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092565483916804096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iBqZrNl534"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092568950089687394",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 517,
+          "like_count": 579,
+          "listed_count": 2,
+          "media_count": 121,
+          "tweet_count": 2300
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-06T11:54:09.000Z",
+        "description": "星星",
+        "id": "2085333070249619457",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092565493853172201",
+        "name": "Eve",
+        "pinned_tweet_id": "2091993730043805746",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085333070249619457/1786023874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090813218616967168/RUvmACx5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 26,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 119
+        },
+        "url": "",
+        "username": "yx0qq9k",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

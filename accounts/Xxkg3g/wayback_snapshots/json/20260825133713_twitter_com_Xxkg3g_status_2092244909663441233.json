@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092219872931668200",
+    "created_at": "2026-08-25T13:37:13.000Z",
+    "display_text_range": [
+      10,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T14:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092244909663441233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1974830393900892160",
+          "start": 0,
+          "username": "RimeinYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092244909663441233",
+    "in_reply_to_user_id": "1974830393900892160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092243200668741734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RimeinYu 不好意思 我是发朋友圈清列"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092219872931668200",
+        "created_at": "2026-08-25T13:37:13.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092244909663441233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1974830393900892160",
+              "start": 0,
+              "username": "RimeinYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092244909663441233",
+        "in_reply_to_user_id": "1974830393900892160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092243200668741734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RimeinYu 不好意思 我是发朋友圈清列"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974830393900892160",
+        "conversation_id": "2092219872931668200",
+        "created_at": "2026-08-25T13:30:25.000Z",
+        "display_text_range": [
+          8,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092243200668741734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2040496801401425920",
+              "start": 0,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092243200668741734",
+        "in_reply_to_user_id": "2040496801401425920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092219872931668200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxkg3g 那对方一次次加你回来他的尊严何在，非得把别人的尊严踩在脚下让别人委曲求全才感受到自己被人重视吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092244909663441233",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1574,
+          "following_count": 514,
+          "like_count": 575,
+          "listed_count": 2,
+          "media_count": 119,
+          "tweet_count": 2266
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T13:33:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimelne1400",
+                "end": 23,
+                "expanded_url": "https://t.me/rimelne1400",
+                "start": 0,
+                "url": "https://t.co/glFlnYCTpn"
+              }
+            ]
+          }
+        },
+        "id": "1974830393900892160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092243200668741734",
+        "name": "蛇",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974830393900892160/1759682336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984159634035503104/L9p51nYc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 3,
+          "like_count": 487,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/glFlnYCTpn",
+        "username": "RimeinYu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

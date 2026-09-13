@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091979745026248704",
+        "3_2091979745055617024"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2091979775799955866",
+    "created_at": "2026-08-24T20:03:40.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T21:03:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091979775799955866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ef7e9GSZfC",
+          "end": 32,
+          "expanded_url": "https://x.com/Xxkg3g/status/2091979775799955866/photo/1",
+          "media_key": "3_2091979745026248704",
+          "start": 9,
+          "url": "https://t.co/ef7e9GSZfC"
+        },
+        {
+          "display_url": "pic.x.com/ef7e9GSZfC",
+          "end": 32,
+          "expanded_url": "https://x.com/Xxkg3g/status/2091979775799955866/photo/1",
+          "media_key": "3_2091979745055617024",
+          "start": 9,
+          "url": "https://t.co/ef7e9GSZfC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091979775799955866",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091979745026248704"
+      },
+      {
+        "media_key": "3_2091979745055617024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "破防逼 你就是丑 https://t.co/ef7e9GSZfC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091979745026248704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQg0fouaEAACQSN.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091979745055617024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQg0fo1aMAAe1sg.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091979745026248704",
+            "3_2091979745055617024"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2091979775799955866",
+        "created_at": "2026-08-24T20:03:40.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T21:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091979775799955866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ef7e9GSZfC",
+              "end": 32,
+              "expanded_url": "https://x.com/Xxkg3g/status/2091979775799955866/photo/1",
+              "media_key": "3_2091979745026248704",
+              "start": 9,
+              "url": "https://t.co/ef7e9GSZfC"
+            },
+            {
+              "display_url": "pic.x.com/ef7e9GSZfC",
+              "end": 32,
+              "expanded_url": "https://x.com/Xxkg3g/status/2091979775799955866/photo/1",
+              "media_key": "3_2091979745055617024",
+              "start": 9,
+              "url": "https://t.co/ef7e9GSZfC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091979775799955866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091979745026248704"
+          },
+          {
+            "media_key": "3_2091979745055617024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "破防逼 你就是丑 https://t.co/ef7e9GSZfC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|直fo就是喜欢你 防走丢@xiaolingii9\n我来自农村，没出过省，家境普通，没有工作，眼界有限。别来和我对线，留一点善意，让我安静消失。要是很讨厌我，方法很简单：举起你的手机狠狠砸向地板，这样我就消失了。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2091979775799955866",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 511,
+          "like_count": 572,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 2238
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

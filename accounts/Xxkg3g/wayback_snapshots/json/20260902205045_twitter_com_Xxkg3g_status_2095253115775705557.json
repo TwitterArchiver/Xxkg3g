@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2095210208868159596",
+    "created_at": "2026-09-02T20:50:45.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T21:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095253115775705557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1839429620489437184",
+          "start": 0,
+          "username": "lovexuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095253115775705557",
+    "in_reply_to_user_id": "1839429620489437184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095210208868159596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovexuyu 上天没有给我安装😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2095210208868159596",
+        "created_at": "2026-09-02T20:50:45.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095253115775705557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1839429620489437184",
+              "start": 0,
+              "username": "lovexuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095253115775705557",
+        "in_reply_to_user_id": "1839429620489437184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095210208868159596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovexuyu 上天没有给我安装😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839429620489437184",
+        "conversation_id": "2095210208868159596",
+        "created_at": "2026-09-02T18:00:15.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T19:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095210208868159596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095210208868159596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 694,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人现在立马把几把砍掉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2095253115775705557",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1761,
+          "following_count": 546,
+          "like_count": 586,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 2570
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T22:19:44.000Z",
+        "description": "另一个我 @Nanloveyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "Nanloveyu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%A8%9A1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%A8%9A1",
+                "start": 0,
+                "url": "https://t.co/SL8Dvlq12c"
+              }
+            ]
+          }
+        },
+        "id": "1839429620489437184",
+        "is_identity_verified": false,
+        "location": "无🚪",
+        "most_recent_tweet_id": "2095234640231743803",
+        "name": "稚",
+        "pinned_tweet_id": "2093437339309912256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839429620489437184/1775337618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040539854396850176/4VfjsB2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 32,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/SL8Dvlq12c",
+        "username": "lovexuyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

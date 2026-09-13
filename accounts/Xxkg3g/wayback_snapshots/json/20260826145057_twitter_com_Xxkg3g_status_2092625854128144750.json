@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092625828542898176"
+      ]
+    },
+    "author_id": "2040496801401425920",
+    "conversation_id": "2092625854128144750",
+    "created_at": "2026-08-26T14:50:57.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T15:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092625854128144750"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CNgln8sSwF",
+          "end": 23,
+          "expanded_url": "https://x.com/Xxkg3g/status/2092625854128144750/photo/1",
+          "media_key": "3_2092625828542898176",
+          "start": 0,
+          "url": "https://t.co/CNgln8sSwF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092625854128144750",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2092625828542898176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/CNgln8sSwF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092625828542898176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqAGpYbYAAO-QG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092625828542898176"
+          ]
+        },
+        "author_id": "2040496801401425920",
+        "conversation_id": "2092625854128144750",
+        "created_at": "2026-08-26T14:50:57.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092625854128144750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CNgln8sSwF",
+              "end": 23,
+              "expanded_url": "https://x.com/Xxkg3g/status/2092625854128144750/photo/1",
+              "media_key": "3_2092625828542898176",
+              "start": 0,
+              "url": "https://t.co/CNgln8sSwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092625854128144750",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092625828542898176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CNgln8sSwF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2092625854128144750",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593,
+          "following_count": 508,
+          "like_count": 581,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 2317
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

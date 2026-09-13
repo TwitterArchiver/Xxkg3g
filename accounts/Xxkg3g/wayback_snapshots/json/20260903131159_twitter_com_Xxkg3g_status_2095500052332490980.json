@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2095470008365421054",
+    "created_at": "2026-09-03T13:11:59.000Z",
+    "display_text_range": [
+      8,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T14:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095500052332490980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095500052332490980",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095470008365421054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS 世界上最善良最可爱的。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095469942460321792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSaz3XbEAAF4pr.jpg",
+        "width": 1862
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2095469960021901312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSa04ybgAAYTae.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2095469978187399168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSa18dbAAATXqw.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_2095469991118471168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSa2sobgAAp_Im.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2095470008365421054",
+        "created_at": "2026-09-03T13:11:59.000Z",
+        "display_text_range": [
+          8,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T14:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095500052332490980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095500052332490980",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095470008365421054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS 世界上最善良最可爱的。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095469942460321792",
+            "3_2095469960021901312",
+            "3_2095469978187399168",
+            "3_2095469991118471168"
+          ]
+        },
+        "author_id": "2998529749",
+        "conversation_id": "2095470008365421054",
+        "created_at": "2026-09-03T11:12:36.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095470008365421054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aqn7oJAnpS",
+              "end": 40,
+              "expanded_url": "https://x.com/STULRS/status/2095470008365421054/photo/1",
+              "media_key": "3_2095469942460321792",
+              "start": 17,
+              "url": "https://t.co/Aqn7oJAnpS"
+            },
+            {
+              "display_url": "pic.x.com/Aqn7oJAnpS",
+              "end": 40,
+              "expanded_url": "https://x.com/STULRS/status/2095470008365421054/photo/1",
+              "media_key": "3_2095469960021901312",
+              "start": 17,
+              "url": "https://t.co/Aqn7oJAnpS"
+            },
+            {
+              "display_url": "pic.x.com/Aqn7oJAnpS",
+              "end": 40,
+              "expanded_url": "https://x.com/STULRS/status/2095470008365421054/photo/1",
+              "media_key": "3_2095469978187399168",
+              "start": 17,
+              "url": "https://t.co/Aqn7oJAnpS"
+            },
+            {
+              "display_url": "pic.x.com/Aqn7oJAnpS",
+              "end": 40,
+              "expanded_url": "https://x.com/STULRS/status/2095470008365421054/photo/1",
+              "media_key": "3_2095469991118471168",
+              "start": 17,
+              "url": "https://t.co/Aqn7oJAnpS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095470008365421054",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095469942460321792"
+          },
+          {
+            "media_key": "3_2095469960021901312"
+          },
+          {
+            "media_key": "3_2095469978187399168"
+          },
+          {
+            "media_key": "3_2095469991118471168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世界上不能没有冷冷。爱你呀宝贝。 https://t.co/Aqn7oJAnpS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2095500052332490980",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 545,
+          "like_count": 588,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 2579
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0  （18↓）\n双向情感障碍|抽烟🚬|戒o|戒割|想到啥说啥|碎碎念| cult|上学版本，上学ing........（冒泡勿喷\n此处为情绪垃圾桶🗑️\n你觉得我咋样就咋样，跟我没关系。\n欢迎女宝互fo\n滚",
+        "id": "2998529749",
+        "is_identity_verified": false,
+        "location": "宇宙的这一端",
+        "most_recent_tweet_id": "2095494469877649727",
+        "name": "燚",
+        "pinned_tweet_id": "2091208055379906954",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2998529749/1787910736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093757192629547008/dVI5lLV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 616,
+          "like_count": 43344,
+          "listed_count": 1,
+          "media_count": 596,
+          "tweet_count": 15087
+        },
+        "url": "",
+        "username": "STULRS",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

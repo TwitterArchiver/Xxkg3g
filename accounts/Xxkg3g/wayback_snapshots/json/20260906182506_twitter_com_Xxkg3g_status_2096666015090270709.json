@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2040496801401425920",
+    "conversation_id": "2096666015090270709",
+    "created_at": "2026-09-06T18:25:06.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T19:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096666015090270709"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2096666015090270709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我朋友她俩特别的纯情 在我印象里也是 其实我是一个特别恶俗的人 但是因为她们过于纯情我只能装 到今天晚上的晚自习她和她同桌跟我说好多骚话还有黄片 还有一些在床上可以对着未来对象说出来的话 我当时满脑子震惊 我问你看这种吗 她说这不是很正常吗 当然正常但是当时我开黄色玩笑你咋个不是这反应😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2096666015090270709",
+        "created_at": "2026-09-06T18:25:06.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096666015090270709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096666015090270709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友她俩特别的纯情 在我印象里也是 其实我是一个特别恶俗的人 但是因为她们过于纯情我只能装 到今天晚上的晚自习她和她同桌跟我说好多骚话还有黄片 还有一些在床上可以对着未来对象说出来的话 我当时满脑子震惊 我问你看这种吗 她说这不是很正常吗 当然正常但是当时我开黄色玩笑你咋个不是这反应😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念｜直fo就是喜欢你 防丢号@xiaolingii9\n一个可爱的人正在浏览我的主页",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "xiaolingii9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkGSB7"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "is_identity_verified": false,
+        "location": "匿名箱➡️",
+        "most_recent_tweet_id": "2096666015090270709",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040496801401425920/1787381629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082455513657163777/DTzFWFLf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812,
+          "following_count": 548,
+          "like_count": 590,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 2643
+        },
+        "url": "https://t.co/xlzIlkGSB7",
+        "username": "Xxkg3g",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
